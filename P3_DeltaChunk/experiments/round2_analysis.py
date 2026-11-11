@@ -489,6 +489,11 @@ def tex():
     sp = pd.read_csv(os.path.join(OUT, "matched_size_spreads.csv"))
     kl = pd.read_csv(os.path.join(OUT, "kara_lead.csv"))
     t = t[t.size_label.eq("common")]
+    # Achieved sizes come from the unrounded edit-weighted means: formatting the CSV's one-decimal values again rounded
+    # twice (122.506 -> 122.5 -> 122), so six cells disagreed by one token with Fig. 1, which uses the unrounded means.
+    ach_e1 = pd.read_parquet(os.path.join(RESULTS, "e1_edits.parquet"), columns=["stream", "chunker", "T", "chunk_tok_mean"],
+                             filters=[("interval", "==", "revision"), ("T", "in", [128, 200, 320])]
+                             ).groupby(["chunker", "stream", "T"]).chunk_tok_mean.mean()
     order = ["FIX", "FIXO", "REC", "STRUCT-M", "SentCDC", "GCDC", "BCDC", "KARA", "DIFF[REC]", "DIFF[STRUCT-M]", "STL", "STL+snap"]
     prov = {"REC": "3rd", "BCDC": "3rd+", "STL": "3rd*", "STL+snap": "3rd*", "KARA": "3rd*"}
     lines = []
@@ -496,7 +501,7 @@ def tex():
         cells = [f"\\cn{{{ch}}}"]
         for s in STREAMS:
             r = t[(t.stream == s) & (t.chunker == ch)].iloc[0]
-            ach = "/".join(f"{r[f'achieved_T{T}']:.0f}" for T in (128, 200, 320))
+            ach = "/".join(f"{ach_e1.get((ch, s, T), r[f'achieved_T{T}']):.0f}" for T in (128, 200, 320))
             if r.supported:
                 cost = f"{100 * r.cost:.1f} [{100 * r.ci_lo:.1f}, {100 * r.ci_hi:.1f}]"
             else:
