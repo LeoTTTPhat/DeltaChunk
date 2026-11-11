@@ -1,0 +1,62 @@
+{
+ "stream": "cpy",
+ "r": 7,
+ "lam": 0.5,
+ "edits": 2258,
+ "guard_edits": 854,
+ "covered_edits": 1404,
+ "covered_share": 0.6217891939769707,
+ "viol_ins": 0,
+ "viol_del": 0,
+ "mean_ins": 3.0465013286093887,
+ "mean_bound": 8.630646589902568,
+ "mc_edits": 300,
+ "mc_mean_pred": 1.27285,
+ "mc_mean_meas": 1.3,
+ "meta": {
+  "time": "2026-11-09 16:28:25",
+  "host": "arm64",
+  "python": "3.12.12",
+  "versions": {
+   "numpy": "2.5.4",
+   "pandas": "3.1.1",
+   "langchain-text-splitters": "1.1.3",
+   "kara-toolkit": "0.3.2",
+   "steadlith": "1.0.1",
+   "fastcdc": "1.7.0",
+   "tokenizers": "0.22.2",
+   "sentence-transformers": "5.7.0",
+   "transformers": "4.57.6",
+   "torch": "2.15.0",
+   "hnswlib": "0.8.0",
+   "faiss-cpu": "1.15.1"
+  },
+  "threads": {
+   "P3_THREADS": 8,
+   "RAYON_NUM_THREADS": "8",
+   "TOKENIZERS_PARALLELISM": null,
+   "OMP_NUM_THREADS": "8"
+  },
+  "load": {
+   "top10": [
+    "105.1 30990512 llama-server",
+    "100.0 403040 python",
+    "99.6 658784 decoder",
+    "99.6 4868608 python",
+    "99.4 707552 decoder",
+    "99.4 663376 decoder",
+    "99.0 708736 python",
+    "98.7 589216 python",
+    "98.5 402960 INDEX",
+    "97.7 704912 decoder"
+   ],
+   "memwatch": {
+    "ts": "2026-11-09 16:28:21",
+    "project_gb": 27.76,
+    "system_gb": 355.39
+   }
+  },
+  "seconds": 13.9,
+  "procs": 3
+ }
+}

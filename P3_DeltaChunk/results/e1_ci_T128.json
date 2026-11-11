@@ -1,0 +1,80 @@
+{
+ "summary": {
+  "cpy": {
+   "min_mean": 0.0633766372209252,
+   "max_mean": 0.08886491434466133,
+   "lowest_ci_hi": 0.07100324978836116,
+   "highest_ci_lo": 0.08039156539642395,
+   "all_cis_overlap": false,
+   "n_configs": 8,
+   "max_abs_paired_diff_vs_REC": 0.025488277123736136
+  },
+  "k8s": {
+   "min_mean": 0.1338282932122025,
+   "max_mean": 0.16728522954830094,
+   "lowest_ci_hi": 0.1437161229187812,
+   "highest_ci_lo": 0.15566191590100525,
+   "all_cis_overlap": false,
+   "n_configs": 8,
+   "max_abs_paired_diff_vs_REC": 0.03137676959536167
+  },
+  "wiki": {
+   "min_mean": 0.2580955639761049,
+   "max_mean": 0.30813910447502046,
+   "lowest_ci_hi": 0.2682117818297457,
+   "highest_ci_lo": 0.29615537691096216,
+   "all_cis_overlap": false,
+   "n_configs": 8,
+   "max_abs_paired_diff_vs_REC": 0.04718890806615044
+  }
+ },
+ "B": 2000,
+ "cluster": "document",
+ "T": 128,
+ "interval": "revision",
+ "scope": "S1",
+ "meta": {
+  "time": "2026-11-09 22:00:27",
+  "host": "arm64",
+  "python": "3.12.12",
+  "versions": {
+   "numpy": "2.5.4",
+   "pandas": "3.1.1",
+   "langchain-text-splitters": "1.1.3",
+   "kara-toolkit": "0.3.2",
+   "steadlith": "1.0.1",
+   "fastcdc": "1.7.0",
+   "tokenizers": "0.22.2",
+   "sentence-transformers": "5.7.0",
+   "transformers": "4.57.6",
+   "torch": "2.15.0",
+   "hnswlib": "0.8.0",
+   "faiss-cpu": "1.15.1"
+  },
+  "threads": {
+   "P3_THREADS": 8,
+   "RAYON_NUM_THREADS": "2",
+   "TOKENIZERS_PARALLELISM": null,
+   "OMP_NUM_THREADS": "2"
+  },
+  "load": {
+   "top10": [
+    "737.4 3127552 python",
+    "107.3 12216848 llama-server",
+    "100.0 1010112 python",
+    "100.0 1104224 python",
+    "99.0 2833312 python",
+    "98.8 1733984 python",
+    "98.1 1907632 python",
+    "98.1 5825152 mds_stores",
+    "95.6 2033552 python",
+    "95.1 3012720 python"
+   ],
+   "memwatch": {
+    "ts": "2026-11-09 22:00:27",
+    "project_gb": 30.26,
+    "system_gb": 420.23
+   }
+  }
+ }
+}

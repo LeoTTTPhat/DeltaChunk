@@ -1,0 +1,16 @@
+qid,stream,chunker,proximal,evidence_present,rank_first,bg_mode,bg_chunks,ndcg10,recall@1024,recall_lex@1024,used_tok@1024,recall@2048,recall_lex@2048,used_tok@2048
+dbe0b8233e85,wiki,REC-stale20,True,False,-1,native,2000,0.0,0,0,975,0,1,2023
+fcadceb8cfeb,wiki,REC-stale20,True,False,-1,native,2000,0.0,0,0,1011,0,0,2045
+297c2c0bf273,wiki,REC-stale20,False,True,0,native,2000,1.0,1,1,988,1,1,2032
+d998513499bd,wiki,REC-stale20,True,False,-1,native,2000,0.0,0,0,983,0,0,2012
+df286d937ef7,wiki,REC-stale20,False,True,1,native,2000,0.6309297535714575,1,1,1010,1,1,2041
+91513946b86f,k8s,REC-stale20,True,False,-1,native,2000,0.0,0,0,1005,0,0,2041
+2003607e4a6d,k8s,REC-stale20,False,True,0,native,2000,1.0,1,1,980,1,1,2030
+e1ebaadb9a28,k8s,REC-stale20,False,True,2,native,2000,0.5,1,1,1023,1,1,2018
+3eddeede7d48,k8s,REC-stale20,True,False,-1,native,2000,0.0,0,0,970,0,0,2040
+82ca50939663,k8s,REC-stale20,True,False,-1,native,2000,0.0,0,1,952,0,1,2033
+e48f3862c27e,cpy,REC-stale20,False,True,0,native,2000,1.0,1,1,1014,1,1,2010
+3d5def529d50,cpy,REC-stale20,False,True,0,native,2000,1.0,1,1,949,1,1,2045
+1fa0e4473191,cpy,REC-stale20,False,True,-1,native,2000,0.0,0,0,985,0,0,2024
+cd65c8683a70,cpy,REC-stale20,False,True,0,native,2000,1.0,1,1,992,1,1,1988
+4a5b4468c689,cpy,REC-stale20,False,True,27,native,2000,0.0,0,0,1006,0,0,2017

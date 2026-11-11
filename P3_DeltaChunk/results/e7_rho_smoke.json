@@ -1,0 +1,50 @@
+{
+ "real_vectors": 47398,
+ "rho_20000": 2.436423333998391,
+ "meta": {
+  "time": "2026-11-09 16:53:49",
+  "host": "arm64",
+  "python": "3.12.12",
+  "versions": {
+   "numpy": "2.5.4",
+   "pandas": "3.1.1",
+   "langchain-text-splitters": "1.1.3",
+   "kara-toolkit": "0.3.2",
+   "steadlith": "1.0.1",
+   "fastcdc": "1.7.0",
+   "tokenizers": "0.22.2",
+   "sentence-transformers": "5.7.0",
+   "transformers": "4.57.6",
+   "torch": "2.15.0",
+   "hnswlib": "0.8.0",
+   "faiss-cpu": "1.15.1"
+  },
+  "threads": {
+   "P3_THREADS": 8,
+   "RAYON_NUM_THREADS": "8",
+   "TOKENIZERS_PARALLELISM": null,
+   "OMP_NUM_THREADS": "8"
+  },
+  "load": {
+   "top10": [
+    "98.8 1423360 python",
+    "98.8 659888 decoder",
+    "98.8 1396992 python",
+    "98.3 2838816 python",
+    "98.2 1341920 python",
+    "98.2 8352 top",
+    "97.8 661632 decoder",
+    "97.8 650336 decoder",
+    "97.2 1416208 python",
+    "96.8 665344 decoder"
+   ],
+   "memwatch": {
+    "ts": "2026-11-09 16:53:48",
+    "project_gb": 23.92,
+    "system_gb": 372.28
+   }
+  },
+  "build_threads": 8,
+  "note": "vectors beyond the real cached ones are perturbed copies (labeled)"
+ }
+}

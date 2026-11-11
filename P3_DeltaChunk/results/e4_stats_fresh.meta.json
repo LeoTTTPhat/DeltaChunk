@@ -1,0 +1,47 @@
+{
+ "time": "2026-11-10 03:06:40",
+ "host": "arm64",
+ "python": "3.12.12",
+ "versions": {
+  "numpy": "2.5.4",
+  "pandas": "3.1.1",
+  "langchain-text-splitters": "1.1.3",
+  "kara-toolkit": "0.3.2",
+  "steadlith": "1.0.1",
+  "fastcdc": "1.7.0",
+  "tokenizers": "0.22.2",
+  "sentence-transformers": "5.7.0",
+  "transformers": "4.57.6",
+  "torch": "2.15.0",
+  "hnswlib": "0.8.0",
+  "faiss-cpu": "1.15.1"
+ },
+ "threads": {
+  "P3_THREADS": 8,
+  "RAYON_NUM_THREADS": "8",
+  "TOKENIZERS_PARALLELISM": null,
+  "OMP_NUM_THREADS": "8"
+ },
+ "load": {
+  "top10": [
+   "125.5 5122016 mds_stores",
+   "78.1 25422656 llama-server",
+   "74.8 229712 python",
+   "67.4 105552 mds",
+   "58.2 22638000 llama-server",
+   "52.3 527504 curl_fuzzer_http",
+   "43.4 14144 contextstored",
+   "41.5 501712 curl_fuzzer_http",
+   "27.9 525232 curl_fuzzer_http",
+   "27.3 562800 curl_fuzzer"
+  ],
+  "memwatch": {
+   "ts": "2026-11-10 03:06:39",
+   "project_gb": 3.55,
+   "system_gb": 336.03
+  }
+ },
+ "metric": "recall@1024",
+ "ref": "REC",
+ "margin": 0.02
+}

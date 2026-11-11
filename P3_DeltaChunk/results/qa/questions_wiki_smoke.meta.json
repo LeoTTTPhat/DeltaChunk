@@ -1,0 +1,66 @@
+{
+ "stream": "wiki",
+ "candidates": 8,
+ "kept": 5,
+ "rejected": {
+  "parse": 0,
+  "not_in_evidence": 1,
+  "in_question": 0,
+  "too_long": 0,
+  "not_question": 0
+ },
+ "proximal": 3,
+ "llm": {
+  "calls": 3,
+  "hits": 5,
+  "seconds": 24.039610332001757,
+  "prompt_tokens": 551,
+  "completion_tokens": 78
+ },
+ "meta": {
+  "time": "2026-11-09 16:27:22",
+  "host": "arm64",
+  "python": "3.12.12",
+  "versions": {
+   "numpy": "2.5.4",
+   "pandas": "3.1.1",
+   "langchain-text-splitters": "1.1.3",
+   "kara-toolkit": "0.3.2",
+   "steadlith": "1.0.1",
+   "fastcdc": "1.7.0",
+   "tokenizers": "0.22.2",
+   "sentence-transformers": "5.7.0",
+   "transformers": "4.57.6",
+   "torch": "2.15.0",
+   "hnswlib": "0.8.0",
+   "faiss-cpu": "1.15.1"
+  },
+  "threads": {
+   "P3_THREADS": 8,
+   "RAYON_NUM_THREADS": "8",
+   "TOKENIZERS_PARALLELISM": null,
+   "OMP_NUM_THREADS": "8"
+  },
+  "load": {
+   "top10": [
+    "109.3 30990528 llama-server",
+    "100.0 712608 python",
+    "100.0 571776 python",
+    "100.0 658048 decoder",
+    "99.8 683664 decoder",
+    "99.8 681728 decoder",
+    "99.5 400976 python",
+    "99.2 661712 decoder",
+    "99.0 457808 INDEX",
+    "98.4 10024704 llama-server"
+   ],
+   "memwatch": {
+    "ts": "2026-11-09 16:27:20",
+    "project_gb": 19.48,
+    "system_gb": 342.35
+   }
+  },
+  "seconds": 10.4,
+  "llm_model": "qwen3:8b"
+ }
+}

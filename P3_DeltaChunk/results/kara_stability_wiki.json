@@ -1,0 +1,138 @@
+{
+ "summary": [
+  {
+   "chunker": "DIFF[REC]",
+   "measure": "final_monthly_vs_fresh",
+   "mean": 0.2338986840922621,
+   "median": 0.19999999999999996,
+   "size": 1000
+  },
+  {
+   "chunker": "DIFF[REC]",
+   "measure": "final_revision_vs_fresh",
+   "mean": 0.32789680920586917,
+   "median": 0.30000000000000004,
+   "size": 1000
+  },
+  {
+   "chunker": "DIFF[REC]",
+   "measure": "final_revision_vs_monthly",
+   "mean": 0.18437202182369897,
+   "median": 0.125,
+   "size": 1000
+  },
+  {
+   "chunker": "DIFF[REC]",
+   "measure": "one_edit_vs_fresh",
+   "mean": 0.0511614117842364,
+   "median": 0.04,
+   "size": 1000
+  },
+  {
+   "chunker": "DIFF[STRUCT-M]",
+   "measure": "final_monthly_vs_fresh",
+   "mean": 0.2417261281200235,
+   "median": 0.22967032967032963,
+   "size": 1000
+  },
+  {
+   "chunker": "DIFF[STRUCT-M]",
+   "measure": "final_revision_vs_fresh",
+   "mean": 0.2985066751525722,
+   "median": 0.2857142857142857,
+   "size": 1000
+  },
+  {
+   "chunker": "DIFF[STRUCT-M]",
+   "measure": "final_revision_vs_monthly",
+   "mean": 0.15933793837322857,
+   "median": 0.11111111111111116,
+   "size": 1000
+  },
+  {
+   "chunker": "DIFF[STRUCT-M]",
+   "measure": "one_edit_vs_fresh",
+   "mean": 0.05912747773767148,
+   "median": 0.04156162464985995,
+   "size": 1000
+  },
+  {
+   "chunker": "KARA",
+   "measure": "final_monthly_vs_fresh",
+   "mean": 0.7731852802035001,
+   "median": 0.8415071770334928,
+   "size": 1000
+  },
+  {
+   "chunker": "KARA",
+   "measure": "final_revision_vs_fresh",
+   "mean": 0.7877881462360198,
+   "median": 0.8550420168067228,
+   "size": 1000
+  },
+  {
+   "chunker": "KARA",
+   "measure": "final_revision_vs_monthly",
+   "mean": 0.46142801880963275,
+   "median": 0.5,
+   "size": 1000
+  },
+  {
+   "chunker": "KARA",
+   "measure": "one_edit_vs_fresh",
+   "mean": 0.1922373881883264,
+   "median": 0.18229700854700856,
+   "size": 1000
+  }
+ ],
+ "docs": 1000,
+ "T": "128",
+ "per_doc": 10,
+ "procs": 3,
+ "errors": [],
+ "seconds": 232.5,
+ "meta": {
+  "time": "2026-11-09 22:25:42",
+  "host": "arm64",
+  "python": "3.12.12",
+  "versions": {
+   "numpy": "2.5.4",
+   "pandas": "3.1.1",
+   "langchain-text-splitters": "1.1.3",
+   "kara-toolkit": "0.3.2",
+   "steadlith": "1.0.1",
+   "fastcdc": "1.7.0",
+   "tokenizers": "0.22.2",
+   "sentence-transformers": "5.7.0",
+   "transformers": "4.57.6",
+   "torch": "2.15.0",
+   "hnswlib": "0.8.0",
+   "faiss-cpu": "1.15.1"
+  },
+  "threads": {
+   "P3_THREADS": 8,
+   "RAYON_NUM_THREADS": "8",
+   "TOKENIZERS_PARALLELISM": null,
+   "OMP_NUM_THREADS": "8"
+  },
+  "load": {
+   "top10": [
+    "462.9 2427664 python",
+    "462.4 3179248 python",
+    "452.0 2807952 python",
+    "117.8 15070384 llama-server",
+    "92.0 9947744 python",
+    "73.0 1767280 python",
+    "72.9 4548800 python",
+    "69.4 29082048 llama-server",
+    "68.5 2494512 python",
+    "62.8 2298432 python"
+   ],
+   "memwatch": {
+    "ts": "2026-11-09 22:25:42",
+    "project_gb": 42.41,
+    "system_gb": 411.5
+   }
+  }
+ }
+}

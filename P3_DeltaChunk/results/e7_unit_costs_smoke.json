@@ -1,0 +1,92 @@
+{
+ "alpha0": 0.044849249768830035,
+ "alpha": 6.544900286083385e-05,
+ "alpha_ci95": [
+  5.774083341566707e-05,
+  6.771648127321182e-05
+ ],
+ "alpha_ols": 6.637203658808611e-05,
+ "alpha0_ols": 0.11243144543102973,
+ "single_call_s": 0.1408994579978753,
+ "alpha0_le_single_call": true,
+ "beta": 0.00039525455916216735,
+ "gamma": 4.2339949383555603e-07,
+ "calls": {
+  "call_1": {
+   "seconds": 0.1408994579978753,
+   "tokens": 176.0,
+   "n": 3
+  },
+  "call_4": {
+   "seconds": 0.1542183749988908,
+   "tokens": 988.0,
+   "n": 3
+  },
+  "call_16": {
+   "seconds": 0.2789603330020327,
+   "tokens": 3577.0,
+   "n": 3
+  },
+  "call_64": {
+   "seconds": 1.0692416669990052,
+   "tokens": 14360.0,
+   "n": 3
+  },
+  "call_256": {
+   "seconds": 3.6434286660005455,
+   "tokens": 53170.0,
+   "n": 3
+  }
+ },
+ "pool_texts": 1572,
+ "pool_docs": 157,
+ "reps_per_size": 3,
+ "fit": "Theil-Sen over all timed calls (seconds ~ alpha0 + alpha * tokens)",
+ "meta": {
+  "time": "2026-11-09 16:57:50",
+  "host": "arm64",
+  "python": "3.12.12",
+  "versions": {
+   "numpy": "2.5.4",
+   "pandas": "3.1.1",
+   "langchain-text-splitters": "1.1.3",
+   "kara-toolkit": "0.3.2",
+   "steadlith": "1.0.1",
+   "fastcdc": "1.7.0",
+   "tokenizers": "0.22.2",
+   "sentence-transformers": "5.7.0",
+   "transformers": "4.57.6",
+   "torch": "2.15.0",
+   "hnswlib": "0.8.0",
+   "faiss-cpu": "1.15.1"
+  },
+  "threads": {
+   "P3_THREADS": 8,
+   "RAYON_NUM_THREADS": "8",
+   "TOKENIZERS_PARALLELISM": null,
+   "OMP_NUM_THREADS": "8",
+   "torch_num_threads": 8
+  },
+  "load": {
+   "top10": [
+    "98.7 664208 decoder",
+    "97.2 2024848 python",
+    "97.0 1595376 python",
+    "96.9 1628624 python",
+    "96.1 661632 decoder",
+    "94.9 8464 top",
+    "94.6 651344 decoder",
+    "94.1 666800 decoder",
+    "93.7 3007184 python",
+    "92.4 1558240 python"
+   ],
+   "memwatch": {
+    "ts": "2026-11-09 16:57:48",
+    "project_gb": 36.05,
+    "system_gb": 406.72
+   }
+  },
+  "device": "mps",
+  "note": "measured under contention"
+ }
+}

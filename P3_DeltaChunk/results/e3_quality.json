@@ -1,0 +1,159 @@
+{
+ "summary": [
+  {
+   "chunker": "DIFF[REC]",
+   "t": 0,
+   "maintained": 0.95,
+   "fresh": 0.95,
+   "docs_at_t": 100.0,
+   "gap": 0.0
+  },
+  {
+   "chunker": "DIFF[REC]",
+   "t": 50,
+   "maintained": 0.9066666666666666,
+   "fresh": 0.89,
+   "docs_at_t": 74.0,
+   "gap": 0.016666666666666607
+  },
+  {
+   "chunker": "DIFF[REC]",
+   "t": 100,
+   "maintained": 0.9333333333333333,
+   "fresh": 0.9433333333333334,
+   "docs_at_t": 22.0,
+   "gap": -0.010000000000000009
+  },
+  {
+   "chunker": "DIFF[REC]",
+   "t": 200,
+   "maintained": 0.9466666666666667,
+   "fresh": 0.9366666666666666,
+   "docs_at_t": 4.0,
+   "gap": 0.010000000000000009
+  },
+  {
+   "chunker": "DIFF[STRUCT-M]",
+   "t": 0,
+   "maintained": 0.9166666666666666,
+   "fresh": 0.9166666666666666,
+   "docs_at_t": 100.0,
+   "gap": 0.0
+  },
+  {
+   "chunker": "DIFF[STRUCT-M]",
+   "t": 50,
+   "maintained": 0.9,
+   "fresh": 0.8833333333333333,
+   "docs_at_t": 74.0,
+   "gap": 0.01666666666666672
+  },
+  {
+   "chunker": "DIFF[STRUCT-M]",
+   "t": 100,
+   "maintained": 0.87,
+   "fresh": 0.8666666666666667,
+   "docs_at_t": 22.0,
+   "gap": 0.0033333333333332993
+  },
+  {
+   "chunker": "DIFF[STRUCT-M]",
+   "t": 200,
+   "maintained": 0.92,
+   "fresh": 0.8966666666666666,
+   "docs_at_t": 4.0,
+   "gap": 0.023333333333333428
+  },
+  {
+   "chunker": "KARA",
+   "t": 0,
+   "maintained": 0.9566666666666667,
+   "fresh": 0.9566666666666667,
+   "docs_at_t": 100.0,
+   "gap": 0.0
+  },
+  {
+   "chunker": "KARA",
+   "t": 50,
+   "maintained": 0.9166666666666666,
+   "fresh": 0.9166666666666666,
+   "docs_at_t": 74.0,
+   "gap": 0.0
+  },
+  {
+   "chunker": "KARA",
+   "t": 100,
+   "maintained": 0.97,
+   "fresh": 0.9366666666666666,
+   "docs_at_t": 22.0,
+   "gap": 0.033333333333333326
+  },
+  {
+   "chunker": "KARA",
+   "t": 200,
+   "maintained": 0.9466666666666667,
+   "fresh": 0.94,
+   "docs_at_t": 4.0,
+   "gap": 0.00666666666666671
+  }
+ ],
+ "meta": {
+  "time": "2026-11-09 23:02:56",
+  "host": "arm64",
+  "python": "3.12.12",
+  "versions": {
+   "numpy": "2.5.4",
+   "pandas": "3.1.1",
+   "langchain-text-splitters": "1.1.3",
+   "kara-toolkit": "0.3.2",
+   "steadlith": "1.0.1",
+   "fastcdc": "1.7.0",
+   "tokenizers": "0.22.2",
+   "sentence-transformers": "5.7.0",
+   "transformers": "4.57.6",
+   "torch": "2.15.0",
+   "hnswlib": "0.8.0",
+   "faiss-cpu": "1.15.1"
+  },
+  "threads": {
+   "P3_THREADS": 8,
+   "RAYON_NUM_THREADS": "8",
+   "TOKENIZERS_PARALLELISM": null,
+   "OMP_NUM_THREADS": "8",
+   "torch_num_threads": 8
+  },
+  "load": {
+   "top10": [
+    "104.0 677872 qdrant",
+    "97.8 2124560 python",
+    "97.1 1992992 python",
+    "92.8 150832 qdrant",
+    "85.6 382144 INDEX",
+    "84.3 116368 python",
+    "82.9 117088 python",
+    "82.7 116528 python",
+    "81.7 116976 python",
+    "81.2 113904 python"
+   ],
+   "memwatch": {
+    "ts": "2026-11-09 23:02:55",
+    "project_gb": 19.33,
+    "system_gb": 371.68
+   }
+  },
+  "seconds": 93.4,
+  "llm": {
+   "calls": 0,
+   "hits": 1200,
+   "seconds": 0.0,
+   "prompt_tokens": 0,
+   "completion_tokens": 0
+  },
+  "embed": {
+   "encoded": 0,
+   "hits": 9547,
+   "calls": 0,
+   "seconds": 0.0
+  }
+ }
+}

@@ -1,0 +1,372 @@
+{
+ "targets": {
+  "wiki": {
+   "REC@T128": 129.8,
+   "STRUCT-NM": 94.6
+  },
+  "k8s": {
+   "REC@T128": 131.2,
+   "STRUCT-NM": 65.3
+  },
+  "cpy": {
+   "REC@T128": 131.1,
+   "STRUCT-NM": 44.3
+  }
+ },
+ "params": {
+  "wiki": {
+   "STRUCT-M@match": {
+    "T": 326
+   },
+   "SentCDC@match": {
+    "r": 23,
+    "lam": 0.5
+   },
+   "FIX@match": {
+    "T": 134
+   },
+   "STL@match": {
+    "min_tokens": 77,
+    "max_tokens": 154
+   },
+   "REC@nm": {
+    "T": 136
+   },
+   "KARA@match": {
+    "chunk_size": 155
+   }
+  },
+  "k8s": {
+   "STRUCT-M@match": {
+    "T": 174
+   },
+   "SentCDC@match": {
+    "r": 4,
+    "lam": 0.5
+   },
+   "FIX@match": {
+    "T": 133
+   },
+   "STL@match": {
+    "min_tokens": 74,
+    "max_tokens": 148
+   },
+   "REC@nm": {
+    "T": 91
+   },
+   "KARA@match": {
+    "chunk_size": 162
+   }
+  },
+  "cpy": {
+   "STRUCT-M@match": {
+    "T": 174
+   },
+   "SentCDC@match": {
+    "r": 3,
+    "lam": 0.5
+   },
+   "FIX@match": {
+    "T": 132
+   },
+   "STL@match": {
+    "min_tokens": 75,
+    "max_tokens": 150
+   },
+   "REC@nm": {
+    "T": 64
+   },
+   "KARA@match": {
+    "chunk_size": 161
+   }
+  }
+ },
+ "realized": {
+  "wiki": {
+   "STRUCT-M@match": 129.85966652203558,
+   "SentCDC@match": 129.9079804055311,
+   "FIX@match": 129.90507781015563,
+   "STL@match": 129.31461020924635,
+   "REC@nm": 94.41732389922934,
+   "KARA@match": null
+  },
+  "k8s": {
+   "STRUCT-M@match": 130.95082106696162,
+   "SentCDC@match": 134.43964011180992,
+   "FIX@match": 131.27663567346244,
+   "STL@match": 131.30901800187698,
+   "REC@nm": 65.63478408994123,
+   "KARA@match": null
+  },
+  "cpy": {
+   "STRUCT-M@match": 131.38513768389288,
+   "SentCDC@match": 133.1599337326367,
+   "FIX@match": 131.17319440957402,
+   "STL@match": 131.8160716538413,
+   "REC@nm": 44.49777847175891,
+   "KARA@match": null
+  }
+ },
+ "kara_points": {
+  "wiki": {
+   "final_layout_means": {
+    "128": 120.5,
+    "200": 190.4,
+    "320": 306.5
+   },
+   "points": [
+    [
+     120.54298043728423,
+     144
+    ],
+    [
+     190.3532618571688,
+     225
+    ],
+    [
+     306.4694265652428,
+     363
+    ]
+   ]
+  },
+  "k8s": {
+   "final_layout_means": {
+    "128": 118.9,
+    "200": 180.9,
+    "320": 284.4
+   },
+   "points": [
+    [
+     118.8633765832561,
+     147
+    ],
+    [
+     180.87448583852392,
+     223
+    ],
+    [
+     284.43300683792273,
+     349
+    ]
+   ]
+  },
+  "cpy": {
+   "final_layout_means": {
+    "128": 122.4,
+    "200": 186.5,
+    "320": 293.2
+   },
+   "points": [
+    [
+     122.4498046875,
+     151
+    ],
+    [
+     186.5349598333829,
+     225
+    ],
+    [
+     293.2383536014967,
+     347
+    ]
+   ]
+  }
+ },
+ "calibration_T128": {
+  "wiki": {
+   "FIX": {
+    "T": 128
+   },
+   "FIXO": {
+    "T": 128,
+    "overlap": 26
+   },
+   "REC": {
+    "T": 186
+   },
+   "STRUCT-M": {
+    "T": 303
+   },
+   "GCDC": {
+    "p": 0.25,
+    "T_min": 169
+   },
+   "BCDC": {
+    "avg": 673
+   },
+   "STL": {
+    "min_tokens": 76,
+    "max_tokens": 152
+   },
+   "KARA": {
+    "chunk_size": 144
+   },
+   "SentCDC": {
+    "r": 18,
+    "lam": 0.5
+   },
+   "DIFF[REC]": {
+    "T": 186
+   },
+   "DOC": {
+    "T": 186
+   },
+   "REC-O": {
+    "T": 186,
+    "overlap": 40
+   },
+   "DIFF[STRUCT-M]": {
+    "T": 303
+   },
+   "STL+snap": {
+    "min_tokens": 76,
+    "max_tokens": 152
+   }
+  },
+  "k8s": {
+   "FIX": {
+    "T": 128
+   },
+   "FIXO": {
+    "T": 128,
+    "overlap": 26
+   },
+   "REC": {
+    "T": 170
+   },
+   "STRUCT-M": {
+    "T": 201
+   },
+   "GCDC": {
+    "p": 0.25,
+    "T_min": 87
+   },
+   "BCDC": {
+    "avg": 363
+   },
+   "STL": {
+    "min_tokens": 72,
+    "max_tokens": 144
+   },
+   "KARA": {
+    "chunk_size": 147
+   },
+   "SentCDC": {
+    "r": 6,
+    "lam": 0.5
+   },
+   "DIFF[REC]": {
+    "T": 170
+   },
+   "DOC": {
+    "T": 170
+   },
+   "REC-O": {
+    "T": 170,
+    "overlap": 40
+   },
+   "DIFF[STRUCT-M]": {
+    "T": 201
+   },
+   "STL+snap": {
+    "min_tokens": 72,
+    "max_tokens": 144
+   }
+  },
+  "cpy": {
+   "FIX": {
+    "T": 128
+   },
+   "FIXO": {
+    "T": 128,
+    "overlap": 26
+   },
+   "REC": {
+    "T": 169
+   },
+   "STRUCT-M": {
+    "T": 173
+   },
+   "GCDC": {
+    "p": 0.25,
+    "T_min": 51
+   },
+   "BCDC": {
+    "avg": 363
+   },
+   "STL": {
+    "min_tokens": 72,
+    "max_tokens": 144
+   },
+   "KARA": {
+    "chunk_size": 151
+   },
+   "SentCDC": {
+    "r": 3,
+    "lam": 0.5
+   },
+   "DIFF[REC]": {
+    "T": 169
+   },
+   "DOC": {
+    "T": 169
+   },
+   "REC-O": {
+    "T": 169,
+    "overlap": 40
+   },
+   "DIFF[STRUCT-M]": {
+    "T": 173
+   },
+   "STL+snap": {
+    "min_tokens": 72,
+    "max_tokens": 144
+   }
+  }
+ },
+ "meta": {
+  "time": "2026-11-10 15:43:15",
+  "host": "arm64",
+  "python": "3.12.12",
+  "versions": {
+   "numpy": "2.5.4",
+   "pandas": "3.1.1",
+   "langchain-text-splitters": "1.1.3",
+   "kara-toolkit": "0.3.2",
+   "steadlith": "1.0.1",
+   "fastcdc": "1.7.0",
+   "tokenizers": "0.22.2",
+   "sentence-transformers": "5.7.0",
+   "transformers": "4.57.6",
+   "torch": "2.15.0",
+   "hnswlib": "0.8.0",
+   "faiss-cpu": "1.15.1"
+  },
+  "threads": {
+   "P3_THREADS": 8,
+   "RAYON_NUM_THREADS": "4",
+   "TOKENIZERS_PARALLELISM": null,
+   "OMP_NUM_THREADS": "4"
+  },
+  "load": {
+   "top10": [
+    "391.8 11661104 llama-server",
+    "322.0 30972848 llama-server",
+    "249.3 12245312 Python",
+    "220.2 10615424 Python",
+    "209.2 11027072 Python",
+    "143.5 8159008 python",
+    "83.8 95216 Python",
+    "32.8 140480 ReportCrash",
+    "30.7 109072 Runner.Listener",
+    "26.2 25713632 llama-server"
+   ],
+   "memwatch": {
+    "ts": "2026-11-10 15:43:15",
+    "project_gb": 10.49,
+    "system_gb": 160.16
+   }
+  },
+  "seconds": 363.2
+ }
+}

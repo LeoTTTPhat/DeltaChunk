@@ -1,0 +1,26 @@
+qid,stream,config,proximal,answer,gold,em,f1,contains
+4a5b4468c689,cpy,REC,False,DebugRunner class,This allows failures to be post-mortem debugged,0,0.0,0
+2003607e4a6d,k8s,REC,False,A patch for increasing replicas in a Deployment.,create one patch,0,0.2222222222222222,0
+df286d937ef7,wiki,REC,False,About 94 meters.,13 and 20 metres,0,0.0,0
+fcadceb8cfeb,wiki,REC,True,Nobel Prizes and Chemistry Prize,five Brit Awards,0,0.0,0
+e1ebaadb9a28,k8s,REC,False,Arithmetical and logical operations.,"Create, update, and delete",0,0.25,0
+4a5b4468c689,cpy,STRUCT-M,False,DebugRunner and DocTestFailure,This allows failures to be post-mortem debugged,0,0.0,0
+2003607e4a6d,k8s,STRUCT-M,False,A patch is a modification to a resource.,create one patch,0,0.25,0
+df286d937ef7,wiki,STRUCT-M,False,725 metres,13 and 20 metres,0,0.3333333333333333,0
+fcadceb8cfeb,wiki,STRUCT-M,True,"Nobel Prizes, FA Cups, League titles, UEFA Champions League, Intercontinental Cup.",five Brit Awards,0,0.0,0
+e1ebaadb9a28,k8s,STRUCT-M,False,register calls,"Create, update, and delete",0,0.0,0
+4a5b4468c689,cpy,SentCDC,False,DebugRunner,This allows failures to be post-mortem debugged,0,0.0,0
+2003607e4a6d,k8s,SentCDC,False,A patch for increasing deployment replicas.,create one patch,0,0.25,0
+df286d937ef7,wiki,SentCDC,False,725 metres,13 and 20 metres,0,0.3333333333333333,0
+fcadceb8cfeb,wiki,SentCDC,True,"Nobel Prizes, Honours, Player of the Year awards",five Brit Awards,0,0.2,0
+e1ebaadb9a28,k8s,SentCDC,False,"addition, subtraction, multiplication, division, exponentiation","Create, update, and delete",0,0.0,0
+4a5b4468c689,cpy,KARA,False,FAIL_FAST,This allows failures to be post-mortem debugged,0,0.0,0
+2003607e4a6d,k8s,KARA,False,increase_replicas.yaml,create one patch,0,0.0,0
+df286d937ef7,wiki,KARA,False,About 94 meters.,13 and 20 metres,0,0.0,0
+fcadceb8cfeb,wiki,KARA,True,"World Cup, Super Bowl, NBA title, FA Cup, UEFA Champions League, Intercontinental Cup, Player of the Year",five Brit Awards,0,0.0,0
+e1ebaadb9a28,k8s,KARA,False,nested classes and functions,"Create, update, and delete",0,0.25,0
+4a5b4468c689,cpy,closed-book,False,Reproducible steps,This allows failures to be post-mortem debugged,0,0.0,0
+2003607e4a6d,k8s,closed-book,False,A small piece of fabric.,create one patch,0,0.0,0
+df286d937ef7,wiki,closed-book,False,about 180 meters,13 and 20 metres,0,0.0,0
+fcadceb8cfeb,wiki,closed-book,True,None.,five Brit Awards,0,0.0,0
+e1ebaadb9a28,k8s,closed-book,False,Automatic operations.,"Create, update, and delete",0,0.0,0

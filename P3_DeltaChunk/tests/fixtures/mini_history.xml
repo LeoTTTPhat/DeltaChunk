@@ -1,0 +1,78 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" version="0.11" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+  </siteinfo>
+  <page>
+    <title>Test &amp; Page</title>
+    <ns>0</ns>
+    <id>7</id>
+    <revision>
+      <id>100</id>
+      <timestamp>2010-01-01T00:00:00Z</timestamp>
+      <contributor>
+        <username>Alice</username>
+        <id>5</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="20" xml:space="preserve">'''Hello''' world.
+== Sec ==
+Line &lt;b&gt;two&lt;/b&gt;.</text>
+      <sha1>aaa</sha1>
+    </revision>
+    <revision>
+      <id>101</id>
+      <timestamp>2010-01-02T00:00:00Z</timestamp>
+      <contributor>
+        <ip>1.2.3.4</ip>
+      </contributor>
+      <text bytes="5" xml:space="preserve">vandal</text>
+      <sha1>bbb</sha1>
+    </revision>
+    <revision>
+      <id>102</id>
+      <timestamp>2010-01-03T00:00:00Z</timestamp>
+      <contributor>
+        <username>Bob</username>
+        <id>6</id>
+      </contributor>
+      <text bytes="20" xml:space="preserve">'''Hello''' world.
+== Sec ==
+Line &lt;b&gt;two&lt;/b&gt;.</text>
+      <sha1>aaa</sha1>
+    </revision>
+    <revision>
+      <id>103</id>
+      <timestamp>2010-01-04T00:00:00Z</timestamp>
+      <contributor>
+        <username>CleanupBot</username>
+        <id>8</id>
+      </contributor>
+      <text bytes="20" xml:space="preserve">bot text</text>
+      <sha1>ccc</sha1>
+    </revision>
+    <revision>
+      <id>104</id>
+      <timestamp>2010-01-05T00:00:00Z</timestamp>
+      <contributor>
+        <username>Carol</username>
+        <id>9</id>
+      </contributor>
+      <text bytes="20" xml:space="preserve">Final text [[France|here]].</text>
+      <sha1>ddd</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Redir</title>
+    <ns>0</ns>
+    <id>8</id>
+    <redirect title="X" />
+    <revision>
+      <id>200</id>
+      <timestamp>2010-01-01T00:00:00Z</timestamp>
+      <contributor><username>A</username><id>1</id></contributor>
+      <text bytes="10" xml:space="preserve">#REDIRECT [[X]]</text>
+      <sha1>eee</sha1>
+    </revision>
+  </page>
+</mediawiki>

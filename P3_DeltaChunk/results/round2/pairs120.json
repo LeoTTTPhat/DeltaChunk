@@ -1,0 +1,44 @@
+[
+ {
+  "stream": "wiki",
+  "draws": 1000,
+  "full_gap_pp": 8.472514387395252,
+  "share_stl_above_rec": 1.0,
+  "share_gap_ci_excludes_0": 0.989,
+  "gap_p5_p95": [
+   5.346726273371465,
+   11.74089496380902
+  ],
+  "tau_median": 0.8571428571428571,
+  "tau_p5": 0.710714285714286,
+  "share_tau_1": 0.164
+ },
+ {
+  "stream": "k8s",
+  "draws": 1000,
+  "full_gap_pp": 10.109450365666644,
+  "share_stl_above_rec": 1.0,
+  "share_gap_ci_excludes_0": 1.0,
+  "gap_p5_p95": [
+   8.619777874830657,
+   13.939712961624483
+  ],
+  "tau_median": 0.8571428571428571,
+  "tau_p5": 0.7142857142857143,
+  "share_tau_1": 0.14
+ },
+ {
+  "stream": "cpy",
+  "draws": 1000,
+  "full_gap_pp": 5.4899921785739965,
+  "share_stl_above_rec": 1.0,
+  "share_gap_ci_excludes_0": 1.0,
+  "gap_p5_p95": [
+   5.506843716303017,
+   9.82686120309731
+  ],
+  "tau_median": 0.8571428571428571,
+  "tau_p5": 0.5714285714285714,
+  "share_tau_1": 0.088
+ }
+]

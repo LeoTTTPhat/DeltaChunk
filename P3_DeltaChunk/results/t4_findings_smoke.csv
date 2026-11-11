@@ -1,0 +1,65 @@
+topic,finding,value,source
+cost@T128,"cpy: chunkers ranked by mean re-embedded fraction of the new version (S1, per revision)",KARA 0.054 (size 121); DIFF[STRUCT-M] 0.058 (size 121); DIFF[REC] 0.061 (size 124); STRUCT-M 0.063 (size 124); GCDC 0.066 (size 131); SentCDC 0.070 (size 140); BCDC 0.074 (size 140); REC 0.079 (size 129); STL+snap 0.097 (size 118); STL 0.131 (size 127); FIX 0.535 (size 127); FIXO 0.670 (size 127); DOC 0.988 (size 129),e1_summary_smoke.csv
+cost@T128,cpy: cheapest history-free size-matched chunker,STRUCT-M 0.063,e1_summary_smoke.csv
+cost@T128,cpy: FIX vs REC re-embedded fraction,0.535 vs 0.079 (ratio 6.8x),e1_summary_smoke.csv
+cost@T128,cpy: DOC vs REC re-embedded fraction,0.988 vs 0.079 (ratio 12.5x),e1_summary_smoke.csv
+cost@T128,"k8s: chunkers ranked by mean re-embedded fraction of the new version (S1, per revision)",KARA 0.178 (size 119); STRUCT-M 0.190 (size 129); DIFF[REC] 0.193 (size 125); DIFF[STRUCT-M] 0.194 (size 131); GCDC 0.202 (size 127); REC 0.221 (size 128); SentCDC 0.228 (size 125); BCDC 0.236 (size 138); STL+snap 0.274 (size 116); STL 0.346 (size 124); FIX 0.597 (size 123); FIXO 0.742 (size 124); DOC 0.986 (size 128),e1_summary_smoke.csv
+cost@T128,k8s: cheapest history-free size-matched chunker,STRUCT-M 0.190,e1_summary_smoke.csv
+cost@T128,k8s: FIX vs REC re-embedded fraction,0.597 vs 0.221 (ratio 2.7x),e1_summary_smoke.csv
+cost@T128,k8s: DOC vs REC re-embedded fraction,0.986 vs 0.221 (ratio 4.5x),e1_summary_smoke.csv
+cost@T128,"wiki: chunkers ranked by mean re-embedded fraction of the new version (S1, per revision)",KARA 0.268 (size 115); GCDC 0.285 (size 120); BCDC 0.298 (size 120); STRUCT-M 0.303 (size 129); DIFF[REC] 0.310 (size 127); SentCDC 0.312 (size 124); REC 0.318 (size 131); DIFF[STRUCT-M] 0.339 (size 136); STL+snap 0.349 (size 117); STL 0.392 (size 120); FIX 0.572 (size 117); FIXO 0.700 (size 120); DOC 1.000 (size 131),e1_summary_smoke.csv
+cost@T128,wiki: cheapest history-free size-matched chunker,GCDC 0.285,e1_summary_smoke.csv
+cost@T128,wiki: FIX vs REC re-embedded fraction,0.572 vs 0.318 (ratio 1.8x),e1_summary_smoke.csv
+cost@T128,wiki: DOC vs REC re-embedded fraction,1.000 vs 0.318 (ratio 3.1x),e1_summary_smoke.csv
+sync,cpy DOC: total re-embedded tokens vs per-revision sync (T=200),daily 0.72; monthly 0.34; sync at release dates 0.24; weekly 0.50,e1_summary_smoke.csv
+sync,cpy FIX: total re-embedded tokens vs per-revision sync (T=200),daily 0.77; monthly 0.39; sync at release dates 0.29; weekly 0.55,e1_summary_smoke.csv
+sync,cpy KARA: total re-embedded tokens vs per-revision sync (T=200),daily 0.95; monthly 0.81; sync at release dates 0.69; weekly 0.90,e1_summary_smoke.csv
+sync,cpy REC: total re-embedded tokens vs per-revision sync (T=200),daily 0.91; monthly 0.67; sync at release dates 0.55; weekly 0.80,e1_summary_smoke.csv
+sync,cpy SentCDC: total re-embedded tokens vs per-revision sync (T=200),daily 0.95; monthly 0.79; sync at release dates 0.67; weekly 0.88,e1_summary_smoke.csv
+sync,k8s DOC: total re-embedded tokens vs per-revision sync (T=200),daily 0.98; monthly 0.73; weekly 0.89,e1_summary_smoke.csv
+sync,k8s FIX: total re-embedded tokens vs per-revision sync (T=200),daily 0.98; monthly 0.80; weekly 0.93,e1_summary_smoke.csv
+sync,k8s KARA: total re-embedded tokens vs per-revision sync (T=200),daily 1.00; monthly 0.93; weekly 0.97,e1_summary_smoke.csv
+sync,k8s REC: total re-embedded tokens vs per-revision sync (T=200),daily 0.99; monthly 0.91; weekly 0.97,e1_summary_smoke.csv
+sync,k8s SentCDC: total re-embedded tokens vs per-revision sync (T=200),daily 1.00; monthly 0.91; weekly 0.97,e1_summary_smoke.csv
+sync,wiki DOC: total re-embedded tokens vs per-revision sync (T=200),daily 0.49; monthly 0.35; weekly 0.41,e1_summary_smoke.csv
+sync,wiki FIX: total re-embedded tokens vs per-revision sync (T=200),daily 0.55; monthly 0.41; weekly 0.47,e1_summary_smoke.csv
+sync,wiki KARA: total re-embedded tokens vs per-revision sync (T=200),daily 0.74; monthly 0.62; weekly 0.68,e1_summary_smoke.csv
+sync,wiki REC: total re-embedded tokens vs per-revision sync (T=200),daily 0.69; monthly 0.55; weekly 0.61,e1_summary_smoke.csv
+sync,wiki SentCDC: total re-embedded tokens vs per-revision sync (T=200),daily 0.75; monthly 0.65; weekly 0.69,e1_summary_smoke.csv
+theory,wiki: Theorem 1 at r=20 (violations INS/DEL over covered edits),0/0 over 1403 of 1556 edits (90.2% covered),e2_thm1_wiki_smoke.json
+theory,wiki: Theorem 1 at r=3 (violations INS/DEL over covered edits),0/0 over 1549 of 1556 edits (99.6% covered),e2_thm1_wiki_r3_smoke.json
+theory,k8s: Theorem 1 at r=20 (violations INS/DEL over covered edits),0/0 over 522 of 706 edits (73.9% covered),e2_thm1_k8s_smoke.json
+theory,k8s: Theorem 1 at r=3 (violations INS/DEL over covered edits),0/0 over 665 of 706 edits (94.2% covered),e2_thm1_k8s_r3_smoke.json
+theory,cpy: Theorem 1 at r=7 (violations INS/DEL over covered edits),0/0 over 1404 of 2258 edits (62.2% covered),e2_thm1_cpy_smoke.json
+theory,cpy: Theorem 1 at r=3 (violations INS/DEL over covered edits),0/0 over 1993 of 2258 edits (88.3% covered),e2_thm1_cpy_r3_smoke.json
+predictor,WIKI-calibrated INS predictor on k8s: MdAPE non-trivial / Kendall tau,0.368 / 0.867,e2_predict_smoke.json
+predictor,WIKI-calibrated INS predictor on cpy: MdAPE non-trivial / Kendall tau,0.093 / 1.000,e2_predict_smoke.json
+drift,cpy DIFF[REC]: key divergence / KS vs fresh at t=299 (2 docs),0.525 / 0.195,e3_drift_cpy_smoke.csv
+drift,cpy DIFF[STRUCT-M]: key divergence / KS vs fresh at t=299 (2 docs),0.414 / 0.228,e3_drift_cpy_smoke.csv
+drift,cpy KARA: key divergence / KS vs fresh at t=299 (2 docs),0.742 / 0.231,e3_drift_cpy_smoke.csv
+drift,k8s DIFF[REC]: key divergence / KS vs fresh at t=50 (2 docs),0.667 / 0.164,e3_drift_k8s_smoke.csv
+drift,k8s DIFF[STRUCT-M]: key divergence / KS vs fresh at t=50 (2 docs),0.096 / 0.072,e3_drift_k8s_smoke.csv
+drift,k8s KARA: key divergence / KS vs fresh at t=50 (2 docs),0.871 / 0.375,e3_drift_k8s_smoke.csv
+drift,wiki DIFF[REC]: key divergence / KS vs fresh at t=250 (1 docs),0.500 / 0.372,e3_drift_wiki_smoke.csv
+drift,wiki DIFF[STRUCT-M]: key divergence / KS vs fresh at t=250 (1 docs),0.323 / 0.105,e3_drift_wiki_smoke.csv
+drift,wiki KARA: key divergence / KS vs fresh at t=250 (1 docs),1.000 / 0.624,e3_drift_wiki_smoke.csv
+quality,"all: evidence recall@1024 range over chunkers (T=128, native background)",0.467 (STRUCT-M) - 0.800 (STRUCT-NM),e4_stats_smoke.csv
+quality,all: chunkers differing from REC at Holm p<0.05,none,e4_stats_smoke.csv
+quality,"all: equivalent to REC within 2 pp (TOST, n >= n_required)",none,e4_stats_smoke.csv
+quality,"cpy: evidence recall@1024 range over chunkers (T=128, native background)",0.600 (FIX) - 0.800 (STL),e4_stats_smoke.csv
+quality,cpy: chunkers differing from REC at Holm p<0.05,none,e4_stats_smoke.csv
+quality,"cpy: equivalent to REC within 2 pp (TOST, n >= n_required)",none,e4_stats_smoke.csv
+quality,"k8s: evidence recall@1024 range over chunkers (T=128, native background)",0.400 (FIX) - 0.600 (KARA),e4_stats_smoke.csv
+quality,k8s: chunkers differing from REC at Holm p<0.05,none,e4_stats_smoke.csv
+quality,"k8s: equivalent to REC within 2 pp (TOST, n >= n_required)",none,e4_stats_smoke.csv
+quality,"wiki: evidence recall@1024 range over chunkers (T=128, native background)",0.400 (STL) - 1.000 (STRUCT-NM),e4_stats_smoke.csv
+quality,wiki: chunkers differing from REC at Holm p<0.05,none,e4_stats_smoke.csv
+quality,"wiki: equivalent to REC within 2 pp (TOST, n >= n_required)",none,e4_stats_smoke.csv
+late,"LATE: cos(old,new) of unchanged chunks adjacent to an edit (mean / p05) vs LATE-ctl min",0.9991 / 0.9968 vs 1.000000,e5a_late_smoke.json
+late,edit-proximal recall EXACT / STALE / WINDOW-1 and forward tokens,"EXACT 0.800 (323,640 tok) / STALE 0.800 (323,640 tok) / WINDOW-1 0.800 (146,155 tok)",e5b_policies_smoke.json
+ctx,CTX seconds per chunk call without / with prompt cache (measured under contention),12.60 / 7.13,e5c_ctx_cost_smoke.json
+regime,"cpy: share of log-cost variance explained by chunker (scope x regime design, no LLM regime)",0.929,e7_analysis_smoke.json
+regime,"k8s: share of log-cost variance explained by chunker (scope x regime design, no LLM regime)",0.668,e7_analysis_smoke.json
+regime,"wiki: share of log-cost variance explained by chunker (scope x regime design, no LLM regime)",0.485,e7_analysis_smoke.json
+index,judge-3 valid (rho(N) measured and c_q > 0),False,e7_analysis_smoke.json
+index,cells where the chunker-aware cost-optimal index policy differs from the index-only one,0 of 0 defined,e7_judge3_smoke.csv

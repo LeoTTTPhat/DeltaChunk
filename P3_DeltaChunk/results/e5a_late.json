@@ -1,0 +1,124 @@
+{
+ "edits": 300,
+ "chunks": 3283,
+ "by_distance": [
+  {
+   "dist": 1,
+   "n": 506,
+   "cos_late_mean": 0.9962429026134401,
+   "cos_late_p05": 0.9860436469316483,
+   "cos_ctl_min": 0.9999997615814209
+  },
+  {
+   "dist": 2,
+   "n": 427,
+   "cos_late_mean": 0.9979458787681348,
+   "cos_late_p05": 0.9940670132637024,
+   "cos_ctl_min": 0.9999998211860657
+  },
+  {
+   "dist": 3,
+   "n": 339,
+   "cos_late_mean": 0.998977591154498,
+   "cos_late_p05": 0.997186928987503,
+   "cos_ctl_min": 0.9999998211860657
+  },
+  {
+   "dist": 4,
+   "n": 272,
+   "cos_late_mean": 0.9996583049788195,
+   "cos_late_p05": 0.9988285422325134,
+   "cos_ctl_min": 0.9999997615814209
+  },
+  {
+   "dist": 5,
+   "n": 235,
+   "cos_late_mean": 0.9997980082288701,
+   "cos_late_p05": 0.999108898639679,
+   "cos_ctl_min": 0.9999997615814209
+  },
+  {
+   "dist": 6,
+   "n": 192,
+   "cos_late_mean": 0.9993416173383594,
+   "cos_late_p05": 0.9992877185344696,
+   "cos_ctl_min": 0.9999998211860657
+  },
+  {
+   "dist": 7,
+   "n": 156,
+   "cos_late_mean": 0.9998806298543246,
+   "cos_late_p05": 0.9995665699243546,
+   "cos_ctl_min": 0.9999998807907104
+  },
+  {
+   "dist": 8,
+   "n": 132,
+   "cos_late_mean": 0.9999308942845373,
+   "cos_late_p05": 0.9997742921113968,
+   "cos_ctl_min": 0.9999997615814209
+  },
+  {
+   "dist": 9,
+   "n": 117,
+   "cos_late_mean": 0.9991092839811602,
+   "cos_late_p05": 0.9998381853103637,
+   "cos_ctl_min": 0.9999998211860657
+  },
+  {
+   "dist": 10,
+   "n": 907,
+   "cos_late_mean": 0.9999755566411928,
+   "cos_late_p05": 0.9999607324600219,
+   "cos_ctl_min": 0.9999997615814209
+  }
+ ],
+ "meta": {
+  "time": "2026-11-09 23:09:47",
+  "host": "arm64",
+  "python": "3.12.12",
+  "versions": {
+   "numpy": "2.5.4",
+   "pandas": "3.1.1",
+   "langchain-text-splitters": "1.1.3",
+   "kara-toolkit": "0.3.2",
+   "steadlith": "1.0.1",
+   "fastcdc": "1.7.0",
+   "tokenizers": "0.22.2",
+   "sentence-transformers": "5.7.0",
+   "transformers": "4.57.6",
+   "torch": "2.15.0",
+   "hnswlib": "0.8.0",
+   "faiss-cpu": "1.15.1"
+  },
+  "threads": {
+   "P3_THREADS": 8,
+   "RAYON_NUM_THREADS": "8",
+   "TOKENIZERS_PARALLELISM": null,
+   "OMP_NUM_THREADS": "8",
+   "torch_num_threads": 8
+  },
+  "load": {
+   "top10": [
+    "106.2 14223616 llama-server",
+    "100.0 260256 python",
+    "100.0 258400 python",
+    "100.0 260048 python",
+    "99.6 252032 python",
+    "98.7 262080 python",
+    "98.6 257648 python",
+    "98.4 252880 python",
+    "97.8 256576 python",
+    "92.4 382144 INDEX"
+   ],
+   "memwatch": {
+    "ts": "2026-11-09 23:09:46",
+    "project_gb": 43.2,
+    "system_gb": 389.94
+   }
+  },
+  "seconds": 407.6,
+  "forward_tokens": 1143093,
+  "device": "mps"
+ }
+}

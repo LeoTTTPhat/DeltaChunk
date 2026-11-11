@@ -1,0 +1,322 @@
+{
+ "unit_costs": {
+  "alpha0": 0.07511360779929807,
+  "alpha": 2.2181608228084587e-05,
+  "beta": 0.0003138625419820255,
+  "gamma": 2.980279912028708e-07
+ },
+ "llm_sec_per_call": 6.440196280625023,
+ "rho_N": 64.1254077919948,
+ "c_q": 0.00046787984011925176,
+ "c_q_ci95": [
+  2.8245475937792796e-05,
+  0.0009075142043007108
+ ],
+ "judge3_valid": true,
+ "variance_decomposition": {
+  "cpy": {
+   "A_scope@revision/all_regimes": {
+    "chunker": 0.07007167123003005,
+    "scope": 8.661675903017378e-05,
+    "regime": 0.9213092572358288,
+    "interactions": 0.008532454775110998,
+    "cells": 135,
+    "chunkers": 15
+   },
+   "A_scope@revision/without_llm": {
+    "chunker": 0.6304881976596939,
+    "scope": 0.0006103495491655114,
+    "regime": 0.2924294225981641,
+    "interactions": 0.07647203019297644,
+    "cells": 90,
+    "chunkers": 15
+   },
+   "A_scope@revision/within_regime": {
+    "batched": {
+     "chunker": 0.9983626448760683,
+     "scope": 0.0008979707192809781,
+     "interactions": 0.0007393844046507114,
+     "cells": 45,
+     "chunkers": 15,
+     "chunker_max_min_ratio": 22.445308751487463
+    },
+    "llm": {
+     "chunker": 0.9970478440165149,
+     "scope": 0.0015811760821134435,
+     "interactions": 0.001370979901371694,
+     "cells": 45,
+     "chunkers": 15,
+     "chunker_max_min_ratio": 23.543782299470383
+    },
+    "online": {
+     "chunker": 0.9980416479757126,
+     "scope": 0.0011039258374848817,
+     "interactions": 0.0008544261868025371,
+     "cells": 45,
+     "chunkers": 15,
+     "chunker_max_min_ratio": 5.034532778635339
+    }
+   },
+   "B_interval@S1/all_regimes": {
+    "chunker": 0.05427873478367989,
+    "interval": 0.004829124282567069,
+    "regime": 0.9333200037942586,
+    "interactions": 0.00757213713949445,
+    "cells": 225,
+    "chunkers": 15
+   },
+   "B_interval@S1/without_llm": {
+    "chunker": 0.5907950657035963,
+    "interval": 0.08645770231525861,
+    "regime": 0.25095368660993383,
+    "interactions": 0.0717935453712113,
+    "cells": 150,
+    "chunkers": 15
+   },
+   "B_interval@S1/within_regime": {
+    "batched": {
+     "chunker": 0.93990343747173,
+     "interval": 0.05068985206055243,
+     "interactions": 0.009406710467717572,
+     "cells": 75,
+     "chunkers": 15,
+     "chunker_max_min_ratio": 16.535517762296713
+    },
+    "llm": {
+     "chunker": 0.9606329132207203,
+     "interval": 0.025749150943056465,
+     "interactions": 0.013617935836223172,
+     "cells": 75,
+     "chunkers": 15,
+     "chunker_max_min_ratio": 17.046818246677173
+    },
+    "online": {
+     "chunker": 0.6854934857039894,
+     "interval": 0.3114380488580431,
+     "interactions": 0.0030684654379675713,
+     "cells": 75,
+     "chunkers": 15,
+     "chunker_max_min_ratio": 4.457464220547926
+    }
+   }
+  },
+  "k8s": {
+   "A_scope@revision/all_regimes": {
+    "chunker": 0.02966883057157605,
+    "scope": 0.00012869609431518988,
+    "regime": 0.9641522424258022,
+    "interactions": 0.006050230908306586,
+    "cells": 135,
+    "chunkers": 15
+   },
+   "A_scope@revision/without_llm": {
+    "chunker": 0.3686496298320103,
+    "scope": 0.0014123401183195904,
+    "regime": 0.5552004325968506,
+    "interactions": 0.0747375974528195,
+    "cells": 90,
+    "chunkers": 15
+   },
+   "A_scope@revision/within_regime": {
+    "batched": {
+     "chunker": 0.9947403426623475,
+     "scope": 0.003186570160147931,
+     "interactions": 0.002073087177504651,
+     "cells": 45,
+     "chunkers": 15,
+     "chunker_max_min_ratio": 8.322267143161527
+    },
+    "llm": {
+     "chunker": 0.9915843338404821,
+     "scope": 0.004499387245208159,
+     "interactions": 0.00391627891430979,
+     "cells": 45,
+     "chunkers": 15,
+     "chunker_max_min_ratio": 9.266685439961293
+    },
+    "online": {
+     "chunker": 0.9915260274661339,
+     "scope": 0.005611460671149732,
+     "interactions": 0.002862511862716355,
+     "cells": 45,
+     "chunkers": 15,
+     "chunker_max_min_ratio": 2.546230967587327
+    }
+   },
+   "B_interval@S1/all_regimes": {
+    "chunker": 0.025067701358524853,
+    "interval": 0.0010510216676124634,
+    "regime": 0.9682757282482473,
+    "interactions": 0.005605548725615472,
+    "cells": 180,
+    "chunkers": 15
+   },
+   "B_interval@S1/without_llm": {
+    "chunker": 0.35853923835417856,
+    "interval": 0.027334684205247598,
+    "regime": 0.5419234130348607,
+    "interactions": 0.0722026644057131,
+    "cells": 120,
+    "chunkers": 15
+   },
+   "B_interval@S1/within_regime": {
+    "batched": {
+     "chunker": 0.9768897820183223,
+     "interval": 0.019006814089254597,
+     "interactions": 0.00410340389242303,
+     "cells": 60,
+     "chunkers": 15,
+     "chunker_max_min_ratio": 6.870900235586538
+    },
+    "llm": {
+     "chunker": 0.9856137721440048,
+     "interval": 0.009834753062429952,
+     "interactions": 0.004551474793565213,
+     "cells": 60,
+     "chunkers": 15,
+     "chunker_max_min_ratio": 7.974125090598499
+    },
+    "online": {
+     "chunker": 0.722302279957583,
+     "interval": 0.276524396497216,
+     "interactions": 0.0011733235452009438,
+     "cells": 60,
+     "chunkers": 15,
+     "chunker_max_min_ratio": 2.2862289917517513
+    }
+   }
+  },
+  "wiki": {
+   "A_scope@revision/all_regimes": {
+    "chunker": 0.01690385977775118,
+    "scope": 8.793316414953454e-05,
+    "regime": 0.9767336209350885,
+    "interactions": 0.006274586123010795,
+    "cells": 135,
+    "chunkers": 15
+   },
+   "A_scope@revision/without_llm": {
+    "chunker": 0.11179986951953615,
+    "scope": 0.0005561847259936058,
+    "regime": 0.8398021151508346,
+    "interactions": 0.04784183060363567,
+    "cells": 90,
+    "chunkers": 15
+   },
+   "A_scope@revision/within_regime": {
+    "batched": {
+     "chunker": 0.9967207246664503,
+     "scope": 0.002760992136407237,
+     "interactions": 0.0005182831971424218,
+     "cells": 45,
+     "chunkers": 15,
+     "chunker_max_min_ratio": 6.2023365277383515
+    },
+    "llm": {
+     "chunker": 0.9947003711896565,
+     "scope": 0.00454673075765033,
+     "interactions": 0.000752898052693185,
+     "cells": 45,
+     "chunkers": 15,
+     "chunker_max_min_ratio": 6.016344194409658
+    },
+    "online": {
+     "chunker": 0.9753418300704533,
+     "scope": 0.022784298413282295,
+     "interactions": 0.0018738715162643915,
+     "cells": 45,
+     "chunkers": 15,
+     "chunker_max_min_ratio": 1.6060350776424233
+    }
+   },
+   "B_interval@S1/all_regimes": {
+    "chunker": 0.011377432918634469,
+    "interval": 0.008655041845402766,
+    "regime": 0.97457129155832,
+    "interactions": 0.005396233677642748,
+    "cells": 180,
+    "chunkers": 15
+   },
+   "B_interval@S1/without_llm": {
+    "chunker": 0.08347723976389936,
+    "interval": 0.1053042556274989,
+    "regime": 0.7722844928938154,
+    "interactions": 0.03893401171478639,
+    "cells": 120,
+    "chunkers": 15
+   },
+   "B_interval@S1/within_regime": {
+    "batched": {
+     "chunker": 0.72977138191996,
+     "interval": 0.2552602781329644,
+     "interactions": 0.01496833994707547,
+     "cells": 60,
+     "chunkers": 15,
+     "chunker_max_min_ratio": 4.687947623799871
+    },
+    "llm": {
+     "chunker": 0.7947730626622943,
+     "interval": 0.187519884311646,
+     "interactions": 0.017707053026059683,
+     "cells": 60,
+     "chunkers": 15,
+     "chunker_max_min_ratio": 4.4809467155770255
+    },
+    "online": {
+     "chunker": 0.07678514606814169,
+     "interval": 0.9226135678546452,
+     "interactions": 0.0006012860772131035,
+     "cells": 60,
+     "chunkers": 15,
+     "chunker_max_min_ratio": 1.4953971644868937
+    }
+   }
+  }
+ },
+ "judge3_differs_share": 0.558974358974359,
+ "meta": {
+  "time": "2026-11-10 03:05:09",
+  "host": "arm64",
+  "python": "3.12.12",
+  "versions": {
+   "numpy": "2.5.4",
+   "pandas": "3.1.1",
+   "langchain-text-splitters": "1.1.3",
+   "kara-toolkit": "0.3.2",
+   "steadlith": "1.0.1",
+   "fastcdc": "1.7.0",
+   "tokenizers": "0.22.2",
+   "sentence-transformers": "5.7.0",
+   "transformers": "4.57.6",
+   "torch": "2.15.0",
+   "hnswlib": "0.8.0",
+   "faiss-cpu": "1.15.1"
+  },
+  "threads": {
+   "P3_THREADS": 8,
+   "RAYON_NUM_THREADS": "8",
+   "TOKENIZERS_PARALLELISM": null,
+   "OMP_NUM_THREADS": "8"
+  },
+  "load": {
+   "top10": [
+    "99.6 10671488 python",
+    "91.6 259888 Python",
+    "79.3 25422640 llama-server",
+    "51.4 441888 curl_fuzzer_http",
+    "47.8 517232 curl_fuzzer_http",
+    "47.5 109696 Runner.Listener",
+    "42.4 3870112 Python",
+    "39.1 20452544 llama-server",
+    "33.5 508928 curl_fuzzer_http",
+    "33.1 53120 Runner.Listener"
+   ],
+   "memwatch": {
+    "ts": "2026-11-10 03:05:08",
+    "project_gb": 8.15,
+    "system_gb": 330.84
+   }
+  },
+  "note": "derived costs: measured counts x unit costs measured under contention"
+ }
+}

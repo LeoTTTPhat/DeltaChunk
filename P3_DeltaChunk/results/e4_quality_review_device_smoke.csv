@@ -1,0 +1,6 @@
+qid,stream,chunker,proximal,evidence_present,rank_first,bg_mode,bg_chunks,ndcg10,recall@1024,recall_lex@1024,used_tok@1024,recall@2048,recall_lex@2048,used_tok@2048
+dbe0b8233e85,wiki,REC,True,False,-1,native,0,0.0,0,0,1003,0,0,2036
+fcadceb8cfeb,wiki,REC,True,False,-1,native,0,0.0,0,0,996,0,0,2045
+297c2c0bf273,wiki,REC,False,False,-1,native,0,0.0,0,0,1024,0,0,2007
+d998513499bd,wiki,REC,True,True,0,native,0,1.0,1,1,994,1,1,2040
+df286d937ef7,wiki,REC,False,False,-1,native,0,0.0,0,0,1008,0,0,2008

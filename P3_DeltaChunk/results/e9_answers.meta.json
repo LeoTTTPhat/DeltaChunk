@@ -1,0 +1,54 @@
+{
+ "time": "2026-11-10 01:03:43",
+ "host": "arm64",
+ "python": "3.12.12",
+ "versions": {
+  "numpy": "2.5.4",
+  "pandas": "3.1.1",
+  "langchain-text-splitters": "1.1.3",
+  "kara-toolkit": "0.3.2",
+  "steadlith": "1.0.1",
+  "fastcdc": "1.7.0",
+  "tokenizers": "0.22.2",
+  "sentence-transformers": "5.7.0",
+  "transformers": "4.57.6",
+  "torch": "2.15.0",
+  "hnswlib": "0.8.0",
+  "faiss-cpu": "1.15.1"
+ },
+ "threads": {
+  "P3_THREADS": 8,
+  "RAYON_NUM_THREADS": "8",
+  "TOKENIZERS_PARALLELISM": null,
+  "OMP_NUM_THREADS": "8"
+ },
+ "load": {
+  "top10": [
+   "198.8 5258880 mds_stores",
+   "97.9 1102384 python",
+   "82.1 2572960 curl_fuzzer_http",
+   "79.1 268192 qdrant",
+   "76.4 1955456 curl_fuzzer_http",
+   "63.1 856208 curl_fuzzer_http",
+   "42.1 406624 curl_fuzzer_http",
+   "32.5 19823328 llama-server",
+   "28.9 820096 curl_fuzzer_http",
+   "25.7 127920 Runner.Listener"
+  ],
+  "memwatch": {
+   "ts": "2026-11-10 01:03:40",
+   "project_gb": 11.73,
+   "system_gb": 403.79
+  }
+ },
+ "seconds": 2091.7,
+ "n": 300,
+ "llm": {
+  "calls": 307,
+  "hits": 893,
+  "seconds": 16611.85061598796,
+  "prompt_tokens": 310857,
+  "completion_tokens": 2833
+ },
+ "llm_model": "qwen3:8b"
+}

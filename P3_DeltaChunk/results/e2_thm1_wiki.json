@@ -1,0 +1,62 @@
+{
+ "stream": "wiki",
+ "r": 20,
+ "lam": 0.5,
+ "edits": 82949,
+ "guard_edits": 9300,
+ "covered_edits": 73649,
+ "covered_share": 0.8878829160086318,
+ "viol_ins": 0,
+ "viol_del": 0,
+ "mean_ins": 1.688073394495413,
+ "mean_bound": 7.630736958854236,
+ "mc_edits": 300,
+ "mc_mean_pred": 1.1109499999999999,
+ "mc_mean_meas": 1.16,
+ "meta": {
+  "time": "2026-11-09 20:13:25",
+  "host": "arm64",
+  "python": "3.12.12",
+  "versions": {
+   "numpy": "2.5.4",
+   "pandas": "3.1.1",
+   "langchain-text-splitters": "1.1.3",
+   "kara-toolkit": "0.3.2",
+   "steadlith": "1.0.1",
+   "fastcdc": "1.7.0",
+   "tokenizers": "0.22.2",
+   "sentence-transformers": "5.7.0",
+   "transformers": "4.57.6",
+   "torch": "2.15.0",
+   "hnswlib": "0.8.0",
+   "faiss-cpu": "1.15.1"
+  },
+  "threads": {
+   "P3_THREADS": 8,
+   "RAYON_NUM_THREADS": "8",
+   "TOKENIZERS_PARALLELISM": null,
+   "OMP_NUM_THREADS": "8"
+  },
+  "load": {
+   "top10": [
+    "740.3 4064384 python",
+    "100.0 824944 python",
+    "98.4 1852272 python",
+    "97.6 979648 python",
+    "97.3 1762240 python",
+    "94.4 1587312 python",
+    "80.8 1170704 curl_fuzzer_rtsp",
+    "70.6 1514128 curl_fuzzer_http",
+    "69.1 997456 curl_fuzzer_http",
+    "69.1 11283920 llama-server"
+   ],
+   "memwatch": {
+    "ts": "2026-11-09 20:13:24",
+    "project_gb": 35.71,
+    "system_gb": 416.28
+   }
+  },
+  "seconds": 38.1,
+  "procs": 4
+ }
+}

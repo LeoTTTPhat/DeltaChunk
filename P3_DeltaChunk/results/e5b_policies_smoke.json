@@ -1,0 +1,86 @@
+{
+ "docs": 20,
+ "last": 5,
+ "questions": 20,
+ "recall": {
+  "EXACT": 0.8,
+  "STALE": 0.8,
+  "WINDOW-0": 0.8,
+  "WINDOW-1": 0.8,
+  "WINDOW-2": 0.8,
+  "WINDOW-4": 0.8
+ },
+ "cost": {
+  "EXACT": {
+   "forward_tokens": 323640,
+   "vectors": 2246
+  },
+  "STALE": {
+   "forward_tokens": 323640,
+   "vectors": 553
+  },
+  "WINDOW-0": {
+   "forward_tokens": 132217,
+   "vectors": 553
+  },
+  "WINDOW-1": {
+   "forward_tokens": 146155,
+   "vectors": 760
+  },
+  "WINDOW-2": {
+   "forward_tokens": 162707,
+   "vectors": 930
+  },
+  "WINDOW-4": {
+   "forward_tokens": 189519,
+   "vectors": 1170
+  }
+ },
+ "meta": {
+  "time": "2026-11-09 16:41:23",
+  "host": "arm64",
+  "python": "3.12.12",
+  "versions": {
+   "numpy": "2.5.4",
+   "pandas": "3.1.1",
+   "langchain-text-splitters": "1.1.3",
+   "kara-toolkit": "0.3.2",
+   "steadlith": "1.0.1",
+   "fastcdc": "1.7.0",
+   "tokenizers": "0.22.2",
+   "sentence-transformers": "5.7.0",
+   "transformers": "4.57.6",
+   "torch": "2.15.0",
+   "hnswlib": "0.8.0",
+   "faiss-cpu": "1.15.1"
+  },
+  "threads": {
+   "P3_THREADS": 8,
+   "RAYON_NUM_THREADS": "8",
+   "TOKENIZERS_PARALLELISM": null,
+   "OMP_NUM_THREADS": "8",
+   "torch_num_threads": 8
+  },
+  "load": {
+   "top10": [
+    "119.7 32128768 llama-server",
+    "104.8 19423680 llama-server",
+    "99.5 576928 python",
+    "98.7 1206080 python",
+    "98.6 568448 python",
+    "98.6 647344 decoder",
+    "98.5 613472 python",
+    "98.5 632640 decoder",
+    "98.0 633360 decoder",
+    "97.8 629136 decoder"
+   ],
+   "memwatch": {
+    "ts": "2026-11-09 16:41:20",
+    "project_gb": 32.79,
+    "system_gb": 376.93
+   }
+  },
+  "seconds": 133.2,
+  "device": "mps"
+ }
+}

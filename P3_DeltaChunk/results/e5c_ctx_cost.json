@@ -1,0 +1,84 @@
+{
+ "no_prompt_cache": {
+  "calls": 211,
+  "sec_per_call": 12.973427979459622,
+  "sec_per_call_median": 12.397677541994199,
+  "prompt_tokens_mean": 1542.004739336493,
+  "prompt_n_mean": 1542.004739336493,
+  "per_stratum": {
+   "<=1k": 9.658295786031191,
+   "1-2k": 14.134559495870988,
+   "2-3k": 18.434532902499665
+  }
+ },
+ "prompt_cache": {
+  "calls": 211,
+  "sec_per_call": 6.831337883308272,
+  "sec_per_call_median": 6.547191874997225,
+  "prompt_tokens_mean": 1542.004739336493,
+  "prompt_n_mean": 224.7772511848341,
+  "per_stratum": {
+   "<=1k": 6.872636093247604,
+   "1-2k": 6.826910308857727,
+   "2-3k": 6.747337970749703
+  }
+ },
+ "completed": {
+  "calls": 422,
+  "docs": 21,
+  "reps_started": 2,
+  "full_reps": 1,
+  "time_capped": true,
+  "max_minutes": 45.0,
+  "planned_docs": 21,
+  "planned_reps": 3
+ },
+ "meta": {
+  "time": "2026-11-10 01:53:06",
+  "host": "arm64",
+  "python": "3.12.12",
+  "versions": {
+   "numpy": "2.5.4",
+   "pandas": "3.1.1",
+   "langchain-text-splitters": "1.1.3",
+   "kara-toolkit": "0.3.2",
+   "steadlith": "1.0.1",
+   "fastcdc": "1.7.0",
+   "tokenizers": "0.22.2",
+   "sentence-transformers": "5.7.0",
+   "transformers": "4.57.6",
+   "torch": "2.15.0",
+   "hnswlib": "0.8.0",
+   "faiss-cpu": "1.15.1"
+  },
+  "threads": {
+   "P3_THREADS": 8,
+   "RAYON_NUM_THREADS": "8",
+   "TOKENIZERS_PARALLELISM": null,
+   "OMP_NUM_THREADS": "8"
+  },
+  "load": {
+   "top10": [
+    "394.3 701264 python",
+    "181.9 6421264 mds_stores",
+    "104.9 10026224 llama-server",
+    "99.1 1269232 python",
+    "83.6 595040 curl_fuzzer_tftp",
+    "81.4 1735376 curl_fuzzer_ws",
+    "81.3 2561680 curl_fuzzer_http",
+    "73.3 2002256 curl_fuzzer_ws",
+    "64.2 26126528 llama-server",
+    "37.6 128160 Runner.Listener"
+   ],
+   "memwatch": {
+    "ts": "2026-11-10 01:53:03",
+    "project_gb": 14.5,
+    "system_gb": 275.68
+   }
+  },
+  "seconds": 2937.0,
+  "reps": 3,
+  "docs": 21,
+  "note": "ABBA per document, one client thread; GPU shared (measured under contention)"
+ }
+}

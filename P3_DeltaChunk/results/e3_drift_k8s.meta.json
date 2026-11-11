@@ -1,0 +1,47 @@
+{
+ "time": "2026-11-09 20:25:12",
+ "host": "arm64",
+ "python": "3.12.12",
+ "versions": {
+  "numpy": "2.5.4",
+  "pandas": "3.1.1",
+  "langchain-text-splitters": "1.1.3",
+  "kara-toolkit": "0.3.2",
+  "steadlith": "1.0.1",
+  "fastcdc": "1.7.0",
+  "tokenizers": "0.22.2",
+  "sentence-transformers": "5.7.0",
+  "transformers": "4.57.6",
+  "torch": "2.15.0",
+  "hnswlib": "0.8.0",
+  "faiss-cpu": "1.15.1"
+ },
+ "threads": {
+  "P3_THREADS": 8,
+  "RAYON_NUM_THREADS": "8",
+  "TOKENIZERS_PARALLELISM": null,
+  "OMP_NUM_THREADS": "8"
+ },
+ "load": {
+  "top10": [
+   "729.2 4065088 python",
+   "98.5 1327072 python",
+   "97.5 2800592 python",
+   "96.7 406608 VACUUM",
+   "96.0 1975648 python",
+   "93.6 1066656 python",
+   "90.5 10072064 python",
+   "82.8 1716576 python",
+   "74.5 143424 python",
+   "72.1 805392 python"
+  ],
+  "memwatch": {
+   "ts": "2026-11-09 20:25:12",
+   "project_gb": 30.96,
+   "system_gb": 412.68
+  }
+ },
+ "seconds": 82.1,
+ "errors": [],
+ "docs": 284
+}

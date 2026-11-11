@@ -1,0 +1,14 @@
+{
+ "source": "Bian et al., arXiv:2610.31019v1 (HTML), re-read Nov 9 2026 11:55 +07",
+ "fixed_tokens": 304, "fixed_overlap": 0, "fixed_rule": "greedy non-overlapping windows of at most 304 tokens (special tokens excluded) at token start offsets (Sec. IV, Setup)",
+ "recursive_target_tokens": 400, "recursive_rule": "keep a span within its 400-token target, otherwise split in order at blank lines, line breaks, sentence terminators followed by whitespace (Sec. IV)",
+ "cdc_min_tokens": 176, "cdc_max_tokens": 352, "cdc_impl": "Steadlith word-level Rabin (pinned implementation; Sec. II / IV)",
+ "max_chunk_tokens": 512,
+ "retrieval_budget_tokens": 2048,
+ "metric": "fraction of the new version's embedding-input workload recomputed under byte-identical reuse of complete embedding inputs (Sec. III)",
+ "pairs": "120 primary adjacent revision pairs (62 Chinese, 58 English); both versions 1,024-20,000 tokenizer units of body text (Sec. IV)",
+ "calibration": "six calibration articles; document-balanced median chunk length within 15% across methods (Sec. IV)",
+ "their_english_results_table_I": {"fixed_recompute_pct": 57.4, "recursive_recompute_pct": 37.9, "cdc_recompute_pct": 42.8},
+ "input_format": "plain text, each paragraph/heading/list item one whitespace-normalised block, blocks separated by a blank line (Sec. IV)",
+ "our_deviation": "English simplewiki only; tokenizer = bge-small (theirs: their frozen encoder's tokenizer); pairs sampled from our filtered streams with the 1,024-20,000 token rule"
+}

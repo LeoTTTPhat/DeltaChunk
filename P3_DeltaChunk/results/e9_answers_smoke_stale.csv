@@ -1,0 +1,11 @@
+qid,stream,config,proximal,answer,gold,em,f1,contains
+4a5b4468c689,cpy,REC-stale20,False,DebugRunner,This allows failures to be post-mortem debugged,0,0.0,0
+2003607e4a6d,k8s,REC-stale20,False,strategic merge patch,create one patch,0,0.3333333333333333,0
+df286d937ef7,wiki,REC-stale20,False,725 metres,13 and 20 metres,0,0.3333333333333333,0
+fcadceb8cfeb,wiki,REC-stale20,True,Nobel Prizes,five Brit Awards,0,0.0,0
+e1ebaadb9a28,k8s,REC-stale20,False,"Create, update, delete","Create, update, and delete",0,0.8571428571428571,0
+4a5b4468c689,cpy,closed-book,False,Reproducible steps,This allows failures to be post-mortem debugged,0,0.0,0
+2003607e4a6d,k8s,closed-book,False,A small piece of fabric.,create one patch,0,0.0,0
+df286d937ef7,wiki,closed-book,False,about 180 meters,13 and 20 metres,0,0.0,0
+fcadceb8cfeb,wiki,closed-book,True,None.,five Brit Awards,0,0.0,0
+e1ebaadb9a28,k8s,closed-book,False,Automatic operations.,"Create, update, and delete",0,0.0,0

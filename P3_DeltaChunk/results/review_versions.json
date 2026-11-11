@@ -1,0 +1,83 @@
+{
+ "wiki": {
+  "file": "wiki.parquet",
+  "raw_rows": 83992,
+  "raw_docs": 1000,
+  "dropped": {
+   "empty": 36,
+   "identical_after_empty": 7
+  },
+  "replay_versions": 83949,
+  "replay_docs": 1000,
+  "replay_edits": 82949
+ },
+ "k8s": {
+  "file": "k8s.parquet",
+  "raw_rows": 15208,
+  "raw_docs": 284,
+  "dropped": {
+   "empty": 0,
+   "identical_after_empty": 0
+  },
+  "replay_versions": 15208,
+  "replay_docs": 284,
+  "replay_edits": 14924
+ },
+ "cpy": {
+  "file": "cpy.parquet",
+  "raw_rows": 26117,
+  "raw_docs": 300,
+  "dropped": {
+   "empty": 0,
+   "identical_after_empty": 0
+  },
+  "replay_versions": 26117,
+  "replay_docs": 300,
+  "replay_edits": 25817
+ },
+ "note": "raw_rows = versions in the extracted stream file; load_stream drops whitespace-only versions (revision-deleted text or blanking) and then consecutive text-identical versions; replay_edits = replay_versions - docs.",
+ "meta": {
+  "time": "2026-11-09 22:00:27",
+  "host": "arm64",
+  "python": "3.12.12",
+  "versions": {
+   "numpy": "2.5.4",
+   "pandas": "3.1.1",
+   "langchain-text-splitters": "1.1.3",
+   "kara-toolkit": "0.3.2",
+   "steadlith": "1.0.1",
+   "fastcdc": "1.7.0",
+   "tokenizers": "0.22.2",
+   "sentence-transformers": "5.7.0",
+   "transformers": "4.57.6",
+   "torch": "2.15.0",
+   "hnswlib": "0.8.0",
+   "faiss-cpu": "1.15.1"
+  },
+  "threads": {
+   "P3_THREADS": 8,
+   "RAYON_NUM_THREADS": "2",
+   "TOKENIZERS_PARALLELISM": null,
+   "OMP_NUM_THREADS": "2"
+  },
+  "load": {
+   "top10": [
+    "733.3 3127552 python",
+    "109.1 12216848 llama-server",
+    "100.0 1733984 python",
+    "99.7 1907632 python",
+    "99.0 2721184 python",
+    "99.0 1104224 python",
+    "98.8 1009200 python",
+    "98.1 4164480 python",
+    "94.9 3012720 python",
+    "94.8 2033552 python"
+   ],
+   "memwatch": {
+    "ts": "2026-11-09 22:00:27",
+    "project_gb": 30.26,
+    "system_gb": 420.23
+   }
+  }
+ }
+}

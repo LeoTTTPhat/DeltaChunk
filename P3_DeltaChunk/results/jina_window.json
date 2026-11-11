@@ -1,0 +1,79 @@
+{
+ "window": 8192,
+ "content_tokens": 8190,
+ "tokenizer": "jinaai/jina-embeddings-v2-small-en",
+ "streams": {
+  "wiki": {
+   "docs": 1000,
+   "final_fit_share": 0.977,
+   "final_fit_docs": 977,
+   "final_tok_p50": 1302.0,
+   "final_tok_p90": 4463.6,
+   "final_tok_max": 45784,
+   "version_fit_share": 0.9774505950041097,
+   "versions": 83949,
+   "docs_all_versions_fit": 967
+  },
+  "k8s": {
+   "docs": 284,
+   "final_fit_share": 0.8380281690140845,
+   "final_fit_docs": 238,
+   "final_tok_p50": 3041.0,
+   "final_tok_p90": 9998.400000000001,
+   "final_tok_max": 176080
+  },
+  "cpy": {
+   "docs": 300,
+   "final_fit_share": 0.5966666666666667,
+   "final_fit_docs": 179,
+   "final_tok_p50": 6044.5,
+   "final_tok_p90": 26897.100000000006,
+   "final_tok_max": 85851
+  }
+ },
+ "meta": {
+  "time": "2026-11-09 22:02:40",
+  "host": "arm64",
+  "python": "3.12.12",
+  "versions": {
+   "numpy": "2.5.4",
+   "pandas": "3.1.1",
+   "langchain-text-splitters": "1.1.3",
+   "kara-toolkit": "0.3.2",
+   "steadlith": "1.0.1",
+   "fastcdc": "1.7.0",
+   "tokenizers": "0.22.2",
+   "sentence-transformers": "5.7.0",
+   "transformers": "4.57.6",
+   "torch": "2.15.0",
+   "hnswlib": "0.8.0",
+   "faiss-cpu": "1.15.1"
+  },
+  "threads": {
+   "P3_THREADS": 8,
+   "RAYON_NUM_THREADS": "2",
+   "TOKENIZERS_PARALLELISM": null,
+   "OMP_NUM_THREADS": "2",
+   "torch_num_threads": 2
+  },
+  "load": {
+   "top10": [
+    "146.5 6900112 python",
+    "104.2 12216864 llama-server",
+    "100.0 1745376 python",
+    "99.7 302560 python",
+    "99.0 2013552 python",
+    "99.0 1997952 python",
+    "98.7 1237696 python",
+    "98.5 1759824 python",
+    "80.2 6844432 Python",
+    "77.8 374512 curl_fuzzer_http"
+   ],
+   "memwatch": {
+    "ts": "2026-11-09 22:02:39",
+    "project_gb": 30.58,
+    "system_gb": 445.27
+   }
+  }
+ }
+}

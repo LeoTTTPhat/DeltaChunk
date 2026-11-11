@@ -1,0 +1,16 @@
+{
+  "verified_utc": "2026-11-11T14:00:01Z",
+  "saved_result_analysis": "passed",
+  "core_tests": {
+    "status": "passed",
+    "passed": 41,
+    "files": [
+      "tests/test_core.py",
+      "tests/test_predict.py"
+    ]
+  },
+  "python_syntax": "passed with Python 3.12",
+  "shell_syntax": "passed",
+  "fresh_environment_installation": "not run; compatible existing environments were used",
+  "full_experiments": "not rerun"
+}

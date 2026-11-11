@@ -1,0 +1,79 @@
+{
+ "time": "2026-11-09 16:27:15",
+ "host": "arm64",
+ "python": "3.12.12",
+ "versions": {
+  "numpy": "2.5.4",
+  "pandas": "3.1.1",
+  "langchain-text-splitters": "1.1.3",
+  "kara-toolkit": "0.3.2",
+  "steadlith": "1.0.1",
+  "fastcdc": "1.7.0",
+  "tokenizers": "0.22.2",
+  "sentence-transformers": "5.7.0",
+  "transformers": "4.57.6",
+  "torch": "2.15.0",
+  "hnswlib": "0.8.0",
+  "faiss-cpu": "1.15.1"
+ },
+ "threads": {
+  "P3_THREADS": 8,
+  "RAYON_NUM_THREADS": "8",
+  "TOKENIZERS_PARALLELISM": null,
+  "OMP_NUM_THREADS": "8"
+ },
+ "load": {
+  "top10": [
+   "139.6 742256 llama-server",
+   "100.0 658032 decoder",
+   "100.0 681072 decoder",
+   "99.9 573440 python",
+   "99.9 646992 python",
+   "99.7 661712 decoder",
+   "98.8 400384 python",
+   "98.8 683440 decoder",
+   "98.3 411856 INDEX",
+   "96.7 401104 INDEX"
+  ],
+  "memwatch": {
+   "ts": "2026-11-09 16:27:10",
+   "project_gb": 19.25,
+   "system_gb": 343.78
+  }
+ },
+ "stream": "wiki",
+ "docs": 20,
+ "procs": 2,
+ "seconds": 90.5,
+ "errors": 0,
+ "tag": "_smoke",
+ "chunkers": [
+  "FIX",
+  "FIXO",
+  "SENTWIN",
+  "REC",
+  "STRUCT-M",
+  "STRUCT-NM",
+  "SentCDC",
+  "GCDC",
+  "BCDC",
+  "STL",
+  "STL+snap",
+  "KARA",
+  "DIFF[REC]",
+  "DIFF[STRUCT-M]",
+  "DOC"
+ ],
+ "Ts": [
+  200,
+  128,
+  320
+ ],
+ "intervals": [
+  "revision",
+  "daily",
+  "weekly",
+  "monthly"
+ ],
+ "odir": "/Users/sonha/Documents/SonHa/ICDE27/P3_DeltaChunk/results/raw/e1_smoke/wiki"
+}

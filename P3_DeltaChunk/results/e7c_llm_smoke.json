@@ -1,0 +1,57 @@
+{
+ "chunks": 5,
+ "wall_s": 108.4541004169987,
+ "calls": 5,
+ "hits": 0,
+ "sec_per_call_wall": 21.69082008339974,
+ "mean_latency_s": 106.92670644999961,
+ "prompt_tokens": 1291,
+ "completion_tokens": 1266,
+ "parallel": 8,
+ "meta": {
+  "time": "2026-11-09 17:02:24",
+  "host": "arm64",
+  "python": "3.12.12",
+  "versions": {
+   "numpy": "2.5.4",
+   "pandas": "3.1.1",
+   "langchain-text-splitters": "1.1.3",
+   "kara-toolkit": "0.3.2",
+   "steadlith": "1.0.1",
+   "fastcdc": "1.7.0",
+   "tokenizers": "0.22.2",
+   "sentence-transformers": "5.7.0",
+   "transformers": "4.57.6",
+   "torch": "2.15.0",
+   "hnswlib": "0.8.0",
+   "faiss-cpu": "1.15.1"
+  },
+  "threads": {
+   "P3_THREADS": 8,
+   "RAYON_NUM_THREADS": "8",
+   "TOKENIZERS_PARALLELISM": null,
+   "OMP_NUM_THREADS": "8"
+  },
+  "load": {
+   "top10": [
+    "100.0 1875712 python",
+    "100.0 1819760 python",
+    "100.0 624464 decoder",
+    "99.3 637536 decoder",
+    "99.3 1874240 python",
+    "98.7 635360 decoder",
+    "98.5 620448 decoder",
+    "97.7 1840384 python",
+    "97.6 651136 decoder",
+    "97.5 1909472 python"
+   ],
+   "memwatch": {
+    "ts": "2026-11-09 17:02:24",
+    "project_gb": 31.81,
+    "system_gb": 423.5
+   }
+  },
+  "llm_model": "qwen3:8b",
+  "note": "GPU shared with other projects; measured under contention"
+ }
+}

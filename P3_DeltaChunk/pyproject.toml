@@ -1,0 +1,5 @@
+[tool.pytest.ini_options]
+pythonpath = ["src"]
+testpaths = ["tests"]
+markers = ["slow: long-running exhaustive/random tests"]
+addopts = "-m 'not slow'"

@@ -1,0 +1,79 @@
+topic,finding,value,source
+cost@T128,"cpy: chunkers ranked by mean re-embedded fraction of the new version (S1, per revision)",KARA 0.063 (size 123); DIFF[STRUCT-M] 0.068 (size 126); DIFF[REC] 0.069 (size 127); GCDC 0.076 (size 124); STRUCT-M 0.078 (size 128); SentCDC 0.080 (size 134); BCDC 0.084 (size 137); REC 0.089 (size 131); STL+snap 0.108 (size 118); STL 0.144 (size 126); FIX 0.524 (size 126); FIXO 0.655 (size 127); DOC 0.982 (size 131),e1_summary.csv
+cost@T128,cpy: lowest history-free cost at nominal T=128,GCDC 0.076,e1_summary.csv
+cost@T128,cpy: FIX vs REC re-embedded fraction,0.524 vs 0.089 (ratio 5.9x),e1_summary.csv
+cost@T128,cpy: DOC vs REC re-embedded fraction,0.982 vs 0.089 (ratio 11.1x),e1_summary.csv
+cost@T128,"k8s: chunkers ranked by mean re-embedded fraction of the new version (S1, per revision)",KARA 0.134 (size 120); DIFF[REC] 0.143 (size 125); STRUCT-M 0.144 (size 131); DIFF[STRUCT-M] 0.144 (size 132); GCDC 0.151 (size 130); REC 0.165 (size 128); BCDC 0.167 (size 128); SentCDC 0.167 (size 136); STL+snap 0.203 (size 117); STL 0.266 (size 126); FIX 0.573 (size 125); FIXO 0.714 (size 126); DOC 0.985 (size 128),e1_summary.csv
+cost@T128,k8s: lowest history-free cost at nominal T=128,STRUCT-M 0.144,e1_summary.csv
+cost@T128,k8s: FIX vs REC re-embedded fraction,0.573 vs 0.165 (ratio 3.5x),e1_summary.csv
+cost@T128,k8s: DOC vs REC re-embedded fraction,0.985 vs 0.165 (ratio 6.0x),e1_summary.csv
+cost@T128,"wiki: chunkers ranked by mean re-embedded fraction of the new version (S1, per revision)",KARA 0.258 (size 115); GCDC 0.266 (size 118); STRUCT-M 0.274 (size 123); SentCDC 0.279 (size 119); DIFF[REC] 0.291 (size 128); BCDC 0.297 (size 124); REC 0.305 (size 131); DIFF[STRUCT-M] 0.308 (size 133); STL+snap 0.355 (size 119); STL 0.390 (size 122); FIX 0.576 (size 117); FIXO 0.702 (size 120); DOC 0.998 (size 131),e1_summary.csv
+cost@T128,wiki: lowest history-free cost at nominal T=128,GCDC 0.266,e1_summary.csv
+cost@T128,wiki: FIX vs REC re-embedded fraction,0.576 vs 0.305 (ratio 1.9x),e1_summary.csv
+cost@T128,wiki: DOC vs REC re-embedded fraction,0.998 vs 0.305 (ratio 3.3x),e1_summary.csv
+sync,cpy DOC: total re-embedded tokens vs per-revision sync (T=200),daily 0.84; monthly 0.46; sync at release dates 0.32; weekly 0.66,e1_summary.csv
+sync,cpy FIX: total re-embedded tokens vs per-revision sync (T=200),daily 0.86; monthly 0.53; sync at release dates 0.40; weekly 0.71,e1_summary.csv
+sync,cpy KARA: total re-embedded tokens vs per-revision sync (T=200),daily 0.97; monthly 0.87; sync at release dates 0.79; weekly 0.92,e1_summary.csv
+sync,cpy REC: total re-embedded tokens vs per-revision sync (T=200),daily 0.95; monthly 0.78; sync at release dates 0.68; weekly 0.87,e1_summary.csv
+sync,cpy SentCDC: total re-embedded tokens vs per-revision sync (T=200),daily 0.96; monthly 0.85; sync at release dates 0.76; weekly 0.92,e1_summary.csv
+sync,k8s DOC: total re-embedded tokens vs per-revision sync (T=200),daily 0.95; monthly 0.61; weekly 0.84,e1_summary.csv
+sync,k8s FIX: total re-embedded tokens vs per-revision sync (T=200),daily 0.96; monthly 0.71; weekly 0.88,e1_summary.csv
+sync,k8s KARA: total re-embedded tokens vs per-revision sync (T=200),daily 0.99; monthly 0.89; weekly 0.97,e1_summary.csv
+sync,k8s REC: total re-embedded tokens vs per-revision sync (T=200),daily 0.99; monthly 0.88; weekly 0.96,e1_summary.csv
+sync,k8s SentCDC: total re-embedded tokens vs per-revision sync (T=200),daily 0.99; monthly 0.88; weekly 0.96,e1_summary.csv
+sync,wiki DOC: total re-embedded tokens vs per-revision sync (T=200),daily 0.51; monthly 0.33; weekly 0.42,e1_summary.csv
+sync,wiki FIX: total re-embedded tokens vs per-revision sync (T=200),daily 0.58; monthly 0.41; weekly 0.50,e1_summary.csv
+sync,wiki KARA: total re-embedded tokens vs per-revision sync (T=200),daily 0.71; monthly 0.57; weekly 0.64,e1_summary.csv
+sync,wiki REC: total re-embedded tokens vs per-revision sync (T=200),daily 0.67; monthly 0.53; weekly 0.60,e1_summary.csv
+sync,wiki SentCDC: total re-embedded tokens vs per-revision sync (T=200),daily 0.71; monthly 0.57; weekly 0.64,e1_summary.csv
+theory,wiki: Theorem 1 at r=20 (violations INS/DEL over covered edits),0/0 over 73649 of 82949 edits (88.8% covered),e2_thm1_wiki.json
+theory,wiki: Theorem 1 at r=3 (violations INS/DEL over covered edits),0/0 over 81266 of 82949 edits (98.0% covered),e2_thm1_wiki_r3.json
+theory,k8s: Theorem 1 at r=20 (violations INS/DEL over covered edits),0/0 over 10040 of 14924 edits (67.3% covered),e2_thm1_k8s.json
+theory,k8s: Theorem 1 at r=3 (violations INS/DEL over covered edits),0/0 over 13845 of 14924 edits (92.8% covered),e2_thm1_k8s_r3.json
+theory,cpy: Theorem 1 at r=7 (violations INS/DEL over covered edits),0/0 over 16829 of 25817 edits (65.2% covered),e2_thm1_cpy.json
+theory,cpy: Theorem 1 at r=3 (violations INS/DEL over covered edits),0/0 over 23809 of 25817 edits (92.2% covered),e2_thm1_cpy_r3.json
+predictor,WIKI-calibrated INS predictor on k8s: MdAPE non-trivial / Kendall tau,0.106 / 0.733,e2_predict.json
+predictor,WIKI-calibrated INS predictor on cpy: MdAPE non-trivial / Kendall tau,0.207 / 1.000,e2_predict.json
+drift,cpy DIFF[REC]: key divergence / KS vs fresh at each document's final version (291 docs whose final edit index is not a checkpoint),0.470 / 0.158,e3_drift_cpy.csv
+drift,cpy DIFF[REC]: key divergence / KS vs fresh at t=250 (21 docs; largest t with >= 20 docs),0.528 / 0.202,e3_drift_cpy.csv
+drift,cpy DIFF[STRUCT-M]: key divergence / KS vs fresh at each document's final version (291 docs whose final edit index is not a checkpoint),0.367 / 0.125,e3_drift_cpy.csv
+drift,cpy DIFF[STRUCT-M]: key divergence / KS vs fresh at t=250 (21 docs; largest t with >= 20 docs),0.392 / 0.160,e3_drift_cpy.csv
+drift,cpy KARA: key divergence / KS vs fresh at each document's final version (291 docs whose final edit index is not a checkpoint),0.844 / 0.300,e3_drift_cpy.csv
+drift,cpy KARA: key divergence / KS vs fresh at t=250 (21 docs; largest t with >= 20 docs),0.820 / 0.294,e3_drift_cpy.csv
+drift,k8s DIFF[REC]: key divergence / KS vs fresh at each document's final version (272 docs whose final edit index is not a checkpoint),0.422 / 0.111,e3_drift_k8s.csv
+drift,k8s DIFF[REC]: key divergence / KS vs fresh at t=100 (29 docs; largest t with >= 20 docs),0.404 / 0.135,e3_drift_k8s.csv
+drift,k8s DIFF[STRUCT-M]: key divergence / KS vs fresh at each document's final version (272 docs whose final edit index is not a checkpoint),0.184 / 0.037,e3_drift_k8s.csv
+drift,k8s DIFF[STRUCT-M]: key divergence / KS vs fresh at t=100 (29 docs; largest t with >= 20 docs),0.182 / 0.029,e3_drift_k8s.csv
+drift,k8s KARA: key divergence / KS vs fresh at each document's final version (272 docs whose final edit index is not a checkpoint),0.824 / 0.212,e3_drift_k8s.csv
+drift,k8s KARA: key divergence / KS vs fresh at t=100 (29 docs; largest t with >= 20 docs),0.874 / 0.269,e3_drift_k8s.csv
+drift,wiki DIFF[REC]: key divergence / KS vs fresh at each document's final version (969 docs whose final edit index is not a checkpoint),0.374 / 0.091,e3_drift_wiki.csv
+drift,wiki DIFF[REC]: key divergence / KS vs fresh at t=250 (29 docs; largest t with >= 20 docs),0.435 / 0.144,e3_drift_wiki.csv
+drift,wiki DIFF[STRUCT-M]: key divergence / KS vs fresh at each document's final version (969 docs whose final edit index is not a checkpoint),0.315 / 0.110,e3_drift_wiki.csv
+drift,wiki DIFF[STRUCT-M]: key divergence / KS vs fresh at t=250 (29 docs; largest t with >= 20 docs),0.353 / 0.113,e3_drift_wiki.csv
+drift,wiki KARA: key divergence / KS vs fresh at each document's final version (969 docs whose final edit index is not a checkpoint),0.846 / 0.337,e3_drift_wiki.csv
+drift,wiki KARA: key divergence / KS vs fresh at t=250 (29 docs; largest t with >= 20 docs),0.873 / 0.337,e3_drift_wiki.csv
+quality,"all: evidence recall@1024 range over chunkers (T=128, native background)",0.490 (STL) - 0.621 (STRUCT-NM),e4_stats.csv
+quality,all: chunkers differing from REC at Holm p<0.05,"KARA +0.044, STL -0.048, STRUCT-NM +0.083",e4_stats.csv
+quality,"all: equivalent to REC within 2 pp (TOST, n >= n_required)",none,e4_stats.csv
+quality,"cpy: evidence recall@1024 range over chunkers (T=128, native background)",0.365 (SentCDC) - 0.505 (STRUCT-NM),e4_stats.csv
+quality,cpy: chunkers differing from REC at Holm p<0.05,STRUCT-NM +0.085,e4_stats.csv
+quality,"cpy: equivalent to REC within 2 pp (TOST, n >= n_required)",none,e4_stats.csv
+quality,"k8s: evidence recall@1024 range over chunkers (T=128, native background)",0.395 (SentCDC) - 0.515 (STRUCT-NM),e4_stats.csv
+quality,k8s: chunkers differing from REC at Holm p<0.05,none,e4_stats.csv
+quality,"k8s: equivalent to REC within 2 pp (TOST, n >= n_required)",none,e4_stats.csv
+quality,"wiki: evidence recall@1024 range over chunkers (T=128, native background)",0.560 (STL) - 0.710 (STRUCT-NM),e4_stats.csv
+quality,wiki: chunkers differing from REC at Holm p<0.05,"KARA +0.066, STL -0.056, STRUCT-NM +0.094",e4_stats.csv
+quality,"wiki: equivalent to REC within 2 pp (TOST, n >= n_required)",none,e4_stats.csv
+freshness,"E4 stale-20 vs maintained REC, recall@1024, all questions (pooled; paired, clustered 95% CI)","0.313 vs 0.538: diff -0.224 [-0.256, -0.195], n=900",e4_stats_fresh.csv
+freshness,"E4 stale-20 vs maintained REC, recall@1024, edit-proximal questions (pooled; paired, clustered 95% CI)","0.008 vs 0.526: diff -0.518 [-0.571, -0.464], n=392",e4_stats_fresh_prox.csv
+freshness,"E9 stale-20 vs maintained REC, answer contains, all questions (pooled; paired, clustered 95% CI)","0.220 vs 0.280: diff -0.060 [-0.100, -0.020], n=300",e9_stats_fresh.csv
+freshness,"E9 stale-20 vs maintained REC, answer contains, edit-proximal questions (pooled; paired, clustered 95% CI)","0.138 vs 0.261: diff -0.123 [-0.186, -0.059], n=138",e9_stats_fresh_prox.csv
+late,E5b policies vs EXACT: recall diff [clustered 95% CI] / forward tokens rel. to EXACT,"STALE +0.010 [-0.003, +0.024] / 0.99; WINDOW-0 -0.020 [-0.049, +0.007] / 0.40; WINDOW-1 -0.007 [-0.026, +0.013] / 0.50; WINDOW-2 -0.007 [-0.020, +0.007] / 0.58; WINDOW-4 +0.000 [-0.010, +0.010] / 0.69",e5b_stats.csv
+late,"LATE: cos(old,new) of unchanged chunks adjacent to an edit (mean / p05) vs LATE-ctl min",0.9962 / 0.9860 vs 1.000000,e5a_late.json
+late,edit-proximal recall EXACT / STALE / WINDOW-1 and forward tokens,"EXACT 0.683 (9,473,873 tok) / STALE 0.693 (9,377,858 tok) / WINDOW-1 0.677 (4,714,338 tok)",e5b_policies.json
+ctx,CTX seconds per chunk call without / with prompt cache (measured under contention),12.97 / 6.83,e5c_ctx_cost.json
+regime,"cpy: share of log-cost variance explained by chunker (scope x regime design, no LLM regime)",0.630,e7_analysis.json
+regime,"k8s: share of log-cost variance explained by chunker (scope x regime design, no LLM regime)",0.369,e7_analysis.json
+regime,"wiki: share of log-cost variance explained by chunker (scope x regime design, no LLM regime)",0.112,e7_analysis.json
+index,judge-3 valid (rho(N) measured and c_q > 0),True,e7_analysis.json
+index,cells where the chunker-aware cost-optimal index policy differs from the index-only one,109 of 195 defined,e7_judge3.csv

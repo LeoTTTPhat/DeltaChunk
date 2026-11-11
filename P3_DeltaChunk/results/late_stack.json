@@ -1,0 +1,14 @@
+{
+ "model": "jinaai/jina-embeddings-v2-small-en",
+ "transformers": "4.57.6",
+ "sentence_transformers": "5.7.0",
+ "torch": "2.15.0",
+ "device": "mps",
+ "path": "sentence-transformers 5.7.0 + transformers 4.x, trust_remote_code (no patch)",
+ "min_cos": 0.9999999403953552,
+ "mean_cos": 0.9999999970197677,
+ "ok": true,
+ "pooling": "Pooling({'embedding_dimension': 512, 'pooling_mode': 'mean', 'include_prompt': True})",
+ "max_seq_length": 8192,
+ "seconds": 4.4
+}

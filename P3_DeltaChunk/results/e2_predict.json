@@ -1,0 +1,646 @@
+{
+ "rows": [
+  {
+   "stream": "cpy",
+   "chunker": "DOC",
+   "measured": 66.208,
+   "predicted_raw": 54.41575564409031,
+   "predicted": 74.58860547667966,
+   "edits": 1500,
+   "factor_from_wiki": 1.3707170762183503,
+   "ape": 0.12657995222147872
+  },
+  {
+   "stream": "cpy",
+   "chunker": "FIX",
+   "measured": 34.654,
+   "predicted_raw": 37.534946207280385,
+   "predicted": 32.304963262256486,
+   "edits": 1500,
+   "factor_from_wiki": 0.8606636355320132,
+   "ape": 0.06778544288519413
+  },
+  {
+   "stream": "cpy",
+   "chunker": "REC",
+   "measured": 4.294,
+   "predicted_raw": 7.413533333333333,
+   "predicted": 5.18378710345042,
+   "edits": 1500,
+   "factor_from_wiki": 0.6992329932803638,
+   "ape": 0.2072163724849606
+  },
+  {
+   "stream": "cpy",
+   "chunker": "SENTWIN",
+   "measured": 7.06,
+   "predicted_raw": 7.412,
+   "predicted": 6.876224727142601,
+   "edits": 1500,
+   "factor_from_wiki": 0.9277151547682948,
+   "ape": 0.026030491906147125
+  },
+  {
+   "stream": "cpy",
+   "chunker": "STRUCT-M",
+   "measured": 3.2866666666666666,
+   "predicted_raw": 7.875033333333333,
+   "predicted": 5.012979486245558,
+   "edits": 1500,
+   "factor_from_wiki": 0.6365661291904234,
+   "ape": 0.5252473081883037
+  },
+  {
+   "stream": "cpy",
+   "chunker": "SentCDC",
+   "measured": 2.8353333333333333,
+   "predicted_raw": 3.483431458333333,
+   "predicted": 3.0592758601256618,
+   "edits": 1500,
+   "factor_from_wiki": 0.8782362726865275,
+   "ape": 0.0789827863128363
+  },
+  {
+   "stream": "k8s",
+   "chunker": "DOC",
+   "measured": 25.181333333333335,
+   "predicted_raw": 20.024379084967318,
+   "predicted": 27.44775835243429,
+   "edits": 1500,
+   "factor_from_wiki": 1.3707170762183503,
+   "ape": 0.09000417051391058
+  },
+  {
+   "stream": "k8s",
+   "chunker": "FIX",
+   "measured": 15.636666666666667,
+   "predicted_raw": 17.350681092269046,
+   "predicted": 14.93310026782884,
+   "edits": 1500,
+   "factor_from_wiki": 0.8606636355320132,
+   "ape": 0.04499465351766108
+  },
+  {
+   "stream": "k8s",
+   "chunker": "REC",
+   "measured": 4.677333333333333,
+   "predicted_raw": 6.587544444444444,
+   "predicted": 4.60622842025632,
+   "edits": 1500,
+   "factor_from_wiki": 0.6992329932803638,
+   "ape": 0.01520201961452676
+  },
+  {
+   "stream": "k8s",
+   "chunker": "SENTWIN",
+   "measured": 8.408,
+   "predicted_raw": 9.338666666666667,
+   "predicted": 8.663622591996182,
+   "edits": 1500,
+   "factor_from_wiki": 0.9277151547682948,
+   "ape": 0.03040230637442704
+  },
+  {
+   "stream": "k8s",
+   "chunker": "STRUCT-M",
+   "measured": 3.211333333333333,
+   "predicted_raw": 7.429222222222223,
+   "predicted": 4.7291912328954755,
+   "edits": 1500,
+   "factor_from_wiki": 0.6365661291904234,
+   "ape": 0.4726566014829175
+  },
+  {
+   "stream": "k8s",
+   "chunker": "SentCDC",
+   "measured": 3.421333333333333,
+   "predicted_raw": 3.484564791666667,
+   "predicted": 3.0602711945680396,
+   "edits": 1500,
+   "factor_from_wiki": 0.8782362726865275,
+   "ape": 0.10553258147855421
+  },
+  {
+   "stream": "wiki",
+   "chunker": "DOC",
+   "measured": 8.75,
+   "predicted_raw": 6.383520094562648,
+   "predicted": 8.749999999999998,
+   "edits": 1500,
+   "factor_from_wiki": 1.3707170762183503,
+   "ape": 2.0301221021717148e-16
+  },
+  {
+   "stream": "wiki",
+   "chunker": "FIX",
+   "measured": 5.0553333333333335,
+   "predicted_raw": 5.873761972304563,
+   "predicted": 5.0553333333333335,
+   "edits": 1500,
+   "factor_from_wiki": 0.8606636355320132,
+   "ape": 0.0
+  },
+  {
+   "stream": "wiki",
+   "chunker": "REC",
+   "measured": 1.7493333333333334,
+   "predicted_raw": 2.501788888888889,
+   "predicted": 1.7493333333333334,
+   "edits": 1500,
+   "factor_from_wiki": 0.6992329932803638,
+   "ape": 0.0
+  },
+  {
+   "stream": "wiki",
+   "chunker": "SENTWIN",
+   "measured": 3.4566666666666666,
+   "predicted_raw": 3.726,
+   "predicted": 3.4566666666666666,
+   "edits": 1500,
+   "factor_from_wiki": 0.9277151547682948,
+   "ape": 0.0
+  },
+  {
+   "stream": "wiki",
+   "chunker": "STRUCT-M",
+   "measured": 1.5146666666666666,
+   "predicted_raw": 2.3794333333333335,
+   "predicted": 1.5146666666666666,
+   "edits": 1500,
+   "factor_from_wiki": 0.6365661291904234,
+   "ape": 0.0
+  },
+  {
+   "stream": "wiki",
+   "chunker": "SentCDC",
+   "measured": 1.6806666666666668,
+   "predicted_raw": 1.9136839583333334,
+   "predicted": 1.6806666666666668,
+   "edits": 1500,
+   "factor_from_wiki": 0.8782362726865275,
+   "ape": 0.0
+  }
+ ],
+ "per_class": [
+  {
+   "stream": "cpy",
+   "chunker": "DOC",
+   "edit_class": "multi",
+   "measured": 69.65862068965517,
+   "predicted": 78.98825414510844,
+   "ape": 0.13393365190245288
+  },
+  {
+   "stream": "cpy",
+   "chunker": "DOC",
+   "edit_class": "single",
+   "measured": 65.67447045707915,
+   "predicted": 73.65632197419909,
+   "ape": 0.1215365949899267
+  },
+  {
+   "stream": "cpy",
+   "chunker": "DOC",
+   "edit_class": "ws",
+   "measured": 0.0,
+   "predicted": 0.0,
+   "ape": 0.0
+  },
+  {
+   "stream": "cpy",
+   "chunker": "FIX",
+   "edit_class": "multi",
+   "measured": 43.51896551724138,
+   "predicted": 39.96517679076472,
+   "ape": 0.08166068940836177
+  },
+  {
+   "stream": "cpy",
+   "chunker": "FIX",
+   "edit_class": "single",
+   "measured": 29.81047937569677,
+   "predicted": 28.180203294025848,
+   "ape": 0.054688019643186835
+  },
+  {
+   "stream": "cpy",
+   "chunker": "FIX",
+   "edit_class": "ws",
+   "measured": 0.0,
+   "predicted": 0.0,
+   "ape": 0.0
+  },
+  {
+   "stream": "cpy",
+   "chunker": "REC",
+   "edit_class": "multi",
+   "measured": 7.172413793103448,
+   "predicted": 10.885932502857342,
+   "ape": 0.5177502047253024
+  },
+  {
+   "stream": "cpy",
+   "chunker": "REC",
+   "edit_class": "single",
+   "measured": 2.5429208472686735,
+   "predicted": 1.629698777612454,
+   "ape": 0.35912327772101216
+  },
+  {
+   "stream": "cpy",
+   "chunker": "REC",
+   "edit_class": "ws",
+   "measured": 0.0,
+   "predicted": 0.0,
+   "ape": 0.0
+  },
+  {
+   "stream": "cpy",
+   "chunker": "SENTWIN",
+   "edit_class": "multi",
+   "measured": 13.470689655172414,
+   "predicted": 13.269525730961679,
+   "ape": 0.014933453992349507
+  },
+  {
+   "stream": "cpy",
+   "chunker": "SENTWIN",
+   "edit_class": "single",
+   "measured": 3.0958751393534003,
+   "predicted": 2.918631178100477,
+   "ape": 0.05725165042991437
+  },
+  {
+   "stream": "cpy",
+   "chunker": "SENTWIN",
+   "edit_class": "ws",
+   "measured": 0.0,
+   "predicted": 0.0,
+   "ape": 0.0
+  },
+  {
+   "stream": "cpy",
+   "chunker": "STRUCT-M",
+   "edit_class": "multi",
+   "measured": 5.8310344827586205,
+   "predicted": 10.603856386811566,
+   "ape": 0.818520610393468
+  },
+  {
+   "stream": "cpy",
+   "chunker": "STRUCT-M",
+   "edit_class": "single",
+   "measured": 1.725752508361204,
+   "predicted": 1.526457664456664,
+   "ape": 0.11548286497569268
+  },
+  {
+   "stream": "cpy",
+   "chunker": "STRUCT-M",
+   "edit_class": "ws",
+   "measured": 0.0,
+   "predicted": 0.0,
+   "ape": 0.0
+  },
+  {
+   "stream": "cpy",
+   "chunker": "SentCDC",
+   "edit_class": "multi",
+   "measured": 5.13448275862069,
+   "predicted": 5.982025929504306,
+   "ape": 0.16506885128022064
+  },
+  {
+   "stream": "cpy",
+   "chunker": "SentCDC",
+   "edit_class": "single",
+   "measured": 1.4214046822742474,
+   "predicted": 1.2478692877101394,
+   "ape": 0.12208725405804308
+  },
+  {
+   "stream": "cpy",
+   "chunker": "SentCDC",
+   "edit_class": "ws",
+   "measured": 0.0,
+   "predicted": 0.0,
+   "ape": 0.0
+  },
+  {
+   "stream": "k8s",
+   "chunker": "DOC",
+   "edit_class": "multi",
+   "measured": 28.548657718120804,
+   "predicted": 31.503945097471682,
+   "ape": 0.10351755968810598
+  },
+  {
+   "stream": "k8s",
+   "chunker": "DOC",
+   "edit_class": "single",
+   "measured": 23.427765237020317,
+   "predicted": 25.27684678392586,
+   "ape": 0.07892692829206097
+  },
+  {
+   "stream": "k8s",
+   "chunker": "DOC",
+   "edit_class": "ws",
+   "measured": 0.0,
+   "predicted": 0.0,
+   "ape": 0.0
+  },
+  {
+   "stream": "k8s",
+   "chunker": "FIX",
+   "edit_class": "multi",
+   "measured": 21.71476510067114,
+   "predicted": 19.907903499105934,
+   "ape": 0.08320889464787999
+  },
+  {
+   "stream": "k8s",
+   "chunker": "FIX",
+   "edit_class": "single",
+   "measured": 11.86568848758465,
+   "predicted": 11.889999905503524,
+   "ape": 0.0020488838843452963
+  },
+  {
+   "stream": "k8s",
+   "chunker": "FIX",
+   "edit_class": "ws",
+   "measured": 0.0,
+   "predicted": 0.0,
+   "ape": 0.0
+  },
+  {
+   "stream": "k8s",
+   "chunker": "REC",
+   "edit_class": "multi",
+   "measured": 8.937919463087248,
+   "predicted": 9.700801893016806,
+   "ape": 0.08535346878881483
+  },
+  {
+   "stream": "k8s",
+   "chunker": "REC",
+   "edit_class": "single",
+   "measured": 1.9063205417607223,
+   "predicted": 1.2727592575016526,
+   "ape": 0.3323477192738518
+  },
+  {
+   "stream": "k8s",
+   "chunker": "REC",
+   "edit_class": "ws",
+   "measured": 0.0,
+   "predicted": 0.0,
+   "ape": 0.0
+  },
+  {
+   "stream": "k8s",
+   "chunker": "SENTWIN",
+   "edit_class": "multi",
+   "measured": 16.614093959731544,
+   "predicted": 17.547202918964743,
+   "ape": 0.05616369821278391
+  },
+  {
+   "stream": "k8s",
+   "chunker": "SENTWIN",
+   "edit_class": "single",
+   "measured": 3.0586907449209932,
+   "predicted": 2.863770821999194,
+   "ape": 0.06372658734638892
+  },
+  {
+   "stream": "k8s",
+   "chunker": "SENTWIN",
+   "edit_class": "ws",
+   "measured": 0.0,
+   "predicted": 0.0,
+   "ape": 0.0
+  },
+  {
+   "stream": "k8s",
+   "chunker": "STRUCT-M",
+   "edit_class": "multi",
+   "measured": 6.268456375838926,
+   "predicted": 10.162521917171073,
+   "ape": 0.6212160231889614
+  },
+  {
+   "stream": "k8s",
+   "chunker": "STRUCT-M",
+   "edit_class": "single",
+   "measured": 1.2200902934537246,
+   "predicted": 1.170342874389677,
+   "ape": 0.040773555310588384
+  },
+  {
+   "stream": "k8s",
+   "chunker": "STRUCT-M",
+   "edit_class": "ws",
+   "measured": 0.0,
+   "predicted": 0.0,
+   "ape": 0.0
+  },
+  {
+   "stream": "k8s",
+   "chunker": "SentCDC",
+   "edit_class": "multi",
+   "measured": 6.708053691275167,
+   "predicted": 6.134198548126215,
+   "ape": 0.08554718992415597
+  },
+  {
+   "stream": "k8s",
+   "chunker": "SentCDC",
+   "edit_class": "single",
+   "measured": 1.2799097065462754,
+   "predicted": 1.054655143531417,
+   "ape": 0.1759925421791574
+  },
+  {
+   "stream": "k8s",
+   "chunker": "SentCDC",
+   "edit_class": "ws",
+   "measured": 0.0,
+   "predicted": 0.0,
+   "ape": 0.0
+  }
+ ],
+ "config": {
+  "cpy": {
+   "r": 7,
+   "lam": 0.5,
+   "T": {
+    "REC": 251,
+    "STRUCT-M": 277,
+    "FIX": 200
+   },
+   "p_par": 0.5329827565121683,
+   "unit_tok": 22.964118870001222,
+   "mean_block_tok": 43.086044697352115
+  },
+  "k8s": {
+   "r": 20,
+   "lam": 0.5,
+   "T": {
+    "REC": 255,
+    "STRUCT-M": 380,
+    "FIX": 200
+   },
+   "p_par": 0.3980078854534136,
+   "unit_tok": 29.379228055613197,
+   "mean_block_tok": 73.81569343065694
+  },
+  "wiki": {
+   "r": 20,
+   "lam": 0.5,
+   "T": {
+    "REC": 282,
+    "STRUCT-M": 897,
+    "FIX": 200
+   },
+   "p_par": 0.2797971259509721,
+   "unit_tok": 18.409213863060018,
+   "mean_block_tok": 65.79486404833837
+  }
+ },
+ "note": "Per-chunker APE is the primary result; FIX/DOC/SENTWIN are closed forms (trivial), REC/STRUCT-M (greedy coupling) and SentCDC (Monte Carlo) are the non-trivial predictors and are summarised separately.",
+ "k8s": {
+  "MdAPE_all": 0.06749941201578583,
+  "MdAPE_nontrivial": 0.10553258147855421,
+  "ape": {
+   "DOC": 0.09000417051391058,
+   "FIX": 0.04499465351766108,
+   "REC": 0.01520201961452676,
+   "SENTWIN": 0.03040230637442704,
+   "STRUCT-M": 0.4726566014829175,
+   "SentCDC": 0.10553258147855421
+  },
+  "kendall_tau": 0.7333333333333333,
+  "items": 6,
+  "ape_ci95": {
+   "DOC": [
+    0.06279867172126191,
+    0.11889478287707271
+   ],
+   "FIX": [
+    0.014445537305672423,
+    0.07229845150855468
+   ],
+   "REC": [
+    0.0028512566127539348,
+    0.3534268514915604
+   ],
+   "SENTWIN": [
+    0.0012451551876592822,
+    0.124305637106808
+   ],
+   "STRUCT-M": [
+    0.12725408556083653,
+    0.822723101969347
+   ],
+   "SentCDC": [
+    0.0027270104582847025,
+    0.298519486011187
+   ]
+  },
+  "kendall_tau_ci95": [
+   0.7333333333333333,
+   0.8666666666666666
+  ]
+ },
+ "cpy": {
+  "MdAPE_all": 0.1027813692671575,
+  "MdAPE_nontrivial": 0.2072163724849606,
+  "ape": {
+   "DOC": 0.12657995222147872,
+   "FIX": 0.06778544288519413,
+   "REC": 0.2072163724849606,
+   "SENTWIN": 0.026030491906147125,
+   "STRUCT-M": 0.5252473081883037,
+   "SentCDC": 0.0789827863128363
+  },
+  "kendall_tau": 0.9999999999999999,
+  "items": 6,
+  "ape_ci95": {
+   "DOC": [
+    0.11586829217070177,
+    0.13827890726284697
+   ],
+   "FIX": [
+    0.038330318215167955,
+    0.09485106035126735
+   ],
+   "REC": [
+    0.10159647213615236,
+    0.32457279534355005
+   ],
+   "SENTWIN": [
+    0.004609442190668135,
+    0.043725005525537944
+   ],
+   "STRUCT-M": [
+    0.40952332535922437,
+    0.66065289023103
+   ],
+   "SentCDC": [
+    0.02549626399146516,
+    0.1397058163760541
+   ]
+  },
+  "kendall_tau_ci95": [
+   0.9999999999999999,
+   0.9999999999999999
+  ]
+ },
+ "meta": {
+  "time": "2026-11-09 20:18:38",
+  "host": "arm64",
+  "python": "3.12.12",
+  "versions": {
+   "numpy": "2.5.4",
+   "pandas": "3.1.1",
+   "langchain-text-splitters": "1.1.3",
+   "kara-toolkit": "0.3.2",
+   "steadlith": "1.0.1",
+   "fastcdc": "1.7.0",
+   "tokenizers": "0.22.2",
+   "sentence-transformers": "5.7.0",
+   "transformers": "4.57.6",
+   "torch": "2.15.0",
+   "hnswlib": "0.8.0",
+   "faiss-cpu": "1.15.1"
+  },
+  "threads": {
+   "P3_THREADS": 8,
+   "RAYON_NUM_THREADS": "8",
+   "TOKENIZERS_PARALLELISM": null,
+   "OMP_NUM_THREADS": "8"
+  },
+  "load": {
+   "top10": [
+    "196.9 5474816 mds_stores",
+    "99.3 1107648 python",
+    "99.3 1770560 python",
+    "99.1 1678400 python",
+    "96.3 1850272 python",
+    "75.4 365488 mediaanalysisd",
+    "72.7 2104736 curl_fuzzer_http",
+    "69.6 809456 curl_fuzzer_rtsp",
+    "67.1 16391680 llama-server",
+    "59.4 28484960 llama-server"
+   ],
+   "memwatch": {
+    "ts": "2026-11-09 20:18:37",
+    "project_gb": 35.45,
+    "system_gb": 415.83
+   }
+  },
+  "seeds": "sha256(doc_id:rev_new)"
+ }
+}

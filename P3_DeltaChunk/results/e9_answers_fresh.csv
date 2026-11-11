@@ -1,0 +1,601 @@
+qid,stream,config,proximal,answer,gold,em,f1,contains
+386b1d860a60,cpy,REC,False,surrogatepass,Subject,0,0.0,0
+e2158d68f186,cpy,REC,True,IEEE 754,IEEE 754,1,1.0,1
+8104def1b635,wiki,REC,False,Rosa Parks,Harrison,0,0.0,0
+8b0a6ab99c56,k8s,REC,False,completion of the first init container,mydb,0,0.0,0
+a3b43838954b,cpy,REC,True,co_lines,get_source,0,0.0,0
+57ea39e23be4,cpy,REC,False,the anomaly's nature and containment methods,when a feature is safe to remove,0,0.0,0
+de5fe190e67b,wiki,REC,False,Months,Months,1,1.0,1
+68a7cf107312,k8s,REC,False,The key factor to distinguish them is to look at how many instructions the processor can issue in one cycle and how many threads from which the instructions come,looser compatibility promises,0,0.0,0
+6c46ab7f7a6c,wiki,REC,True,Large Hadron Collider,the Tevatron,0,0.0,0
+c5f44e63eb87,wiki,REC,True,Animal rights activist,active animal rights activist,0,0.8571428571428571,0
+54194bb3d487,wiki,REC,False,"""Lord, into thy hands, I commend my spirit!""",You're destined to sing,0,0.0,0
+d8b5542d35ab,wiki,REC,True,1001 to 2000,years 1001 to 2000,0,0.8571428571428571,0
+c7ae5db484ff,wiki,REC,False,Family name first,order of the alphabet,0,0.0,0
+eeb8d1b8f84b,wiki,REC,False,gently and differently from bottle-feeding,different way,0,0.0,0
+a9f002a3a7b7,wiki,REC,False,a short war,the war to end all wars,0,0.28571428571428575,0
+d1860a8dd975,wiki,REC,True,1973,1973,1,1.0,1
+8acf0c353b15,wiki,REC,True,"Criminal Law (Amendment) Bill, 2018",Zainab Alert Bill,0,0.25,0
+bf20d90026c8,wiki,REC,True,semiconductor devices,most semiconductors,0,0.0,0
+5eb7c84e2f65,cpy,REC,True,,&#62;,0,0.0,0
+4a5b4468c689,cpy,REC,False,Debugging tools,This allows failures to be post-mortem debugged,0,0.0,0
+5e19952950d5,wiki,REC,False,owl pellets,the things that owls eat,0,0.0,0
+023f4c227d50,k8s,REC,True,decimal value,decimal values,0,0.5,0
+bd273ca3782f,k8s,REC,True,--certificate-renewal=false,--certificate-renewal=false,1,1.0,1
+f2e54bed7bb7,wiki,REC,True,"Art competitions, horse racing, athletics, tug of war, Berlin Marathon, and others.","race, stone throw and archery",0,0.11764705882352941,0
+4bbbf1ab9015,wiki,REC,False,Identity,the amount of matter in an object,0,0.0,0
+f295ab7ea338,wiki,REC,False,64 GB of internal storage,64 GB of storage,0,0.888888888888889,0
+0e10869790a3,wiki,REC,True,"Belgium, Luxembourg, Canada, Switzerland, Africa",Belgium (Wallonia),0,0.28571428571428575,0
+ab85edb018a4,wiki,REC,False,Church of England,Church of England,1,1.0,1
+f1659c92a1cc,wiki,REC,True,"laws on alcohol, gambling, and same-sex marriage",laws on alcohol (sales and content),0,0.6153846153846153,0
+e5f821131a56,cpy,REC,False,Operating system,built-in modules,0,0.0,0
+c3c00615d9cd,k8s,REC,True,Provides public cluster resources.,cluster usage,0,0.3333333333333333,0
+98332bededde,cpy,REC,False,'1.1000000000000001','1.1000000000000001',1,1.0,1
+541a68fc6650,wiki,REC,False,marijuana and edibles,marijuana over the counter,0,0.3333333333333333,0
+fbdcc618ed47,wiki,REC,True,Anti-abortion movement,postmodern architecture,0,0.0,0
+842ee86264bb,k8s,REC,False,unique object identity,the informing component,0,0.0,0
+c9fd21f88a48,cpy,REC,True,Python 3.13,removed in Python 3.13,0,0.6666666666666666,0
+a2fcbea9bcff,wiki,REC,False,Vasily Zaytsev,Vasily Zaytsev,1,1.0,1
+7a61c357b49c,wiki,REC,False,absorbent material,absorbent material,1,1.0,1
+888c15025931,wiki,REC,False,air to fly,airports,0,0.0,0
+14bb1f488424,wiki,REC,True,Lowe said Bland was a convict who killed a man.,such an important institution,0,0.0,0
+d50daa9bee2d,cpy,REC,False,virus scanning software configuration,two orders of magnitude,0,0.0,0
+5a61fa686c1b,wiki,REC,False,Der Blaue Reiter,Der Blaue Reiter,1,1.0,1
+4ad5a5dfd86c,wiki,REC,False,4–6 hours,as long as twelve hours,0,0.28571428571428575,0
+bdc91bf82927,wiki,REC,False,"about 20,000","about 20,000",1,1.0,1
+9a1aa46f70dc,cpy,REC,True,be deprecated and removed after becoming GA or dropped.,This feature will eventually be deprecated and removed,0,0.47058823529411764,0
+03d5e056e1f5,cpy,REC,False,map and primitive,:c:type:`PyObject` and :c:type:`PyVarObject`,0,0.3333333333333333,0
+2897e70e1b12,wiki,REC,False,Nickelodeon,Cartoon Network,0,0.0,0
+6f46bad97033,cpy,REC,False,update method,Keyword arguments,0,0.0,0
+21b63ead80d0,wiki,REC,True,Garth Brooks,Tinderbox album,0,0.0,0
+ef7d917270c9,cpy,REC,True,Searches all descendants.,open all of their descendants,0,0.5,0
+f6a9374db117,k8s,REC,True,Use sidecar containers for different log formats.,create two sidecar containers,0,0.36363636363636365,0
+81f07ca51f65,cpy,REC,False,In the same package or root directory.,interpreter where you need it,0,0.0,0
+012e28db1886,k8s,REC,True,In-place Pod resize,_in-place Pod vertical scaling_,0,0.5714285714285715,0
+c3bb2242e7a1,wiki,REC,False,Phoenix,The Mayflower,0,0.0,0
+3793b4b1eb42,wiki,REC,True,"8th May, 1969","8th May, 1969",1,1.0,1
+53fcfa97c396,cpy,REC,False,square numbers,All such numbers,0,0.4,0
+6c4519464e13,cpy,REC,False,callable or Filter object,case-insensitive substring matching,0,0.0,0
+649a980e2dab,wiki,REC,False,elephant behavior,Their ways of acting,0,0.0,0
+a181e4bc77cc,wiki,REC,True,Living things,"biotic, or living",0,0.4,0
+fe8baa38bccd,wiki,REC,False,Emerald,the colour of a squashed flea,0,0.0,0
+1703bab0fce0,wiki,REC,True,massacres occurring,the massacres occurring,1,1.0,1
+cdf11a9e69ac,wiki,REC,True,Francis Scott Key,Naftali Herz Imber,0,0.0,0
+4aee1d1025df,cpy,REC,False,Py_RETURN_NAN,0/0,0,0.0,0
+d09653e51e74,wiki,REC,True,Chinese characters and loanwords,Chinese loanwords,0,0.6666666666666666,0
+ccd24270fba1,cpy,REC,True,a pair of values,a floating-point value,0,0.0,0
+a4173874e248,wiki,REC,False,Indians,Indians,1,1.0,1
+499177ebb329,cpy,REC,True,posix,punctuation_chars,0,0.0,0
+d13b8da2377c,wiki,REC,True,Poor and unhealthy.,horrible,0,0.0,0
+74c2cba171c1,k8s,REC,False,Container orchestration and automation.,automation,0,0.4,1
+f4e27ae1db1d,wiki,REC,False,the rhythms and musical style of James Brown,rhythms and musical style,0,0.7272727272727273,1
+371fc3f5e8ae,wiki,REC,False,Rome,on the way to the hospital,0,0.0,0
+dc0f2d6671a0,wiki,REC,True,2000,2000,1,1.0,1
+091d303667c3,wiki,REC,True,Slavery was common.,slavery,0,0.5,1
+802e1fd26881,wiki,REC,True,honoring ancestors and philosophers,Shitateru-hime,0,0.0,0
+640da4f69d07,k8s,REC,False,FailedPostStartHook,FailedPostStartHook,1,1.0,1
+798035eca167,wiki,REC,False,Van Diemen's Land,Van Diemen's Land,1,1.0,1
+a3a07f404dc2,cpy,REC,True,shortest possible separator,the shortest possible,0,0.8,1
+2d9f37dfbd24,wiki,REC,False,Adults,adults,1,1.0,1
+8ee0cc8cce45,cpy,REC,True,high-resolution timer,high-resolution timer,1,1.0,1
+2a858fa19905,wiki,REC,False,moons,Moons,1,1.0,1
+e27f87c63c2e,wiki,REC,False,,Even more died,0,0.0,0
+08bf17f06cda,k8s,REC,True,"Neil Alexander, Rab Douglas, David Bingham, John Robertson, Marvin Andrews, David Fernández, Javier Sánchez Broto, Stuart Lovell",overall release lead,0,0.0,0
+fec22a648757,cpy,REC,False,"a function, module, package, or source file","the name of a function, module, or package",0,0.6666666666666666,0
+7cb016fd3a03,cpy,REC,False,An unhandled exception,Unhandled exception,1,1.0,1
+a1da23ff93c4,wiki,REC,False,square or rectangular plan with a prayer hall and an enclosed courtyard,very simple,0,0.0,0
+8bdd8774688f,cpy,REC,False,representing time values,:class:`struct_time`,0,0.0,0
+5bdd005c6f3e,wiki,REC,False,temperature differences,how temperature is different,0,0.3333333333333333,0
+27b8146e2522,wiki,REC,True,IDF soldiers and civilians,Indian soldiers,0,0.3333333333333333,0
+c1fd8b81f100,wiki,REC,False,uncontrolled antisemitism and disinformation,uncontrolled antisemitism,0,0.6666666666666666,1
+2003607e4a6d,k8s,REC,False,Setting spec.replicas to 3,create one patch,0,0.0,0
+19852440bc9a,wiki,REC,True,Teletubbies,Teletubbies,1,1.0,1
+844590475fc8,wiki,REC,False,HIV-positive gay men,HIV-positive gay men,1,1.0,1
+fedfb2fb6403,wiki,REC,True,Russian Revolution,German Revolution,0,0.5,0
+b1b3626dbf02,cpy,REC,False,Finalizers are not ordered to avoid deadlocks.,historical baggage,0,0.0,0
+ed6f5aa60247,wiki,REC,True,Substance abuse and drug addiction.,The painkillers he was prescribed,0,0.0,0
+7dbd006f59f2,wiki,REC,False,"5,134 mi²","5,134 mi²",1,1.0,1
+700f7ef30f6e,wiki,REC,False,Valmiki,sage (rishi) Valmiki,0,0.5,0
+2b1a2293bd20,wiki,REC,False,George Michael,Beyonce Knowles,0,0.0,0
+30f41a0377b6,wiki,REC,True,The Deliverance of Mankind from Destruction,Nazi Germany actively supported Zionism,0,0.0,0
+1e72a27c055a,k8s,REC,False,Missing Endpoints,Several common problems,0,0.0,0
+6b85bf51b411,k8s,REC,True,The underlying storage snapshot and VolumeSnapshotContent are deleted.,The underlying storage snapshot will be deleted,0,0.6153846153846153,0
+b5dff58506d5,wiki,REC,True,Qatar,Qatar,1,1.0,1
+44adcb19cfbc,k8s,REC,True,untrusted files extraction,Out-of-memory (OOM) handling,0,0.0,0
+65eaf06e0555,k8s,REC,True,The context mentions that supported values are determined by the system's resources and the clock tick interval. The answer should reflect this.,The Go version used,0,0.0,0
+397ea5cb5e31,cpy,REC,False,Declarative and imperative object configuration,integer objects,0,0.0,0
+b90f63c608ed,cpy,REC,True,"Arithmetic, logical, bit, memory, comparison, control flow, and program flow operations.",conversions to :class:`complex` and :class:`bool`,0,0.12500000000000003,0
+f27440c46ea8,wiki,REC,True,"Buddhism, Christianity, Animism",Buddhism or Animism,0,0.6666666666666666,0
+fdf1330c6562,cpy,REC,False,first or second line,a line of its own,0,0.25,0
+f9afa305b023,k8s,REC,True,https://github.com/containerd/containerd/blob/main/docs/getting-started.md,minikube start,0,0.0,0
+27e8895f08a6,wiki,REC,False,Nathaniel Harris,Paul de Saint-Victor,0,0.0,0
+85caa658e459,cpy,REC,True,void *ctx,self,0,0.0,0
+aa995079ead7,wiki,REC,True,original Christian faith,the original Christian faith,1,1.0,1
+e0fd5584fe89,wiki,REC,True,Mary I,Queen Mary I,0,0.8,0
+641279a8cd66,wiki,REC,False,Theology and philosophy.,Jewish scriptures,0,0.0,0
+9e998ffa7609,wiki,REC,True,Economic depression and political instability.,lack of manual labour,0,0.0,0
+3c373a714264,cpy,REC,True,recompiling Python,recompile Python,0,0.5,0
+5dbbc7a9d43f,cpy,REC,False,Improves performance by avoiding unneeded directory scans.,the mailbox so that,0,0.0,0
+65ac051f76d7,wiki,REC,False,over 60 percent,more than 60 percent,0,0.5714285714285715,0
+6e58629c1054,k8s,REC,False,no validation risk,self.foo == 1,0,0.0,0
+df286d937ef7,wiki,REC,False,93 to 94 meters,13 and 20 metres,0,0.0,0
+22165a8f4167,k8s,REC,False,wildcard notation refers to pattern matching in patterns and file names.,Security Context object,0,0.0,0
+169d57eaddc6,wiki,REC,True,$366 million,second-highest-grossing film of 1994,0,0.0,0
+44f639b81a7f,wiki,REC,True,Bilbo,Shinbi,0,0.0,0
+f61576d9ea78,wiki,REC,False,Jon Bon Jovi,Jon Bon Jovi,1,1.0,1
+08e2a8b140dc,wiki,REC,True,Greatest Hitz,four albums,0,0.0,0
+4a40a0efbeab,k8s,REC,True,production environments,on separate hosts,0,0.0,0
+c95570b4a5cd,wiki,REC,False,Secretary of State Seward,Secretary of State Seward,1,1.0,1
+bad430da795b,cpy,REC,True,xmlcharrefreplace,errors,0,0.0,0
+7adfe6b24eb5,wiki,REC,True,1863,autumn of 1863,0,0.5,0
+1e3420ce686f,k8s,REC,False,Kubernetes website,Kubernetes website,1,1.0,1
+b384df11adaf,wiki,REC,False,Airbus,Airbus,1,1.0,1
+c73e60a28a9e,k8s,REC,True,configparser,YAML or JSON configuration files,0,0.0,0
+673c33922e47,cpy,REC,False,len(),-1,0,0.0,0
+92343aff7307,k8s,REC,True,Subject is the noun that does the main verb.,container,0,0.0,0
+0508dbabeb50,k8s,REC,True,The volume is deleted.,automatically deleted,0,0.4,0
+aebdf0abaa80,wiki,REC,True,Agra and Oudh,kingdom of Agra and Oudh,0,0.7499999999999999,0
+980135c34d03,wiki,REC,True,President of the German Reichstag,President of the German Reichstag,1,1.0,1
+3eb96e0168f8,cpy,REC,False,the size of the packed value in bytes,size of the packed value in bytes,1,1.0,1
+f08eb2e06f26,k8s,REC,False,v1 and v2,Earlier versions of Kubernetes,0,0.0,0
+46eac3707329,cpy,REC,False,Client certificate authentication,Frequently one doesn't care what the realm is,0,0.0,0
+82f0c7e4865c,wiki,REC,False,inferior epigastric artery,testicular artery,0,0.4,0
+8ad8e4a96274,wiki,REC,True,Over 30 million,over 30 million,1,1.0,1
+0734816c0a08,wiki,REC,False,"A string instrument that uses electric pickups to convert string vibrations into electric current, which is then amplified to produce sound.",a string instrument,0,0.18181818181818182,1
+fcee44ae0dc5,wiki,REC,False,The internal energy present in a system due to its temperature.,internal energy,0,0.3636363636363636,1
+76925bfee25d,wiki,REC,False,"Birds, mammals, reptiles, and others.",most other animals,0,0.0,0
+b66d9efe8668,wiki,REC,True,Australia,United States,0,0.0,0
+c0cb68b21ff5,wiki,REC,False,Red,red bricks,0,0.6666666666666666,0
+7365e3615a9a,k8s,REC,False,ephemeral volume types,storage capacity aware Pod scheduling,0,0.0,0
+bf97410a7e8b,cpy,REC,False,At the start of a line or after code.,At the start of a line,0,0.7272727272727273,1
+8b41d86764aa,wiki,REC,True,enforcing the law,social and ceremonial events,0,0.0,0
+b11c279a3d3a,k8s,REC,True,base64-encoded strings,a hash,0,0.0,0
+256feb43f886,wiki,REC,False,Three,three syllables,0,0.6666666666666666,0
+de7f44fa5547,wiki,REC,True,"Northern Italy, Padania, Alta Italia, Norditalia, Nord, and just Nord.","singing, acting, television hosting, modeling, CMs and dancing",0,0.11111111111111112,0
+6ad4c6d2a5ae,wiki,REC,False,Forks,Forks,1,1.0,1
+31197fdc08ca,wiki,REC,False,character's class,character's class,1,1.0,1
+8c02bab5496f,wiki,REC,False,a 0 - 100 scale,0 - 100 scale,1,1.0,1
+f5c70389a2e6,wiki,REC,True,Night of Broken Glass,Night of Broken Glass,1,1.0,1
+862fe1a13197,wiki,REC,True,Electoral votes,electoral votes,1,1.0,1
+6baec951c7f8,k8s,REC,True,Close idle connections.,send traffic to Pods,0,0.0,0
+1e558befe85e,wiki,REC,True,Phoenix,empty warehouse lot,0,0.0,0
+a9c522da5324,wiki,REC,False,one or two,one or two,1,1.0,1
+2b2dd01f396f,wiki,REC,True,slowly moving across the sensor,moves slowly along it,0,0.25,0
+9ecd788e775f,k8s,REC,False,Pods are deleted or marked as failed.,Your pods are re-created on a node,0,0.30769230769230765,0
+4b3e9bb6db9d,cpy,REC,False,list comprehensions,low-level (and inherently unsafe) I/O interfaces,0,0.0,0
+ca11ed14bfdc,wiki,REC,True,They cannot move.,Unable to move,0,0.3333333333333333,0
+bc310337ff96,wiki,REC,False,Factor analysis,Italian-Slovene relations,0,0.0,0
+4f7cac8afc86,wiki,REC,True,[],[],1,0.0,1
+fe60a0142ce4,cpy,REC,False,The method is considered to override a superclass method.,Existing pairs in *a* will be replaced,0,0.0,0
+e6e6e7866610,wiki,REC,True,Convergent evolution,convergent evolution,1,1.0,1
+f4dba9b8eca3,cpy,REC,False,string,"integer, float and complex",0,0.0,0
+4657b7e65c6a,k8s,REC,False,In development,Some sub-features,0,0.0,0
+64f3e0bbc52c,wiki,REC,False,Zero,"10,000 animals",0,0.0,0
+72cc9dab8112,k8s,REC,True,"Separate copies, no sharing.",some restrictions apply,0,0.0,0
+03cd8de44b42,wiki,REC,True,Taxonomists who classify amniotes.,"Some taxonomists, such as Benton",0,0.22222222222222224,0
+df85ed83ffc6,cpy,REC,True,Real,Rational.numerator,0,0.0,0
+fbedb6172100,k8s,REC,False,teaching how to accomplish a goal,accomplish a goal,0,0.5714285714285715,1
+977cd3680f99,k8s,REC,False,Configuration file changes,API server,0,0.0,0
+4c0a29d2572c,wiki,REC,False,10%,10%,1,1.0,1
+12c09d5aa945,k8s,REC,False,a persistent IP address and DNS name entry,persistent IP address,0,0.6,1
+4c72382f8f12,wiki,REC,False,2002,2002,1,1.0,1
+13afe14b4d29,wiki,REC,True,Piero de Medici,Piero de Medici,1,1.0,1
+607bf92c766e,cpy,REC,False,enough resources for all Pods on a Node,a consistent state,0,0.0,0
+7b69304a4e1f,wiki,REC,False,Education,middle school student,0,0.0,0
+f076e1deda3f,wiki,REC,True,2016,2008,0,0.0,0
+77b4eba2e9bf,cpy,REC,False,Specifies the indentation for new items.,incremental indentation,0,0.28571428571428575,0
+133683bf14c3,wiki,REC,False,Revolution,Flip and Nitty,0,0.0,0
+edf30b0670ec,k8s,REC,False,"synthetic ""Added"" events","synthetic ""Added"" events",1,1.0,1
+7f3cac1af9ed,wiki,REC,True,1974,1971,0,0.0,0
+808de8f3064e,wiki,REC,False,nation,a nation,1,1.0,1
+964c536ca6c8,k8s,REC,True,Alice,How about you John?,0,0.0,0
+4c4fa9485fec,wiki,REC,False,Sounds Live Feels Live,Sounds Live Feels Live,1,1.0,1
+6547767f18c1,cpy,REC,False,type object,:class:`int`,0,0.0,0
+936cb753f832,wiki,REC,True,squirt guns,squirt guns,1,1.0,1
+210f5bd4cc96,wiki,REC,True,13,13 episodes,0,0.6666666666666666,0
+3877f8e681c1,k8s,REC,True,JSON or YAML by default,YAML format,0,0.28571428571428575,0
+4e64ca295b9a,wiki,REC,False,aerial attack on Hezbollah's missile supply,aerial attack,0,0.5,1
+a8b9a7fc0257,k8s,REC,True,malicious code execution or file exposure,malicious code execution,0,0.6666666666666666,1
+fcadceb8cfeb,wiki,REC,True,"Academy Awards, National Board of Review, NYFCC Award, Edgar Allen Poe Awards",five Brit Awards,0,0.13333333333333333,0
+c2cc6cc31f7d,cpy,REC,True,searching root directory,:func:`!glob`,0,0.0,0
+2cb1b487abb5,k8s,REC,False,hello,hello greeter,0,0.6666666666666666,0
+8d0e050b06cf,wiki,REC,True,10%,10%,1,1.0,1
+2b60fb5223f2,wiki,REC,True,new materials and tools,higher quality and more appealing content,0,0.2,0
+0b867f417518,cpy,REC,False,secretbox,The algorithm,0,0.0,0
+ed0a0021fdcb,k8s,REC,False,each other,each other,1,1.0,1
+67f1f14afa0c,wiki,REC,False,Thomas Nast,Thomas Nast,1,1.0,1
+1ed47f18a6a1,wiki,REC,False,"a river, a road, a corridor",many kinds of places,0,0.0,0
+e78695c51a40,wiki,REC,True,St Jude Storm,Storm 91C,0,0.4,0
+4f7a773e0e8b,cpy,REC,False,"Earth's rotation, Moon's orbit, Earth's orbit",The first weekday,0,0.0,0
+bcfead61129f,wiki,REC,True,opposable thumbs,feet,0,0.0,0
+7fa1436d65d1,cpy,REC,False,str or bytes object,strings,0,0.0,0
+ce731e11ea0c,k8s,REC,True,FallbackToLogsOnError,FallbackToLogsOnError,1,1.0,1
+cac2864957ac,wiki,REC,False,Puranas and epics,His association with dance and also with music,0,0.18181818181818182,0
+8db90605eef9,wiki,REC,True,"October 3, 1849",October 3,0,0.8,1
+9201bdd10102,wiki,REC,True,"1,368,840","176,000 inhabitants",0,0.0,0
+10aa0c0c19aa,cpy,REC,False,Protocol 5,:data:`DEFAULT_PROTOCOL`,0,0.0,0
+3b7065e4cf0d,cpy,REC,False,xmlparser.ordered_attributes,:attr:`~.needs_input`,0,0.0,0
+e205ccf8d471,wiki,REC,False,Martin Nowak,Martin Nowak,1,1.0,1
+ab13a0df63d3,wiki,REC,False,June 25,June 25 until July 31,0,0.5714285714285715,0
+657bb8447b4e,wiki,REC,True,Unpredictable wind supply,wind is uncontrollable,0,0.3333333333333333,0
+f8ded7c5afd4,wiki,REC,True,Alexander Parkes,Alexander Parkes,1,1.0,1
+6ec2e19cc795,wiki,REC,True,NHK Red and White Singing Contest,NHK Red and White Singing Contest,1,1.0,1
+bd28c0bc3780,wiki,REC,False,Interaction with another particle,Receive information about the other particle,0,0.22222222222222224,0
+994b241fd792,k8s,REC,False,Cloned dict event,reduced performance,0,0.0,0
+7e481cba38da,cpy,REC,True,wait,:meth:`~Event.wait`,0,0.0,0
+3a7157002320,wiki,REC,True,Everything,almost everything we see,0,0.4,0
+2f4439eddc86,wiki,REC,False,pollutants formed by chemical reactions,Ozone and smog,0,0.0,0
+044a7fff953e,k8s,REC,True,Resource limits may be exceeded.,addons often consume more of some resources,0,0.0,0
+909d5e0aa174,wiki,REC,True,Vancouver,Marble Hill,0,0.0,0
+261fa879827b,wiki,REC,False,Computational proofs and abstract algebra concepts.,almost all of Ramanujan's work,0,0.0,0
+4ddf61f10d87,wiki,REC,True,leading his troops,talk or to eat,0,0.0,0
+b8fb438c1a96,wiki,REC,True,"An American flag, experiments, a golden feather, a logo of Apollo 1, and some bronze coins.",an American flag,0,0.2666666666666667,1
+1e8b81a233a6,k8s,REC,True,kubectl get pods -n seattle,kubectl get pods,0,0.7499999999999999,1
+4514a4e85a56,wiki,REC,False,Conquest of Mexico,to the West Indies,0,0.0,0
+65e4ce29608d,k8s,REC,False,kubeconfig file,stored root certificate and client certificates,0,0.0,0
+85ee6fef963a,wiki,REC,True,celebrity lives,Their relationship,0,0.0,0
+be6a8d50bdee,wiki,REC,True,Rohan and Gondor,his friends at Nickelodeon,0,0.0,0
+b145c4ef6a4c,k8s,REC,False,Control plane,control plane,1,1.0,1
+c6463ed7fd93,cpy,REC,True,stack overflow attacks,older versions of Expat,0,0.0,0
+299448c4cf21,k8s,REC,True,"Information, processes, objects, and ideas.",the code we already have,0,0.0,0
+bc0c01774a3a,wiki,REC,True,The problem of induction.,Hilbert's tenth problem,0,0.3333333333333333,0
+f9f482632c8a,cpy,REC,False,readlines,:meth:`~io.IOBase.readlines`,0,0.0,0
+31c0a7f1df24,cpy,REC,False,module's namespace,the module's namespace,1,1.0,1
+e9a9711f444f,wiki,REC,False,Polish government in exile,The Polish Home Army,0,0.28571428571428575,0
+194506a63a23,wiki,REC,True,Buster,Buster,1,1.0,1
+f83bef186776,k8s,REC,False,The first control plane node with the /etc/kubernetes/admin.conf file.,Pick a control plane node,0,0.5454545454545454,0
+9ce4c687742e,k8s,REC,True,Misc/NEWS,Contributing upstream,0,0.0,0
+0f6fdf77713a,wiki,REC,True,Black & Decker,Hilti,0,0.0,0
+886ca071a3ea,cpy,REC,True,Python's built-in MIME type tables,Python's built-in MIME type tables,1,1.0,1
+fca8ef9e2782,cpy,REC,False,the class reference,the class of the object,0,0.4,0
+6a65207e4324,wiki,REC,True,Windows Vista,Windows Vista,1,1.0,1
+d2f30f735ce8,wiki,REC,False,1953,1953,1,1.0,1
+7a0327e452a7,wiki,REC,True,Getting toxins out of the body.,getting toxins out of the body,1,1.0,1
+8c55de9a48ed,wiki,REC,True,Xbox 360,Xbox 360,1,1.0,1
+7d413dd410fd,wiki,REC,False,20 minutes plus theme song and credits.,20 minutes long,0,0.4,0
+6958207b2285,cpy,REC,False,parameterNotFoundAction,One and only one of,0,0.0,0
+96ef6d0d2994,wiki,REC,False,"Rome, Zurich, Lenzburg, Wichita, Cancún, Kaifeng, Orléans, Tlalnepant","Brugg, Lucerne, Zofingen and Zug",0,0.0,0
+0cd97f8ecaa8,k8s,REC,False,Service endpoints,EndpointSlices,0,0.0,0
+87c0b5559902,cpy,REC,True,text/plain,get_default_type,0,0.0,0
+ada0d21964f2,wiki,REC,True,"April 1, 1979","September 28, 2009",0,0.0,0
+171f7e3175cd,cpy,REC,False,False,:const:`False`,0,0.0,0
+ff862d4070ae,cpy,REC,False,Policy object is called Policy.,:class:`~email.policy.Policy`,0,0.0,0
+065205c696c7,wiki,REC,True,"Elizabeth Arden, Helena Rubinstein, Max Factor, Revlon, Estée Lauder",visionary individuals,0,0.0,0
+570dd2a2c4aa,wiki,REC,False,"No, responsibility is not required in divorce.",It is not necessary,0,0.36363636363636365,0
+793afdffb2a6,wiki,REC,True,Pacific Electric Railway,Los Angeles Railway,0,0.3333333333333333,0
+730416994648,wiki,REC,False,Egypt,Egypt,1,1.0,1
+aba0d9a2a4c3,k8s,REC,False,certificates,CA certificate bundle,0,0.0,0
+7a244c49f408,wiki,REC,False,In gardens and vineyards.,at the end of each row of vines,0,0.0,0
+f92686b38859,k8s,REC,False,urlsplit,service,0,0.0,0
+d15634a74368,k8s,REC,False,edit_modified,kubectl create --edit,0,0.0,0
+728f205c1724,k8s,REC,True,Misc/NEWS,Contributing upstream,0,0.0,0
+09f40a724078,wiki,REC,False,Shrines of God Langmai Ningthou,"Chingyai, Kharong, Isingchaibi, Nungpak Khul, Chingoi",0,0.0,0
+13a815959ee4,k8s,REC,True,etcd,etcd,1,1.0,1
+30468d176ea8,k8s,REC,True,key-value labels,key-value labels,1,1.0,1
+44844bd20cd7,cpy,REC,False,cancel(),:meth:`~Timer.cancel`,0,0.0,0
+c396c4bcb7a4,wiki,REC,True,Around one million,"3,500 German prisoners",0,0.0,0
+c01babe26243,k8s,REC,False,Readiness probe failure or manual intervention,graceful deletion of a Pod,0,0.0,0
+74397bbaf3c8,cpy,REC,False,,"(pid, fd)",0,0.0,0
+0c6f33a89aa8,wiki,REC,True,Forbes Quarry,Forbes Quarry find,0,0.8,0
+ca099ac0c186,cpy,REC,False,Python byte code,bytecode for modules,0,0.0,0
+c05b478977b6,k8s,REC,False,7,150 feasible ones,0,0.0,0
+7cc2c79aef23,wiki,REC,False,Levant,Northern Mesopotamia,0,0.0,0
+6386a33abdc3,cpy,REC,False,Objects that used to be considered instances.,some objects,0,0.22222222222222224,0
+2e6f6f4e4c35,k8s,REC,True,dnsmasq,dnsmasq,1,1.0,1
+6560907ba697,wiki,REC,True,Austria-Hungary and Serbia,Other forces,0,0.0,0
+c77f84316d45,wiki,REC,False,call-next-method,an entirely new approach,0,0.0,0
+5215316d9733,wiki,REC,False,Hispaniola,Hispaniola,1,1.0,1
+bef2c7acdbb7,wiki,REC,True,Muslim,Muslims,0,0.0,0
+ad7f50a0b5df,wiki,REC,True,June 27 1991,In 2023,0,0.0,0
+80b0c3ee706e,cpy,REC,True,store,Use the latest patch release,0,0.0,0
+088062abafb5,cpy,REC,True,Python 3.12,removed in Python 3.13,0,0.3333333333333333,0
+717d6a640dc2,k8s,REC,True,NetworkPolicies and built-in policy APIs.,rich set of policies,0,0.0,0
+5736364a6075,cpy,REC,False,Standard Encodings,Base64 standard alphabet,0,0.4,0
+92b56cc9f7ab,cpy,REC,False,0,a single command-line argument,0,0.0,0
+7638a2b1c62b,wiki,REC,False,Peng Liyuan,Peng Liyuan,1,1.0,1
+758a0b8d7377,k8s,REC,True,Misc/NEWS,Contributing upstream,0,0.0,0
+e1ebaadb9a28,k8s,REC,False,"API violations, buffer underflow, buffer overflow, attached thread state checks.","Create, update, and delete",0,0.0,0
+e2062c3dab28,cpy,REC,False,`__next__` method,awaiting on the next object,0,0.3333333333333333,0
+5435003f5c58,wiki,REC,False,Graceland College,Graceland College,1,1.0,1
+3c321e67cb8f,wiki,REC,True,a DNA test to check if Erin Horsburgh was Azaria Chamberlain,this belief,0,0.0,0
+2f2206c80dd4,wiki,REC,False,Africa,savannas of Africa,0,0.5,0
+386b1d860a60,cpy,REC-stale20,False,CJKCodecs,Subject,0,0.0,0
+e2158d68f186,cpy,REC-stale20,True,IEEE 754,IEEE 754,1,1.0,1
+8104def1b635,wiki,REC-stale20,False,Rosa Parks,Harrison,0,0.0,0
+8b0a6ab99c56,k8s,REC-stale20,False,Services named mydb and myservice,mydb,0,0.33333333333333337,1
+a3b43838954b,cpy,REC-stale20,True,header_source_parse,get_source,0,0.0,0
+57ea39e23be4,cpy,REC-stale20,False,knowing when an experiment is over,when a feature is safe to remove,0,0.3636363636363636,0
+de5fe190e67b,wiki,REC-stale20,False,Months,Months,1,1.0,1
+68a7cf107312,k8s,REC-stale20,False,runtime finalization risks,looser compatibility promises,0,0.0,0
+6c46ab7f7a6c,wiki,REC-stale20,True,Large Hadron Collider,the Tevatron,0,0.0,0
+c5f44e63eb87,wiki,REC-stale20,True,Animal rights activist.,active animal rights activist,0,0.8571428571428571,0
+54194bb3d487,wiki,REC-stale20,False,"""Where's your wife, John?""",You're destined to sing,0,0.0,0
+d8b5542d35ab,wiki,REC-stale20,True,1001 to 2000,years 1001 to 2000,0,0.8571428571428571,0
+c7ae5db484ff,wiki,REC-stale20,False,Alphabetical order by last name,order of the alphabet,0,0.25,0
+eeb8d1b8f84b,wiki,REC-stale20,False,gently and differently than bottle-feeding babies.,different way,0,0.0,0
+a9f002a3a7b7,wiki,REC-stale20,False,a global conflict that would end quickly,the war to end all wars,0,0.1818181818181818,0
+d1860a8dd975,wiki,REC-stale20,True,1973,1973,1,1.0,1
+8acf0c353b15,wiki,REC-stale20,True,"Criminal Law (Amendment) Bill, 2018",Zainab Alert Bill,0,0.25,0
+bf20d90026c8,wiki,REC-stale20,True,making semiconductors,most semiconductors,0,0.5,0
+5eb7c84e2f65,cpy,REC-stale20,True,greater than,&#62;,0,0.0,0
+4a5b4468c689,cpy,REC-stale20,False,Modular functions,This allows failures to be post-mortem debugged,0,0.0,0
+5e19952950d5,wiki,REC-stale20,False,owl pellets,the things that owls eat,0,0.0,0
+023f4c227d50,k8s,REC-stale20,True,UTF-8,decimal values,0,0.0,0
+bd273ca3782f,k8s,REC-stale20,True,--certificate-renewal=false,--certificate-renewal=false,1,1.0,1
+f2e54bed7bb7,wiki,REC-stale20,True,"Art competitions, athletics, horse racing, tug of war, mathematics, music, debates, writings.","race, stone throw and archery",0,0.0,0
+4bbbf1ab9015,wiki,REC-stale20,False,Global conservation law,the amount of matter in an object,0,0.0,0
+f295ab7ea338,wiki,REC-stale20,False,64 GB of storage,64 GB of storage,1,1.0,1
+0e10869790a3,wiki,REC-stale20,True,"Belgium, Luxembourg, Quebec, Africa, Switzerland, Haiti",Belgium (Wallonia),0,0.25,0
+ab85edb018a4,wiki,REC-stale20,False,Church of England,Church of England,1,1.0,1
+f1659c92a1cc,wiki,REC-stale20,True,tax laws,laws on alcohol (sales and content),0,0.25,0
+e5f821131a56,cpy,REC-stale20,False,Operating system,built-in modules,0,0.0,0
+c3c00615d9cd,k8s,REC-stale20,True,Provides cluster-wide readable resources.,cluster usage,0,0.0,0
+98332bededde,cpy,REC-stale20,False,'1.1000000000000001','1.1000000000000001',1,1.0,1
+541a68fc6650,wiki,REC-stale20,False,marijuana,marijuana over the counter,0,0.5,0
+fbdcc618ed47,wiki,REC-stale20,True,Scout Movement,postmodern architecture,0,0.0,0
+842ee86264bb,k8s,REC-stale20,False,objects,the informing component,0,0.0,0
+c9fd21f88a48,cpy,REC-stale20,True,Never removed.,removed in Python 3.13,0,0.3333333333333333,0
+a2fcbea9bcff,wiki,REC-stale20,False,Vasily Zaytsev,Vasily Zaytsev,1,1.0,1
+7a61c357b49c,wiki,REC-stale20,False,absorbent material,absorbent material,1,1.0,1
+888c15025931,wiki,REC-stale20,False,Air.,airports,0,0.0,0
+14bb1f488424,wiki,REC-stale20,True,Lowe dragged up Bland’s criminal record.,such an important institution,0,0.0,0
+d50daa9bee2d,cpy,REC-stale20,False,virus scanning software,two orders of magnitude,0,0.0,0
+5a61fa686c1b,wiki,REC-stale20,False,Der Blaue Reiter,Der Blaue Reiter,1,1.0,1
+4ad5a5dfd86c,wiki,REC-stale20,False,4–6 hours,as long as twelve hours,0,0.28571428571428575,0
+bdc91bf82927,wiki,REC-stale20,False,"about 20,000","about 20,000",1,1.0,1
+9a1aa46f70dc,cpy,REC-stale20,True,becomes part of the language in the predicted release.,This feature will eventually be deprecated and removed,0,0.0,0
+03d5e056e1f5,cpy,REC-stale20,False,Structure and Union,:c:type:`PyObject` and :c:type:`PyVarObject`,0,0.3333333333333333,0
+2897e70e1b12,wiki,REC-stale20,False,NickMom,Cartoon Network,0,0.0,0
+6f46bad97033,cpy,REC-stale20,False,update(),Keyword arguments,0,0.0,0
+21b63ead80d0,wiki,REC-stale20,True,B'Day,Tinderbox album,0,0.0,0
+ef7d917270c9,cpy,REC-stale20,True,follows symlinks,open all of their descendants,0,0.0,0
+f6a9374db117,k8s,REC-stale20,True,Use individual logging call formatting.,create two sidecar containers,0,0.0,0
+81f07ca51f65,cpy,REC-stale20,False,sys.modules,interpreter where you need it,0,0.0,0
+012e28db1886,k8s,REC-stale20,True,Vertical scaling,_in-place Pod vertical scaling_,0,0.6666666666666666,0
+c3bb2242e7a1,wiki,REC-stale20,False,Phoenix,The Mayflower,0,0.0,0
+3793b4b1eb42,wiki,REC-stale20,True,"8th May, 1969","8th May, 1969",1,1.0,1
+53fcfa97c396,cpy,REC-stale20,False,square numbers,All such numbers,0,0.4,0
+6c4519464e13,cpy,REC-stale20,False,key-value pairs,case-insensitive substring matching,0,0.0,0
+649a980e2dab,wiki,REC-stale20,False,elephant behavior,Their ways of acting,0,0.0,0
+a181e4bc77cc,wiki,REC-stale20,True,Living things,"biotic, or living",0,0.4,0
+fe8baa38bccd,wiki,REC-stale20,False,Emerald,the colour of a squashed flea,0,0.0,0
+1703bab0fce0,wiki,REC-stale20,True,tunnels and targets,the massacres occurring,0,0.0,0
+cdf11a9e69ac,wiki,REC-stale20,True,Francis Scott Key,Naftali Herz Imber,0,0.0,0
+4aee1d1025df,cpy,REC-stale20,False,json.dumps(float('nan')),0/0,0,0.0,0
+d09653e51e74,wiki,REC-stale20,True,Chinese characters and Nôm script,Chinese loanwords,0,0.28571428571428575,0
+ccd24270fba1,cpy,REC-stale20,True,None or a positive integer,a floating-point value,0,0.0,0
+a4173874e248,wiki,REC-stale20,False,Indians,Indians,1,1.0,1
+499177ebb329,cpy,REC-stale20,True,posix,punctuation_chars,0,0.0,0
+d13b8da2377c,wiki,REC-stale20,True,Poor and dangerous conditions.,horrible,0,0.0,0
+74c2cba171c1,k8s,REC-stale20,False,"automating deployment, scaling, and management of containerized applications",automation,0,0.0,0
+f4e27ae1db1d,wiki,REC-stale20,False,the rhythms and musical style of James Brown,rhythms and musical style,0,0.7272727272727273,1
+371fc3f5e8ae,wiki,REC-stale20,False,Rome,on the way to the hospital,0,0.0,0
+dc0f2d6671a0,wiki,REC-stale20,True,2016,2000,0,0.0,0
+091d303667c3,wiki,REC-stale20,True,Military presence and political figures.,slavery,0,0.0,0
+802e1fd26881,wiki,REC-stale20,True,Shitateru-hime,Shitateru-hime,1,1.0,1
+640da4f69d07,k8s,REC-stale20,False,FailedPostStartHook,FailedPostStartHook,1,1.0,1
+798035eca167,wiki,REC-stale20,False,Van Diemen's Land,Van Diemen's Land,1,1.0,1
+a3a07f404dc2,cpy,REC-stale20,True,"['1', '', '2']",the shortest possible,0,0.0,0
+2d9f37dfbd24,wiki,REC-stale20,False,Adults,adults,1,1.0,1
+8ee0cc8cce45,cpy,REC-stale20,True,Waitable timer,high-resolution timer,0,0.5,0
+2a858fa19905,wiki,REC-stale20,False,moons,Moons,1,1.0,1
+e27f87c63c2e,wiki,REC-stale20,False,None mentioned.,Even more died,0,0.0,0
+08bf17f06cda,k8s,REC-stale20,True,"Neil Alexander, Rab Douglas, David Bingham, John Robertson, Marvin Andrews, David Fernández, Javier Sánchez Broto, Stuart Lovell",overall release lead,0,0.0,0
+fec22a648757,cpy,REC-stale20,False,"a function, module, package, or source file","the name of a function, module, or package",0,0.6666666666666666,0
+7cb016fd3a03,cpy,REC-stale20,False,Unhandled exception,Unhandled exception,1,1.0,1
+a1da23ff93c4,wiki,REC-stale20,False,square or rectangular plan with a prayer hall and an enclosed courtyard,very simple,0,0.0,0
+8bdd8774688f,cpy,REC-stale20,False,representing time values,:class:`struct_time`,0,0.0,0
+5bdd005c6f3e,wiki,REC-stale20,False,temperature variations,how temperature is different,0,0.3333333333333333,0
+27b8146e2522,wiki,REC-stale20,True,Hamas,Indian soldiers,0,0.0,0
+c1fd8b81f100,wiki,REC-stale20,False,antisemitism and disinformation,uncontrolled antisemitism,0,0.4,0
+2003607e4a6d,k8s,REC-stale20,False,"A single patch operation that sets `spec.replicas` is `[{""op"": ""add"", ""path"": ""/spec/replicas"", """,create one patch,0,0.14285714285714288,0
+19852440bc9a,wiki,REC-stale20,True,Teletubbies,Teletubbies,1,1.0,1
+844590475fc8,wiki,REC-stale20,False,African Americans,HIV-positive gay men,0,0.0,0
+fedfb2fb6403,wiki,REC-stale20,True,Russian Revolution,German Revolution,0,0.5,0
+b1b3626dbf02,cpy,REC-stale20,False,Historical baggage,historical baggage,1,1.0,1
+ed6f5aa60247,wiki,REC-stale20,True,Substance abuse,The painkillers he was prescribed,0,0.0,0
+7dbd006f59f2,wiki,REC-stale20,False,"13,297 km²","5,134 mi²",0,0.0,0
+700f7ef30f6e,wiki,REC-stale20,False,Valmiki,sage (rishi) Valmiki,0,0.5,0
+2b1a2293bd20,wiki,REC-stale20,False,James Bay,Beyonce Knowles,0,0.0,0
+30f41a0377b6,wiki,REC-stale20,True,Ancient Egyptian myth,Nazi Germany actively supported Zionism,0,0.0,0
+1e72a27c055a,k8s,REC-stale20,False,Missing endpoints or misconfigured services.,Several common problems,0,0.0,0
+6b85bf51b411,k8s,REC-stale20,True,PersistentVolume is deleted.,The underlying storage snapshot will be deleted,0,0.2222222222222222,0
+b5dff58506d5,wiki,REC-stale20,True,Minnesota Timberwolves,Qatar,0,0.0,0
+44adcb19cfbc,k8s,REC-stale20,True,Denial of service attacks.,Out-of-memory (OOM) handling,0,0.0,0
+65eaf06e0555,k8s,REC-stale20,True,Context and code references.,The Go version used,0,0.0,0
+397ea5cb5e31,cpy,REC-stale20,False,Kubernetes objects managed with imperative commands and declarative configuration.,integer objects,0,0.1818181818181818,0
+b90f63c608ed,cpy,REC-stale20,True,"Operations include traffic signals, railway signals, air traffic control, government policies, and regulations.",conversions to :class:`complex` and :class:`bool`,0,0.1111111111111111,0
+f27440c46ea8,wiki,REC-stale20,True,"Buddhism, Christianity, Hinduism",Buddhism or Animism,0,0.3333333333333333,0
+fdf1330c6562,cpy,REC-stale20,False,first or second line,a line of its own,0,0.25,0
+f9afa305b023,k8s,REC-stale20,True,Python Packaging User Guide,minikube start,0,0.0,0
+27e8895f08a6,wiki,REC-stale20,False,Paul de Saint-Victor,Paul de Saint-Victor,1,1.0,1
+85caa658e459,cpy,REC-stale20,True,a positional argument or a flag,self,0,0.0,0
+aa995079ead7,wiki,REC-stale20,True,sacred tradition,the original Christian faith,0,0.0,0
+e0fd5584fe89,wiki,REC-stale20,True,Mary I,Queen Mary I,0,0.8,0
+641279a8cd66,wiki,REC-stale20,False,Jewish scriptures,Jewish scriptures,1,1.0,1
+9e998ffa7609,wiki,REC-stale20,True,Political and racial tensions.,lack of manual labour,0,0.0,0
+3c373a714264,cpy,REC-stale20,True,prior written permission,recompile Python,0,0.0,0
+5dbbc7a9d43f,cpy,REC-stale20,False,records timestamp and improves performance,the mailbox so that,0,0.0,0
+65ac051f76d7,wiki,REC-stale20,False,over 60 percent,more than 60 percent,0,0.5714285714285715,0
+6e58629c1054,k8s,REC-stale20,False,`x-kubernetes-list-type`,self.foo == 1,0,0.0,0
+df286d937ef7,wiki,REC-stale20,False,94 meters,13 and 20 metres,0,0.0,0
+22165a8f4167,k8s,REC-stale20,False,special characters in shell-style wildcards,Security Context object,0,0.0,0
+169d57eaddc6,wiki,REC-stale20,True,$1.84 billion,second-highest-grossing film of 1994,0,0.0,0
+44f639b81a7f,wiki,REC-stale20,True,Hari Koo and Doori Koo,Shinbi,0,0.0,0
+f61576d9ea78,wiki,REC-stale20,False,Jon Bon Jovi,Jon Bon Jovi,1,1.0,1
+08e2a8b140dc,wiki,REC-stale20,True,Stampede of the Disco Elephants,four albums,0,0.0,0
+4a40a0efbeab,k8s,REC-stale20,True,external etcd setup,on separate hosts,0,0.0,0
+c95570b4a5cd,wiki,REC-stale20,False,Jane,Secretary of State Seward,0,0.0,0
+bad430da795b,cpy,REC-stale20,True,xmlcharrefreplace,errors,0,0.0,0
+7adfe6b24eb5,wiki,REC-stale20,True,1863,autumn of 1863,0,0.5,0
+1e3420ce686f,k8s,REC-stale20,False,Kubernetes website,Kubernetes website,1,1.0,1
+b384df11adaf,wiki,REC-stale20,False,Airbus,Airbus,1,1.0,1
+c73e60a28a9e,k8s,REC-stale20,True,configparser,YAML or JSON configuration files,0,0.0,0
+673c33922e47,cpy,REC-stale20,False,len(),-1,0,0.0,0
+92343aff7307,k8s,REC-stale20,True,subject,container,0,0.0,0
+0508dbabeb50,k8s,REC-stale20,True,The volume is deleted.,automatically deleted,0,0.4,0
+aebdf0abaa80,wiki,REC-stale20,True,Urartu,kingdom of Agra and Oudh,0,0.0,0
+980135c34d03,wiki,REC-stale20,True,President of the German Reichstag,President of the German Reichstag,1,1.0,1
+3eb96e0168f8,cpy,REC-stale20,False,the size of the packed value in bytes when using standard size,size of the packed value in bytes,0,0.7499999999999999,1
+f08eb2e06f26,k8s,REC-stale20,False,v1 and v2,Earlier versions of Kubernetes,0,0.0,0
+46eac3707329,cpy,REC-stale20,False,multi-process program sharing authentication key,Frequently one doesn't care what the realm is,0,0.0,0
+82f0c7e4865c,wiki,REC-stale20,False,inferior epigastric artery,testicular artery,0,0.4,0
+8ad8e4a96274,wiki,REC-stale20,True,25 million in 2010,over 30 million,0,0.28571428571428575,0
+0734816c0a08,wiki,REC-stale20,False,"A string instrument that uses electric pickups to convert string vibrations into electric current, which is then amplified to produce sound.",a string instrument,0,0.18181818181818182,1
+fcee44ae0dc5,wiki,REC-stale20,False,Internal energy due to temperature.,internal energy,0,0.5714285714285715,1
+76925bfee25d,wiki,REC-stale20,False,"Birds, mammals, reptiles, and other animals.",most other animals,0,0.4444444444444444,0
+b66d9efe8668,wiki,REC-stale20,True,Australia,United States,0,0.0,0
+c0cb68b21ff5,wiki,REC-stale20,False,Red,red bricks,0,0.6666666666666666,0
+7365e3615a9a,k8s,REC-stale20,False,hard links between volumes,storage capacity aware Pod scheduling,0,0.0,0
+bf97410a7e8b,cpy,REC-stale20,False,At the start of a line or after code.,At the start of a line,0,0.7272727272727273,1
+8b41d86764aa,wiki,REC-stale20,True,executing laws and managing departments,social and ceremonial events,0,0.22222222222222224,0
+b11c279a3d3a,k8s,REC-stale20,True,secure storage,a hash,0,0.0,0
+256feb43f886,wiki,REC-stale20,False,three,three syllables,0,0.6666666666666666,0
+de7f44fa5547,wiki,REC-stale20,True,City districts,"singing, acting, television hosting, modeling, CMs and dancing",0,0.0,0
+6ad4c6d2a5ae,wiki,REC-stale20,False,Forks,Forks,1,1.0,1
+31197fdc08ca,wiki,REC-stale20,False,Role or ClusterRole,character's class,0,0.0,0
+8c02bab5496f,wiki,REC-stale20,False,0-100 scale,0 - 100 scale,0,0.4,0
+f5c70389a2e6,wiki,REC-stale20,True,The Night of Broken Glass,Night of Broken Glass,1,1.0,1
+862fe1a13197,wiki,REC-stale20,True,Most votes,electoral votes,0,0.5,0
+6baec951c7f8,k8s,REC-stale20,True,Close idle connections.,send traffic to Pods,0,0.0,0
+1e558befe85e,wiki,REC-stale20,True,"Phase Four Studios, Phoenix",empty warehouse lot,0,0.0,0
+a9c522da5324,wiki,REC-stale20,False,one or two,one or two,1,1.0,1
+2b2dd01f396f,wiki,REC-stale20,True,on the scanning area,moves slowly along it,0,0.0,0
+9ecd788e775f,k8s,REC-stale20,False,Pods are terminated and replaced.,Your pods are re-created on a node,0,0.3636363636363636,0
+4b3e9bb6db9d,cpy,REC-stale20,False,list comprehensions with walrus operator,low-level (and inherently unsafe) I/O interfaces,0,0.0,0
+ca11ed14bfdc,wiki,REC-stale20,True,They cannot live on land.,Unable to move,0,0.0,0
+bc310337ff96,wiki,REC-stale20,False,Homogenous and finitary relations.,Italian-Slovene relations,0,0.3333333333333333,0
+4f7cac8afc86,wiki,REC-stale20,True,/j/,[],0,0.0,1
+fe60a0142ce4,cpy,REC-stale20,False,The overridden method is checked by type checkers.,Existing pairs in *a* will be replaced,0,0.0,0
+e6e6e7866610,wiki,REC-stale20,True,Alternative splicing,convergent evolution,0,0.0,0
+f4dba9b8eca3,cpy,REC-stale20,False,"string, int, choice, float, complex","integer, float and complex",0,0.4444444444444445,0
+4657b7e65c6a,k8s,REC-stale20,False,Features under development are marked as beta or deprecated.,Some sub-features,0,0.0,0
+64f3e0bbc52c,wiki,REC-stale20,False,"10,000","10,000 animals",0,0.6666666666666666,0
+72cc9dab8112,k8s,REC-stale20,True,"Separate copies, no sharing.",some restrictions apply,0,0.0,0
+03cd8de44b42,wiki,REC-stale20,True,Benton,"Some taxonomists, such as Benton",0,0.33333333333333337,0
+df85ed83ffc6,cpy,REC-stale20,True,Real,Rational.numerator,0,0.0,0
+fbedb6172100,k8s,REC-stale20,False,Kubernetes features and tasks,accomplish a goal,0,0.0,0
+977cd3680f99,k8s,REC-stale20,False,Configuration file modification,API server,0,0.0,0
+4c0a29d2572c,wiki,REC-stale20,False,25%,10%,0,0.0,0
+12c09d5aa945,k8s,REC-stale20,False,a persistent IP address and DNS name entry,persistent IP address,0,0.6,1
+4c72382f8f12,wiki,REC-stale20,False,2002,2002,1,1.0,1
+13afe14b4d29,wiki,REC-stale20,True,Piero de Medici,Piero de Medici,1,1.0,1
+607bf92c766e,cpy,REC-stale20,False,Pods are scheduled to Nodes based on resource availability and constraints.,a consistent state,0,0.0,0
+7b69304a4e1f,wiki,REC-stale20,False,Teen spy adventures,middle school student,0,0.0,0
+f076e1deda3f,wiki,REC-stale20,True,2007,2008,0,0.0,0
+77b4eba2e9bf,cpy,REC-stale20,False,Adds indentation to the item.,incremental indentation,0,0.3333333333333333,0
+133683bf14c3,wiki,REC-stale20,False,Revolution,Flip and Nitty,0,0.0,0
+edf30b0670ec,k8s,REC-stale20,False,"synthetic ""Added"" events","synthetic ""Added"" events",1,1.0,1
+7f3cac1af9ed,wiki,REC-stale20,True,1977,1971,0,0.0,0
+808de8f3064e,wiki,REC-stale20,False,nation,a nation,1,1.0,1
+964c536ca6c8,k8s,REC-stale20,True,the addresses,How about you John?,0,0.0,0
+4c4fa9485fec,wiki,REC-stale20,False,"Forever Night, Never Day",Sounds Live Feels Live,0,0.0,0
+6547767f18c1,cpy,REC-stale20,False,tuple,:class:`int`,0,0.0,0
+936cb753f832,wiki,REC-stale20,True,squirt guns,squirt guns,1,1.0,1
+210f5bd4cc96,wiki,REC-stale20,True,33,13 episodes,0,0.0,0
+3877f8e681c1,k8s,REC-stale20,True,YAML or JSON,YAML format,0,0.4,0
+4e64ca295b9a,wiki,REC-stale20,False,aerial attack to destroy Hezbollah's missile supply,aerial attack,0,0.4444444444444445,1
+a8b9a7fc0257,k8s,REC-stale20,True,beta config file changes,malicious code execution,0,0.0,0
+fcadceb8cfeb,wiki,REC-stale20,True,"Best Actress, Best Motion Picture",five Brit Awards,0,0.0,0
+c2cc6cc31f7d,cpy,REC-stale20,True,searching root directory,:func:`!glob`,0,0.0,0
+2cb1b487abb5,k8s,REC-stale20,False,hello,hello greeter,0,0.6666666666666666,0
+8d0e050b06cf,wiki,REC-stale20,True,10%,10%,1,1.0,1
+2b60fb5223f2,wiki,REC-stale20,True,new materials and technologies,higher quality and more appealing content,0,0.2,0
+0b867f417518,cpy,REC-stale20,False,RAND_status(),The algorithm,0,0.0,0
+ed0a0021fdcb,k8s,REC-stale20,False,each other,each other,1,1.0,1
+67f1f14afa0c,wiki,REC-stale20,False,Thomas Nast,Thomas Nast,1,1.0,1
+1ed47f18a6a1,wiki,REC-stale20,False,"a river, a road, a corridor",many kinds of places,0,0.0,0
+e78695c51a40,wiki,REC-stale20,True,Unnamed tropical storm,Storm 91C,0,0.4,0
+4f7a773e0e8b,cpy,REC-stale20,False,"Earth's rotation, Moon's orbit, Earth's orbit",The first weekday,0,0.0,0
+bcfead61129f,wiki,REC-stale20,True,fingernails,feet,0,0.0,0
+7fa1436d65d1,cpy,REC-stale20,False,"str or bytes, str or bytes",strings,0,0.0,0
+ce731e11ea0c,k8s,REC-stale20,True,restartPolicy,FallbackToLogsOnError,0,0.0,0
+cac2864957ac,wiki,REC-stale20,False,Puranas and epics,His association with dance and also with music,0,0.18181818181818182,0
+8db90605eef9,wiki,REC-stale20,True,"October 3, 1849",October 3,0,0.8,1
+9201bdd10102,wiki,REC-stale20,True,"1,368,840","176,000 inhabitants",0,0.0,0
+10aa0c0c19aa,cpy,REC-stale20,False,4,:data:`DEFAULT_PROTOCOL`,0,0.0,0
+3b7065e4cf0d,cpy,REC-stale20,False,specified_attributes,:attr:`~.needs_input`,0,0.0,0
+e205ccf8d471,wiki,REC-stale20,False,Martin Nowak,Martin Nowak,1,1.0,1
+ab13a0df63d3,wiki,REC-stale20,False,June 25,June 25 until July 31,0,0.5714285714285715,0
+657bb8447b4e,wiki,REC-stale20,True,Unpredictable wind supply.,wind is uncontrollable,0,0.3333333333333333,0
+f8ded7c5afd4,wiki,REC-stale20,True,"The question asks about the creator of ""Parkesine,"" but the provided context does not mention Parkesine or its creator. Therefore, the",Alexander Parkes,0,0.0,0
+6ec2e19cc795,wiki,REC-stale20,True,TOKYO DOME,NHK Red and White Singing Contest,0,0.0,0
+bd28c0bc3780,wiki,REC-stale20,False,Information about the partner particle.,Receive information about the other particle,0,0.6666666666666665,0
+994b241fd792,k8s,REC-stale20,False,PyDict_EVENT_CLONED,reduced performance,0,0.0,0
+7e481cba38da,cpy,REC-stale20,True,wait,:meth:`~Event.wait`,0,0.0,0
+3a7157002320,wiki,REC-stale20,True,Everything,almost everything we see,0,0.4,0
+2f4439eddc86,wiki,REC-stale20,False,Pollutants formed by chemical reactions.,Ozone and smog,0,0.0,0
+044a7fff953e,k8s,REC-stale20,True,Addons may be killed due to resource limits.,addons often consume more of some resources,0,0.13333333333333333,0
+909d5e0aa174,wiki,REC-stale20,True,Vancouver,Marble Hill,0,0.0,0
+261fa879827b,wiki,REC-stale20,False,Computational proofs and abstract algebra concepts.,almost all of Ramanujan's work,0,0.0,0
+4ddf61f10d87,wiki,REC-stale20,True,leading an army,talk or to eat,0,0.0,0
+b8fb438c1a96,wiki,REC-stale20,True,"An American flag, experiments, and a sign.",an American flag,0,0.5714285714285715,1
+1e8b81a233a6,k8s,REC-stale20,True,kubectl get pods --namespace seattle,kubectl get pods,0,0.7499999999999999,1
+4514a4e85a56,wiki,REC-stale20,False,Conquest of the Aztec Empire,to the West Indies,0,0.0,0
+65e4ce29608d,k8s,REC-stale20,False,stored root certificate and client certificates,stored root certificate and client certificates,1,1.0,1
+85ee6fef963a,wiki,REC-stale20,True,celebrity relationships and lifestyles,Their relationship,0,0.0,0
+be6a8d50bdee,wiki,REC-stale20,True,No one mentioned.,his friends at Nickelodeon,0,0.0,0
+b145c4ef6a4c,k8s,REC-stale20,False,On the control plane.,control plane,0,0.8,1
+c6463ed7fd93,cpy,REC-stale20,True,denial of service attacks,older versions of Expat,0,0.25,0
+299448c4cf21,k8s,REC-stale20,True,"information, processes, objects, ideas, events",the code we already have,0,0.0,0
+bc0c01774a3a,wiki,REC-stale20,True,The problem of induction,Hilbert's tenth problem,0,0.3333333333333333,0
+f9f482632c8a,cpy,REC-stale20,False,readlines,:meth:`~io.IOBase.readlines`,0,0.0,0
+31c0a7f1df24,cpy,REC-stale20,False,module's namespace,the module's namespace,1,1.0,1
+e9a9711f444f,wiki,REC-stale20,False,Polish Home Army,The Polish Home Army,1,1.0,1
+194506a63a23,wiki,REC-stale20,True,5.0,Buster,0,0.0,0
+f83bef186776,k8s,REC-stale20,False,The first control plane node.,Pick a control plane node,0,0.75,0
+9ce4c687742e,k8s,REC-stale20,True,Misc/NEWS,Contributing upstream,0,0.0,0
+0f6fdf77713a,wiki,REC-stale20,True,Thorn Lighting,Hilti,0,0.0,0
+886ca071a3ea,cpy,REC-stale20,True,the default database,Python's built-in MIME type tables,0,0.0,0
+fca8ef9e2782,cpy,REC-stale20,False,the class of the object,the class of the object,1,1.0,1
+6a65207e4324,wiki,REC-stale20,True,Windows Vista,Windows Vista,1,1.0,1
+d2f30f735ce8,wiki,REC-stale20,False,1953,1953,1,1.0,1
+7a0327e452a7,wiki,REC-stale20,True,Stopping alcohol use abruptly.,getting toxins out of the body,0,0.0,0
+8c55de9a48ed,wiki,REC-stale20,True,Xbox 360,Xbox 360,1,1.0,1
+7d413dd410fd,wiki,REC-stale20,False,20 minutes plus theme song and credits,20 minutes long,0,0.4,0
+6958207b2285,cpy,REC-stale20,False,unquote,One and only one of,0,0.0,0
+96ef6d0d2994,wiki,REC-stale20,False,"Zurich, Brugg, Lucerne, Zofingen, Zug, Aarau, Rome, Wichita, Cancún, Kaif","Brugg, Lucerne, Zofingen and Zug",0,0.5333333333333333,0
+0cd97f8ecaa8,k8s,REC-stale20,False,kubectl expose,EndpointSlices,0,0.0,0
+87c0b5559902,cpy,REC-stale20,True,text/plain,get_default_type,0,0.0,0
+ada0d21964f2,wiki,REC-stale20,True,1936,"September 28, 2009",0,0.0,0
+171f7e3175cd,cpy,REC-stale20,False,False,:const:`False`,0,0.0,0
+ff862d4070ae,cpy,REC-stale20,False,Compat32,:class:`~email.policy.Policy`,0,0.0,0
+065205c696c7,wiki,REC-stale20,True,Cindy Jackson,visionary individuals,0,0.0,0
+570dd2a2c4aa,wiki,REC-stale20,False,"No, responsibility is not required in divorce.",It is not necessary,0,0.36363636363636365,0
+793afdffb2a6,wiki,REC-stale20,True,Toronto Transit Commission,Los Angeles Railway,0,0.0,0
+730416994648,wiki,REC-stale20,False,Egypt,Egypt,1,1.0,1
+aba0d9a2a4c3,k8s,REC-stale20,False,certificates,CA certificate bundle,0,0.0,0
+7a244c49f408,wiki,REC-stale20,False,"In gardens, vineyards, and rose gardens.",at the end of each row of vines,0,0.0,0
+f92686b38859,k8s,REC-stale20,False,urllib.request.urlopen(),service,0,0.0,0
+d15634a74368,k8s,REC-stale20,False,make regen-configure,kubectl create --edit,0,0.0,0
+728f205c1724,k8s,REC-stale20,True,Misc/NEWS,Contributing upstream,0,0.0,0
+09f40a724078,wiki,REC-stale20,False,"Chingyai, Kharong, Isingchaibi, Nungpak Khul, Chingoi","Chingyai, Kharong, Isingchaibi, Nungpak Khul, Chingoi",1,1.0,1
+13a815959ee4,k8s,REC-stale20,True,network providers,etcd,0,0.0,0
+30468d176ea8,k8s,REC-stale20,True,namespaceSelector,key-value labels,0,0.0,0
+44844bd20cd7,cpy,REC-stale20,False,cancel(),:meth:`~Timer.cancel`,0,0.0,0
+c396c4bcb7a4,wiki,REC-stale20,True,Around one million,"3,500 German prisoners",0,0.0,0
+c01babe26243,k8s,REC-stale20,False,Pod deletion or node shutdown,graceful deletion of a Pod,0,0.4444444444444445,0
+74397bbaf3c8,cpy,REC-stale20,False,,"(pid, fd)",0,0.0,0
+0c6f33a89aa8,wiki,REC-stale20,True,Forbes Quarry,Forbes Quarry find,0,0.8,0
+ca099ac0c186,cpy,REC-stale20,False,Python byte code,bytecode for modules,0,0.0,0
+c05b478977b6,k8s,REC-stale20,False,150,150 feasible ones,0,0.5,0
+7cc2c79aef23,wiki,REC-stale20,False,Levant,Northern Mesopotamia,0,0.0,0
+6386a33abdc3,cpy,REC-stale20,False,Objects that used to be instances but no longer meet the frozen attributes.,some objects,0,0.14285714285714285,0
+2e6f6f4e4c35,k8s,REC-stale20,True,dnsmasq,dnsmasq,1,1.0,1
+6560907ba697,wiki,REC-stale20,True,Other forces,Other forces,1,1.0,1
+c77f84316d45,wiki,REC-stale20,False,C3 linearization,an entirely new approach,0,0.0,0
+5215316d9733,wiki,REC-stale20,False,Hispaniola,Hispaniola,1,1.0,1
+bef2c7acdbb7,wiki,REC-stale20,True,Muslim,Muslims,0,0.0,0
+ad7f50a0b5df,wiki,REC-stale20,True,1991,In 2023,0,0.0,0
+80b0c3ee706e,cpy,REC-stale20,True,store,Use the latest patch release,0,0.0,0
+088062abafb5,cpy,REC-stale20,True,Python 3.13,removed in Python 3.13,0,0.6666666666666666,0
+717d6a640dc2,k8s,REC-stale20,True,DNS policies,rich set of policies,0,0.3333333333333333,0
+5736364a6075,cpy,REC-stale20,False,Perl 5,Base64 standard alphabet,0,0.0,0
+92b56cc9f7ab,cpy,REC-stale20,False,,a single command-line argument,0,0.0,0
+7638a2b1c62b,wiki,REC-stale20,False,Peng Liyuan,Peng Liyuan,1,1.0,1
+758a0b8d7377,k8s,REC-stale20,True,Misc/NEWS,Contributing upstream,0,0.0,0
+e1ebaadb9a28,k8s,REC-stale20,False,"API violations, buffer underflow, buffer overflow","Create, update, and delete",0,0.0,0
+e2062c3dab28,cpy,REC-stale20,False,generator's method,awaiting on the next object,0,0.0,0
+5435003f5c58,wiki,REC-stale20,False,Graceland College,Graceland College,1,1.0,1
+3c321e67cb8f,wiki,REC-stale20,True,the existence of Anastasia,this belief,0,0.0,0
+2f2206c80dd4,wiki,REC-stale20,False,Africa,savannas of Africa,0,0.5,0

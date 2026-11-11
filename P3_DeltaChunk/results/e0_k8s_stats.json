@@ -1,0 +1,18 @@
+{
+ "candidates": 1722,
+ "examined": 1722,
+ "too_few_commits": 1438,
+ "identical_dropped": 107,
+ "ancestry_checked": 1420,
+ "ancestry_violations": 0,
+ "history": "first-parent",
+ "log_errors": 0,
+ "docs": 284,
+ "versions": 15208,
+ "head": "a3fa41cb55094b623886c9778f5d22182b9d3db8",
+ "seconds": 164.5,
+ "procs": 5,
+ "min_commits": 20,
+ "salt": "editstream-2026-K8S",
+ "n_release_tags": 0
+}

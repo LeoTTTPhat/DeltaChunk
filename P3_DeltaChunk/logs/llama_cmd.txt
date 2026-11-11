@@ -1,0 +1,2 @@
+/Applications/Ollama.app/Contents/Resources/llama-server --model /Users/sonha/.ollama/models/blobs/sha256-a3de86cd1c132c822487ededd47a324c50491393e6565cd14bafa40d0b8e686f --port 8301 --host 127.0.0.1 -np 8 -c 32768 -cb -ngl 99 --reasoning-budget 0 -cram 512
+# Nov 9 17:25 runner session 1: added -cram 512 (llama-server's RAM prompt cache defaults to 8 GiB; memwatch stopped the 14.3 GB server twice at machine 470 GB)

@@ -1,0 +1,66 @@
+{
+ "stream": "cpy",
+ "candidates": 320,
+ "kept": 200,
+ "rejected": {
+  "parse": 2,
+  "not_in_evidence": 35,
+  "in_question": 4,
+  "too_long": 8,
+  "not_question": 1
+ },
+ "proximal": 65,
+ "llm": {
+  "calls": 192,
+  "hits": 128,
+  "seconds": 2686.8853255839276,
+  "prompt_tokens": 36726,
+  "completion_tokens": 5110
+ },
+ "meta": {
+  "time": "2026-11-09 19:27:03",
+  "host": "arm64",
+  "python": "3.12.12",
+  "versions": {
+   "numpy": "2.5.4",
+   "pandas": "3.1.1",
+   "langchain-text-splitters": "1.1.3",
+   "kara-toolkit": "0.3.2",
+   "steadlith": "1.0.1",
+   "fastcdc": "1.7.0",
+   "tokenizers": "0.22.2",
+   "sentence-transformers": "5.7.0",
+   "transformers": "4.57.6",
+   "torch": "2.15.0",
+   "hnswlib": "0.8.0",
+   "faiss-cpu": "1.15.1"
+  },
+  "threads": {
+   "P3_THREADS": 8,
+   "RAYON_NUM_THREADS": "8",
+   "TOKENIZERS_PARALLELISM": null,
+   "OMP_NUM_THREADS": "8"
+  },
+  "load": {
+   "top10": [
+    "100.0 2211440 python",
+    "99.2 113520 python",
+    "99.1 1609504 python",
+    "99.0 996560 python",
+    "98.9 733824 python",
+    "98.4 1394576 python",
+    "98.2 294176 python",
+    "96.6 884784 python",
+    "92.4 1960288 python",
+    "89.4 2375456 python"
+   ],
+   "memwatch": {
+    "ts": "2026-11-09 19:27:00",
+    "project_gb": 29.76,
+    "system_gb": 349.29
+   }
+  },
+  "seconds": 349.3,
+  "llm_model": "qwen3:8b"
+ }
+}

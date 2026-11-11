@@ -1,0 +1,1449 @@
+{
+ "pairs": 200,
+ "mismatches": 0,
+ "ours_larger": 0,
+ "excess_units_total": 0,
+ "units_changed_total_ours": 7409,
+ "units_changed_total_git": 7409,
+ "rows": [
+  {
+   "stream": "cpy",
+   "ours_del": 1,
+   "ours_ins": 1,
+   "git_del": 1,
+   "git_ins": 1
+  },
+  {
+   "stream": "k8s",
+   "ours_del": 1,
+   "ours_ins": 0,
+   "git_del": 1,
+   "git_ins": 0
+  },
+  {
+   "stream": "cpy",
+   "ours_del": 5,
+   "ours_ins": 27,
+   "git_del": 5,
+   "git_ins": 27
+  },
+  {
+   "stream": "k8s",
+   "ours_del": 4,
+   "ours_ins": 4,
+   "git_del": 4,
+   "git_ins": 4
+  },
+  {
+   "stream": "wiki",
+   "ours_del": 12,
+   "ours_ins": 1,
+   "git_del": 12,
+   "git_ins": 1
+  },
+  {
+   "stream": "wiki",
+   "ours_del": 1,
+   "ours_ins": 1,
+   "git_del": 1,
+   "git_ins": 1
+  },
+  {
+   "stream": "cpy",
+   "ours_del": 3,
+   "ours_ins": 6,
+   "git_del": 3,
+   "git_ins": 6
+  },
+  {
+   "stream": "cpy",
+   "ours_del": 122,
+   "ours_ins": 163,
+   "git_del": 122,
+   "git_ins": 163
+  },
+  {
+   "stream": "k8s",
+   "ours_del": 4,
+   "ours_ins": 4,
+   "git_del": 4,
+   "git_ins": 4
+  },
+  {
+   "stream": "cpy",
+   "ours_del": 98,
+   "ours_ins": 88,
+   "git_del": 98,
+   "git_ins": 88
+  },
+  {
+   "stream": "cpy",
+   "ours_del": 381,
+   "ours_ins": 223,
+   "git_del": 381,
+   "git_ins": 223
+  },
+  {
+   "stream": "k8s",
+   "ours_del": 2,
+   "ours_ins": 2,
+   "git_del": 2,
+   "git_ins": 2
+  },
+  {
+   "stream": "cpy",
+   "ours_del": 0,
+   "ours_ins": 1,
+   "git_del": 0,
+   "git_ins": 1
+  },
+  {
+   "stream": "k8s",
+   "ours_del": 2,
+   "ours_ins": 2,
+   "git_del": 2,
+   "git_ins": 2
+  },
+  {
+   "stream": "cpy",
+   "ours_del": 5,
+   "ours_ins": 5,
+   "git_del": 5,
+   "git_ins": 5
+  },
+  {
+   "stream": "wiki",
+   "ours_del": 1,
+   "ours_ins": 1,
+   "git_del": 1,
+   "git_ins": 1
+  },
+  {
+   "stream": "cpy",
+   "ours_del": 0,
+   "ours_ins": 3,
+   "git_del": 0,
+   "git_ins": 3
+  },
+  {
+   "stream": "wiki",
+   "ours_del": 0,
+   "ours_ins": 1,
+   "git_del": 0,
+   "git_ins": 1
+  },
+  {
+   "stream": "k8s",
+   "ours_del": 0,
+   "ours_ins": 1,
+   "git_del": 0,
+   "git_ins": 1
+  },
+  {
+   "stream": "wiki",
+   "ours_del": 1,
+   "ours_ins": 2,
+   "git_del": 1,
+   "git_ins": 2
+  },
+  {
+   "stream": "cpy",
+   "ours_del": 1,
+   "ours_ins": 1,
+   "git_del": 1,
+   "git_ins": 1
+  },
+  {
+   "stream": "wiki",
+   "ours_del": 1,
+   "ours_ins": 0,
+   "git_del": 1,
+   "git_ins": 0
+  },
+  {
+   "stream": "cpy",
+   "ours_del": 0,
+   "ours_ins": 1,
+   "git_del": 0,
+   "git_ins": 1
+  },
+  {
+   "stream": "cpy",
+   "ours_del": 0,
+   "ours_ins": 4,
+   "git_del": 0,
+   "git_ins": 4
+  },
+  {
+   "stream": "wiki",
+   "ours_del": 2,
+   "ours_ins": 1,
+   "git_del": 2,
+   "git_ins": 1
+  },
+  {
+   "stream": "cpy",
+   "ours_del": 11,
+   "ours_ins": 4,
+   "git_del": 11,
+   "git_ins": 4
+  },
+  {
+   "stream": "cpy",
+   "ours_del": 4,
+   "ours_ins": 0,
+   "git_del": 4,
+   "git_ins": 0
+  },
+  {
+   "stream": "cpy",
+   "ours_del": 1,
+   "ours_ins": 8,
+   "git_del": 1,
+   "git_ins": 8
+  },
+  {
+   "stream": "cpy",
+   "ours_del": 0,
+   "ours_ins": 10,
+   "git_del": 0,
+   "git_ins": 10
+  },
+  {
+   "stream": "wiki",
+   "ours_del": 1,
+   "ours_ins": 2,
+   "git_del": 1,
+   "git_ins": 2
+  },
+  {
+   "stream": "k8s",
+   "ours_del": 1,
+   "ours_ins": 1,
+   "git_del": 1,
+   "git_ins": 1
+  },
+  {
+   "stream": "wiki",
+   "ours_del": 1,
+   "ours_ins": 1,
+   "git_del": 1,
+   "git_ins": 1
+  },
+  {
+   "stream": "cpy",
+   "ours_del": 17,
+   "ours_ins": 47,
+   "git_del": 17,
+   "git_ins": 47
+  },
+  {
+   "stream": "wiki",
+   "ours_del": 1,
+   "ours_ins": 1,
+   "git_del": 1,
+   "git_ins": 1
+  },
+  {
+   "stream": "cpy",
+   "ours_del": 2,
+   "ours_ins": 2,
+   "git_del": 2,
+   "git_ins": 2
+  },
+  {
+   "stream": "cpy",
+   "ours_del": 2,
+   "ours_ins": 6,
+   "git_del": 2,
+   "git_ins": 6
+  },
+  {
+   "stream": "k8s",
+   "ours_del": 2,
+   "ours_ins": 2,
+   "git_del": 2,
+   "git_ins": 2
+  },
+  {
+   "stream": "cpy",
+   "ours_del": 33,
+   "ours_ins": 38,
+   "git_del": 33,
+   "git_ins": 38
+  },
+  {
+   "stream": "cpy",
+   "ours_del": 22,
+   "ours_ins": 4,
+   "git_del": 22,
+   "git_ins": 4
+  },
+  {
+   "stream": "wiki",
+   "ours_del": 1,
+   "ours_ins": 1,
+   "git_del": 1,
+   "git_ins": 1
+  },
+  {
+   "stream": "k8s",
+   "ours_del": 1,
+   "ours_ins": 1,
+   "git_del": 1,
+   "git_ins": 1
+  },
+  {
+   "stream": "k8s",
+   "ours_del": 1,
+   "ours_ins": 1,
+   "git_del": 1,
+   "git_ins": 1
+  },
+  {
+   "stream": "k8s",
+   "ours_del": 9,
+   "ours_ins": 3,
+   "git_del": 9,
+   "git_ins": 3
+  },
+  {
+   "stream": "cpy",
+   "ours_del": 64,
+   "ours_ins": 126,
+   "git_del": 64,
+   "git_ins": 126
+  },
+  {
+   "stream": "cpy",
+   "ours_del": 1,
+   "ours_ins": 1,
+   "git_del": 1,
+   "git_ins": 1
+  },
+  {
+   "stream": "wiki",
+   "ours_del": 1,
+   "ours_ins": 10,
+   "git_del": 1,
+   "git_ins": 10
+  },
+  {
+   "stream": "cpy",
+   "ours_del": 3,
+   "ours_ins": 3,
+   "git_del": 3,
+   "git_ins": 3
+  },
+  {
+   "stream": "cpy",
+   "ours_del": 1,
+   "ours_ins": 1,
+   "git_del": 1,
+   "git_ins": 1
+  },
+  {
+   "stream": "k8s",
+   "ours_del": 1,
+   "ours_ins": 2,
+   "git_del": 1,
+   "git_ins": 2
+  },
+  {
+   "stream": "cpy",
+   "ours_del": 0,
+   "ours_ins": 2,
+   "git_del": 0,
+   "git_ins": 2
+  },
+  {
+   "stream": "wiki",
+   "ours_del": 3,
+   "ours_ins": 74,
+   "git_del": 3,
+   "git_ins": 74
+  },
+  {
+   "stream": "wiki",
+   "ours_del": 0,
+   "ours_ins": 1,
+   "git_del": 0,
+   "git_ins": 1
+  },
+  {
+   "stream": "cpy",
+   "ours_del": 1,
+   "ours_ins": 1,
+   "git_del": 1,
+   "git_ins": 1
+  },
+  {
+   "stream": "cpy",
+   "ours_del": 3,
+   "ours_ins": 10,
+   "git_del": 3,
+   "git_ins": 10
+  },
+  {
+   "stream": "wiki",
+   "ours_del": 1,
+   "ours_ins": 1,
+   "git_del": 1,
+   "git_ins": 1
+  },
+  {
+   "stream": "wiki",
+   "ours_del": 8,
+   "ours_ins": 15,
+   "git_del": 8,
+   "git_ins": 15
+  },
+  {
+   "stream": "cpy",
+   "ours_del": 2,
+   "ours_ins": 50,
+   "git_del": 2,
+   "git_ins": 50
+  },
+  {
+   "stream": "cpy",
+   "ours_del": 1,
+   "ours_ins": 1,
+   "git_del": 1,
+   "git_ins": 1
+  },
+  {
+   "stream": "k8s",
+   "ours_del": 3,
+   "ours_ins": 3,
+   "git_del": 3,
+   "git_ins": 3
+  },
+  {
+   "stream": "cpy",
+   "ours_del": 2,
+   "ours_ins": 5,
+   "git_del": 2,
+   "git_ins": 5
+  },
+  {
+   "stream": "cpy",
+   "ours_del": 371,
+   "ours_ins": 212,
+   "git_del": 371,
+   "git_ins": 212
+  },
+  {
+   "stream": "cpy",
+   "ours_del": 1,
+   "ours_ins": 1,
+   "git_del": 1,
+   "git_ins": 1
+  },
+  {
+   "stream": "cpy",
+   "ours_del": 154,
+   "ours_ins": 325,
+   "git_del": 154,
+   "git_ins": 325
+  },
+  {
+   "stream": "cpy",
+   "ours_del": 4,
+   "ours_ins": 6,
+   "git_del": 4,
+   "git_ins": 6
+  },
+  {
+   "stream": "wiki",
+   "ours_del": 3,
+   "ours_ins": 4,
+   "git_del": 3,
+   "git_ins": 4
+  },
+  {
+   "stream": "cpy",
+   "ours_del": 5,
+   "ours_ins": 7,
+   "git_del": 5,
+   "git_ins": 7
+  },
+  {
+   "stream": "cpy",
+   "ours_del": 1,
+   "ours_ins": 1,
+   "git_del": 1,
+   "git_ins": 1
+  },
+  {
+   "stream": "cpy",
+   "ours_del": 379,
+   "ours_ins": 219,
+   "git_del": 379,
+   "git_ins": 219
+  },
+  {
+   "stream": "k8s",
+   "ours_del": 292,
+   "ours_ins": 237,
+   "git_del": 292,
+   "git_ins": 237
+  },
+  {
+   "stream": "wiki",
+   "ours_del": 1,
+   "ours_ins": 1,
+   "git_del": 1,
+   "git_ins": 1
+  },
+  {
+   "stream": "cpy",
+   "ours_del": 2,
+   "ours_ins": 10,
+   "git_del": 2,
+   "git_ins": 10
+  },
+  {
+   "stream": "k8s",
+   "ours_del": 24,
+   "ours_ins": 8,
+   "git_del": 24,
+   "git_ins": 8
+  },
+  {
+   "stream": "cpy",
+   "ours_del": 3,
+   "ours_ins": 17,
+   "git_del": 3,
+   "git_ins": 17
+  },
+  {
+   "stream": "wiki",
+   "ours_del": 1,
+   "ours_ins": 0,
+   "git_del": 1,
+   "git_ins": 0
+  },
+  {
+   "stream": "wiki",
+   "ours_del": 1,
+   "ours_ins": 1,
+   "git_del": 1,
+   "git_ins": 1
+  },
+  {
+   "stream": "cpy",
+   "ours_del": 1,
+   "ours_ins": 10,
+   "git_del": 1,
+   "git_ins": 10
+  },
+  {
+   "stream": "wiki",
+   "ours_del": 1,
+   "ours_ins": 1,
+   "git_del": 1,
+   "git_ins": 1
+  },
+  {
+   "stream": "wiki",
+   "ours_del": 1,
+   "ours_ins": 0,
+   "git_del": 1,
+   "git_ins": 0
+  },
+  {
+   "stream": "cpy",
+   "ours_del": 2,
+   "ours_ins": 2,
+   "git_del": 2,
+   "git_ins": 2
+  },
+  {
+   "stream": "wiki",
+   "ours_del": 1,
+   "ours_ins": 2,
+   "git_del": 1,
+   "git_ins": 2
+  },
+  {
+   "stream": "cpy",
+   "ours_del": 6,
+   "ours_ins": 3,
+   "git_del": 6,
+   "git_ins": 3
+  },
+  {
+   "stream": "cpy",
+   "ours_del": 1,
+   "ours_ins": 1,
+   "git_del": 1,
+   "git_ins": 1
+  },
+  {
+   "stream": "k8s",
+   "ours_del": 1,
+   "ours_ins": 1,
+   "git_del": 1,
+   "git_ins": 1
+  },
+  {
+   "stream": "wiki",
+   "ours_del": 1,
+   "ours_ins": 1,
+   "git_del": 1,
+   "git_ins": 1
+  },
+  {
+   "stream": "wiki",
+   "ours_del": 2,
+   "ours_ins": 2,
+   "git_del": 2,
+   "git_ins": 2
+  },
+  {
+   "stream": "k8s",
+   "ours_del": 1,
+   "ours_ins": 1,
+   "git_del": 1,
+   "git_ins": 1
+  },
+  {
+   "stream": "cpy",
+   "ours_del": 1,
+   "ours_ins": 4,
+   "git_del": 1,
+   "git_ins": 4
+  },
+  {
+   "stream": "cpy",
+   "ours_del": 7,
+   "ours_ins": 12,
+   "git_del": 7,
+   "git_ins": 12
+  },
+  {
+   "stream": "wiki",
+   "ours_del": 9,
+   "ours_ins": 10,
+   "git_del": 9,
+   "git_ins": 10
+  },
+  {
+   "stream": "k8s",
+   "ours_del": 1,
+   "ours_ins": 1,
+   "git_del": 1,
+   "git_ins": 1
+  },
+  {
+   "stream": "cpy",
+   "ours_del": 1,
+   "ours_ins": 1,
+   "git_del": 1,
+   "git_ins": 1
+  },
+  {
+   "stream": "k8s",
+   "ours_del": 1,
+   "ours_ins": 6,
+   "git_del": 1,
+   "git_ins": 6
+  },
+  {
+   "stream": "cpy",
+   "ours_del": 140,
+   "ours_ins": 146,
+   "git_del": 140,
+   "git_ins": 146
+  },
+  {
+   "stream": "wiki",
+   "ours_del": 1,
+   "ours_ins": 1,
+   "git_del": 1,
+   "git_ins": 1
+  },
+  {
+   "stream": "cpy",
+   "ours_del": 1,
+   "ours_ins": 3,
+   "git_del": 1,
+   "git_ins": 3
+  },
+  {
+   "stream": "k8s",
+   "ours_del": 0,
+   "ours_ins": 2,
+   "git_del": 0,
+   "git_ins": 2
+  },
+  {
+   "stream": "cpy",
+   "ours_del": 1,
+   "ours_ins": 1,
+   "git_del": 1,
+   "git_ins": 1
+  },
+  {
+   "stream": "cpy",
+   "ours_del": 2,
+   "ours_ins": 6,
+   "git_del": 2,
+   "git_ins": 6
+  },
+  {
+   "stream": "wiki",
+   "ours_del": 43,
+   "ours_ins": 43,
+   "git_del": 43,
+   "git_ins": 43
+  },
+  {
+   "stream": "cpy",
+   "ours_del": 1,
+   "ours_ins": 1,
+   "git_del": 1,
+   "git_ins": 1
+  },
+  {
+   "stream": "cpy",
+   "ours_del": 2,
+   "ours_ins": 2,
+   "git_del": 2,
+   "git_ins": 2
+  },
+  {
+   "stream": "cpy",
+   "ours_del": 0,
+   "ours_ins": 2,
+   "git_del": 0,
+   "git_ins": 2
+  },
+  {
+   "stream": "k8s",
+   "ours_del": 0,
+   "ours_ins": 2,
+   "git_del": 0,
+   "git_ins": 2
+  },
+  {
+   "stream": "k8s",
+   "ours_del": 3,
+   "ours_ins": 3,
+   "git_del": 3,
+   "git_ins": 3
+  },
+  {
+   "stream": "wiki",
+   "ours_del": 2,
+   "ours_ins": 3,
+   "git_del": 2,
+   "git_ins": 3
+  },
+  {
+   "stream": "cpy",
+   "ours_del": 22,
+   "ours_ins": 34,
+   "git_del": 22,
+   "git_ins": 34
+  },
+  {
+   "stream": "cpy",
+   "ours_del": 1,
+   "ours_ins": 1,
+   "git_del": 1,
+   "git_ins": 1
+  },
+  {
+   "stream": "k8s",
+   "ours_del": 1,
+   "ours_ins": 1,
+   "git_del": 1,
+   "git_ins": 1
+  },
+  {
+   "stream": "k8s",
+   "ours_del": 1,
+   "ours_ins": 1,
+   "git_del": 1,
+   "git_ins": 1
+  },
+  {
+   "stream": "cpy",
+   "ours_del": 1,
+   "ours_ins": 1,
+   "git_del": 1,
+   "git_ins": 1
+  },
+  {
+   "stream": "wiki",
+   "ours_del": 2,
+   "ours_ins": 2,
+   "git_del": 2,
+   "git_ins": 2
+  },
+  {
+   "stream": "k8s",
+   "ours_del": 1,
+   "ours_ins": 1,
+   "git_del": 1,
+   "git_ins": 1
+  },
+  {
+   "stream": "wiki",
+   "ours_del": 1,
+   "ours_ins": 1,
+   "git_del": 1,
+   "git_ins": 1
+  },
+  {
+   "stream": "wiki",
+   "ours_del": 1,
+   "ours_ins": 0,
+   "git_del": 1,
+   "git_ins": 0
+  },
+  {
+   "stream": "cpy",
+   "ours_del": 221,
+   "ours_ins": 363,
+   "git_del": 221,
+   "git_ins": 363
+  },
+  {
+   "stream": "wiki",
+   "ours_del": 11,
+   "ours_ins": 120,
+   "git_del": 11,
+   "git_ins": 120
+  },
+  {
+   "stream": "wiki",
+   "ours_del": 0,
+   "ours_ins": 1,
+   "git_del": 0,
+   "git_ins": 1
+  },
+  {
+   "stream": "cpy",
+   "ours_del": 10,
+   "ours_ins": 9,
+   "git_del": 10,
+   "git_ins": 9
+  },
+  {
+   "stream": "cpy",
+   "ours_del": 0,
+   "ours_ins": 2,
+   "git_del": 0,
+   "git_ins": 2
+  },
+  {
+   "stream": "wiki",
+   "ours_del": 10,
+   "ours_ins": 14,
+   "git_del": 10,
+   "git_ins": 14
+  },
+  {
+   "stream": "cpy",
+   "ours_del": 0,
+   "ours_ins": 1,
+   "git_del": 0,
+   "git_ins": 1
+  },
+  {
+   "stream": "wiki",
+   "ours_del": 2,
+   "ours_ins": 2,
+   "git_del": 2,
+   "git_ins": 2
+  },
+  {
+   "stream": "wiki",
+   "ours_del": 2,
+   "ours_ins": 2,
+   "git_del": 2,
+   "git_ins": 2
+  },
+  {
+   "stream": "cpy",
+   "ours_del": 0,
+   "ours_ins": 2,
+   "git_del": 0,
+   "git_ins": 2
+  },
+  {
+   "stream": "cpy",
+   "ours_del": 0,
+   "ours_ins": 12,
+   "git_del": 0,
+   "git_ins": 12
+  },
+  {
+   "stream": "wiki",
+   "ours_del": 1,
+   "ours_ins": 1,
+   "git_del": 1,
+   "git_ins": 1
+  },
+  {
+   "stream": "wiki",
+   "ours_del": 2,
+   "ours_ins": 2,
+   "git_del": 2,
+   "git_ins": 2
+  },
+  {
+   "stream": "wiki",
+   "ours_del": 1,
+   "ours_ins": 1,
+   "git_del": 1,
+   "git_ins": 1
+  },
+  {
+   "stream": "cpy",
+   "ours_del": 10,
+   "ours_ins": 27,
+   "git_del": 10,
+   "git_ins": 27
+  },
+  {
+   "stream": "wiki",
+   "ours_del": 1,
+   "ours_ins": 1,
+   "git_del": 1,
+   "git_ins": 1
+  },
+  {
+   "stream": "cpy",
+   "ours_del": 6,
+   "ours_ins": 6,
+   "git_del": 6,
+   "git_ins": 6
+  },
+  {
+   "stream": "cpy",
+   "ours_del": 12,
+   "ours_ins": 7,
+   "git_del": 12,
+   "git_ins": 7
+  },
+  {
+   "stream": "cpy",
+   "ours_del": 10,
+   "ours_ins": 5,
+   "git_del": 10,
+   "git_ins": 5
+  },
+  {
+   "stream": "cpy",
+   "ours_del": 0,
+   "ours_ins": 3,
+   "git_del": 0,
+   "git_ins": 3
+  },
+  {
+   "stream": "k8s",
+   "ours_del": 1,
+   "ours_ins": 1,
+   "git_del": 1,
+   "git_ins": 1
+  },
+  {
+   "stream": "cpy",
+   "ours_del": 2,
+   "ours_ins": 3,
+   "git_del": 2,
+   "git_ins": 3
+  },
+  {
+   "stream": "cpy",
+   "ours_del": 17,
+   "ours_ins": 17,
+   "git_del": 17,
+   "git_ins": 17
+  },
+  {
+   "stream": "cpy",
+   "ours_del": 3,
+   "ours_ins": 3,
+   "git_del": 3,
+   "git_ins": 3
+  },
+  {
+   "stream": "k8s",
+   "ours_del": 1,
+   "ours_ins": 3,
+   "git_del": 1,
+   "git_ins": 3
+  },
+  {
+   "stream": "cpy",
+   "ours_del": 0,
+   "ours_ins": 3,
+   "git_del": 0,
+   "git_ins": 3
+  },
+  {
+   "stream": "cpy",
+   "ours_del": 10,
+   "ours_ins": 10,
+   "git_del": 10,
+   "git_ins": 10
+  },
+  {
+   "stream": "wiki",
+   "ours_del": 1,
+   "ours_ins": 1,
+   "git_del": 1,
+   "git_ins": 1
+  },
+  {
+   "stream": "cpy",
+   "ours_del": 1,
+   "ours_ins": 1,
+   "git_del": 1,
+   "git_ins": 1
+  },
+  {
+   "stream": "wiki",
+   "ours_del": 1,
+   "ours_ins": 1,
+   "git_del": 1,
+   "git_ins": 1
+  },
+  {
+   "stream": "cpy",
+   "ours_del": 4,
+   "ours_ins": 4,
+   "git_del": 4,
+   "git_ins": 4
+  },
+  {
+   "stream": "cpy",
+   "ours_del": 1,
+   "ours_ins": 7,
+   "git_del": 1,
+   "git_ins": 7
+  },
+  {
+   "stream": "cpy",
+   "ours_del": 209,
+   "ours_ins": 373,
+   "git_del": 209,
+   "git_ins": 373
+  },
+  {
+   "stream": "k8s",
+   "ours_del": 8,
+   "ours_ins": 13,
+   "git_del": 8,
+   "git_ins": 13
+  },
+  {
+   "stream": "cpy",
+   "ours_del": 10,
+   "ours_ins": 42,
+   "git_del": 10,
+   "git_ins": 42
+  },
+  {
+   "stream": "k8s",
+   "ours_del": 1,
+   "ours_ins": 1,
+   "git_del": 1,
+   "git_ins": 1
+  },
+  {
+   "stream": "k8s",
+   "ours_del": 4,
+   "ours_ins": 4,
+   "git_del": 4,
+   "git_ins": 4
+  },
+  {
+   "stream": "cpy",
+   "ours_del": 18,
+   "ours_ins": 18,
+   "git_del": 18,
+   "git_ins": 18
+  },
+  {
+   "stream": "cpy",
+   "ours_del": 41,
+   "ours_ins": 16,
+   "git_del": 41,
+   "git_ins": 16
+  },
+  {
+   "stream": "cpy",
+   "ours_del": 10,
+   "ours_ins": 33,
+   "git_del": 10,
+   "git_ins": 33
+  },
+  {
+   "stream": "cpy",
+   "ours_del": 1,
+   "ours_ins": 1,
+   "git_del": 1,
+   "git_ins": 1
+  },
+  {
+   "stream": "cpy",
+   "ours_del": 2,
+   "ours_ins": 2,
+   "git_del": 2,
+   "git_ins": 2
+  },
+  {
+   "stream": "k8s",
+   "ours_del": 3,
+   "ours_ins": 6,
+   "git_del": 3,
+   "git_ins": 6
+  },
+  {
+   "stream": "wiki",
+   "ours_del": 0,
+   "ours_ins": 21,
+   "git_del": 0,
+   "git_ins": 21
+  },
+  {
+   "stream": "k8s",
+   "ours_del": 0,
+   "ours_ins": 0,
+   "git_del": 0,
+   "git_ins": 0
+  },
+  {
+   "stream": "wiki",
+   "ours_del": 2,
+   "ours_ins": 2,
+   "git_del": 2,
+   "git_ins": 2
+  },
+  {
+   "stream": "cpy",
+   "ours_del": 1,
+   "ours_ins": 1,
+   "git_del": 1,
+   "git_ins": 1
+  },
+  {
+   "stream": "cpy",
+   "ours_del": 4,
+   "ours_ins": 4,
+   "git_del": 4,
+   "git_ins": 4
+  },
+  {
+   "stream": "cpy",
+   "ours_del": 0,
+   "ours_ins": 13,
+   "git_del": 0,
+   "git_ins": 13
+  },
+  {
+   "stream": "k8s",
+   "ours_del": 0,
+   "ours_ins": 2,
+   "git_del": 0,
+   "git_ins": 2
+  },
+  {
+   "stream": "cpy",
+   "ours_del": 4,
+   "ours_ins": 5,
+   "git_del": 4,
+   "git_ins": 5
+  },
+  {
+   "stream": "wiki",
+   "ours_del": 1,
+   "ours_ins": 1,
+   "git_del": 1,
+   "git_ins": 1
+  },
+  {
+   "stream": "wiki",
+   "ours_del": 1,
+   "ours_ins": 1,
+   "git_del": 1,
+   "git_ins": 1
+  },
+  {
+   "stream": "wiki",
+   "ours_del": 1,
+   "ours_ins": 1,
+   "git_del": 1,
+   "git_ins": 1
+  },
+  {
+   "stream": "cpy",
+   "ours_del": 1,
+   "ours_ins": 6,
+   "git_del": 1,
+   "git_ins": 6
+  },
+  {
+   "stream": "wiki",
+   "ours_del": 2,
+   "ours_ins": 1,
+   "git_del": 2,
+   "git_ins": 1
+  },
+  {
+   "stream": "wiki",
+   "ours_del": 7,
+   "ours_ins": 7,
+   "git_del": 7,
+   "git_ins": 7
+  },
+  {
+   "stream": "cpy",
+   "ours_del": 17,
+   "ours_ins": 24,
+   "git_del": 17,
+   "git_ins": 24
+  },
+  {
+   "stream": "wiki",
+   "ours_del": 2,
+   "ours_ins": 3,
+   "git_del": 2,
+   "git_ins": 3
+  },
+  {
+   "stream": "k8s",
+   "ours_del": 0,
+   "ours_ins": 2,
+   "git_del": 0,
+   "git_ins": 2
+  },
+  {
+   "stream": "cpy",
+   "ours_del": 2,
+   "ours_ins": 3,
+   "git_del": 2,
+   "git_ins": 3
+  },
+  {
+   "stream": "wiki",
+   "ours_del": 1,
+   "ours_ins": 1,
+   "git_del": 1,
+   "git_ins": 1
+  },
+  {
+   "stream": "k8s",
+   "ours_del": 0,
+   "ours_ins": 14,
+   "git_del": 0,
+   "git_ins": 14
+  },
+  {
+   "stream": "k8s",
+   "ours_del": 6,
+   "ours_ins": 4,
+   "git_del": 6,
+   "git_ins": 4
+  },
+  {
+   "stream": "cpy",
+   "ours_del": 273,
+   "ours_ins": 135,
+   "git_del": 273,
+   "git_ins": 135
+  },
+  {
+   "stream": "wiki",
+   "ours_del": 1,
+   "ours_ins": 1,
+   "git_del": 1,
+   "git_ins": 1
+  },
+  {
+   "stream": "wiki",
+   "ours_del": 1,
+   "ours_ins": 1,
+   "git_del": 1,
+   "git_ins": 1
+  },
+  {
+   "stream": "cpy",
+   "ours_del": 87,
+   "ours_ins": 84,
+   "git_del": 87,
+   "git_ins": 84
+  },
+  {
+   "stream": "wiki",
+   "ours_del": 1,
+   "ours_ins": 1,
+   "git_del": 1,
+   "git_ins": 1
+  },
+  {
+   "stream": "cpy",
+   "ours_del": 3,
+   "ours_ins": 7,
+   "git_del": 3,
+   "git_ins": 7
+  },
+  {
+   "stream": "cpy",
+   "ours_del": 1,
+   "ours_ins": 1,
+   "git_del": 1,
+   "git_ins": 1
+  },
+  {
+   "stream": "wiki",
+   "ours_del": 1,
+   "ours_ins": 0,
+   "git_del": 1,
+   "git_ins": 0
+  },
+  {
+   "stream": "wiki",
+   "ours_del": 1,
+   "ours_ins": 1,
+   "git_del": 1,
+   "git_ins": 1
+  },
+  {
+   "stream": "cpy",
+   "ours_del": 1,
+   "ours_ins": 1,
+   "git_del": 1,
+   "git_ins": 1
+  },
+  {
+   "stream": "cpy",
+   "ours_del": 2,
+   "ours_ins": 2,
+   "git_del": 2,
+   "git_ins": 2
+  },
+  {
+   "stream": "cpy",
+   "ours_del": 5,
+   "ours_ins": 5,
+   "git_del": 5,
+   "git_ins": 5
+  },
+  {
+   "stream": "cpy",
+   "ours_del": 13,
+   "ours_ins": 50,
+   "git_del": 13,
+   "git_ins": 50
+  },
+  {
+   "stream": "cpy",
+   "ours_del": 1,
+   "ours_ins": 2,
+   "git_del": 1,
+   "git_ins": 2
+  },
+  {
+   "stream": "cpy",
+   "ours_del": 5,
+   "ours_ins": 5,
+   "git_del": 5,
+   "git_ins": 5
+  },
+  {
+   "stream": "wiki",
+   "ours_del": 1,
+   "ours_ins": 1,
+   "git_del": 1,
+   "git_ins": 1
+  },
+  {
+   "stream": "wiki",
+   "ours_del": 1,
+   "ours_ins": 1,
+   "git_del": 1,
+   "git_ins": 1
+  },
+  {
+   "stream": "wiki",
+   "ours_del": 1,
+   "ours_ins": 2,
+   "git_del": 1,
+   "git_ins": 2
+  },
+  {
+   "stream": "cpy",
+   "ours_del": 2,
+   "ours_ins": 1,
+   "git_del": 2,
+   "git_ins": 1
+  },
+  {
+   "stream": "wiki",
+   "ours_del": 1,
+   "ours_ins": 22,
+   "git_del": 1,
+   "git_ins": 22
+  },
+  {
+   "stream": "cpy",
+   "ours_del": 0,
+   "ours_ins": 20,
+   "git_del": 0,
+   "git_ins": 20
+  },
+  {
+   "stream": "cpy",
+   "ours_del": 0,
+   "ours_ins": 0,
+   "git_del": 0,
+   "git_ins": 0
+  }
+ ],
+ "meta": {
+  "time": "2026-11-09 12:38:39",
+  "host": "arm64",
+  "python": "3.12.12",
+  "versions": {
+   "numpy": "2.5.4",
+   "pandas": "3.1.1",
+   "langchain-text-splitters": "1.1.3",
+   "kara-toolkit": "0.3.2",
+   "steadlith": "1.0.1",
+   "fastcdc": "1.7.0",
+   "tokenizers": "0.22.2",
+   "sentence-transformers": "5.7.0",
+   "transformers": "4.57.6",
+   "torch": "2.15.0",
+   "hnswlib": "0.8.0",
+   "faiss-cpu": "1.15.1"
+  },
+  "threads": 8,
+  "load": {
+   "top10": [
+    "176.0 6538784 python",
+    "100.0 1083584 v4-worker",
+    "98.5 521296 python",
+    "44.4 8351776 llama-server",
+    "40.0 121520 Runner.Listener",
+    "36.7 82880 Runner.Listener",
+    "26.6 120416 Runner.Listener",
+    "25.8 119840 Runner.Listener",
+    "24.0 5568 top",
+    "23.5 117920 Runner.Listener"
+   ],
+   "memwatch": {
+    "ts": "2026-11-09 12:38:38",
+    "project_gb": 5.67,
+    "system_gb": 475.58
+   }
+  }
+ }
+}

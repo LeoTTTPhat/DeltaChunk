@@ -1,0 +1,143 @@
+{
+ "filters": {
+  "e0_filter_stats.json": {
+   "A": {
+    "candidates": 1300,
+    "qualifying_after_conversion": 422,
+    "docs": 422,
+    "versions": 34652,
+    "revs_in_selected": 125958,
+    "revert_dropped": 46089,
+    "bot_dropped": 20753,
+    "identical_dropped": 20892
+   },
+   "B": {
+    "candidates": 1300,
+    "qualifying_after_conversion": 421,
+    "docs": 421,
+    "versions": 36235,
+    "revs_in_selected": 135546,
+    "revert_dropped": 51228,
+    "bot_dropped": 20067,
+    "identical_dropped": 19984
+   },
+   "C": {
+    "candidates": 1300,
+    "qualifying_after_conversion": 434,
+    "docs": 434,
+    "versions": 36146,
+    "revs_in_selected": 132551,
+    "revert_dropped": 48987,
+    "bot_dropped": 23067,
+    "identical_dropped": 20692
+   },
+   "bg": {
+    "docs": 31048
+   },
+   "scan": {
+    "pages": 952773,
+    "ns0_nonredirect": 286133,
+    "qualifying": 7061,
+    "revs": 9929940,
+    "revert_dropped": 658791,
+    "bot_dropped": 829647,
+    "bg": 52002,
+    "bytes": 84183351873,
+    "seconds": 701.5,
+    "exit": 0
+   },
+   "convert_seconds": 1322.0,
+   "procs": 8,
+   "wiki_merged": {
+    "docs": 1000,
+    "versions": 83992,
+    "from_sample": {
+     "A": 422,
+     "B": 421,
+     "C": 157
+    },
+    "note": "Only ~1/3 of the pass-1 candidates keep >= 40 retained versions after conversion (template-only edits become"
+   }
+  },
+  "e0_k8s_stats.json": {
+   "candidates": 1722,
+   "examined": 1722,
+   "too_few_commits": 1438,
+   "identical_dropped": 107,
+   "ancestry_checked": 1420,
+   "ancestry_violations": 0,
+   "history": "first-parent",
+   "log_errors": 0,
+   "docs": 284,
+   "versions": 15208,
+   "head": "a3fa41cb55094b623886c9778f5d22182b9d3db8",
+   "seconds": 164.5,
+   "procs": 5,
+   "min_commits": 20,
+   "salt": "editstream-2026-K8S",
+   "n_release_tags": 0
+  },
+  "e0_cpy_stats.json": {
+   "candidates": 560,
+   "examined": 479,
+   "too_few_commits": 179,
+   "identical_dropped": 14,
+   "ancestry_checked": 1500,
+   "ancestry_violations": 0,
+   "history": "first-parent",
+   "log_errors": 0,
+   "docs": 300,
+   "versions": 26117,
+   "head": "3dee86d70560329437c2e774a1a89a3c57b14119",
+   "seconds": 164.2,
+   "procs": 5,
+   "min_commits": 20,
+   "salt": "editstream-2026-CPY",
+   "n_release_tags": 476
+  }
+ },
+ "meta": {
+  "time": "2026-11-09 16:34:49",
+  "host": "arm64",
+  "python": "3.12.12",
+  "versions": {
+   "numpy": "2.5.4",
+   "pandas": "3.1.1",
+   "langchain-text-splitters": "1.1.3",
+   "kara-toolkit": "0.3.2",
+   "steadlith": "1.0.1",
+   "fastcdc": "1.7.0",
+   "tokenizers": "0.22.2",
+   "sentence-transformers": "5.7.0",
+   "transformers": "4.57.6",
+   "torch": "2.15.0",
+   "hnswlib": "0.8.0",
+   "faiss-cpu": "1.15.1"
+  },
+  "threads": {
+   "P3_THREADS": 8,
+   "RAYON_NUM_THREADS": "8",
+   "TOKENIZERS_PARALLELISM": null,
+   "OMP_NUM_THREADS": "8"
+  },
+  "load": {
+   "top10": [
+    "100.8 196304 zstd",
+    "100.0 1034752 python",
+    "100.0 703840 python",
+    "100.0 289184 python",
+    "100.0 206864 python",
+    "99.6 1370768 python",
+    "99.0 389744 UPDATE",
+    "87.4 7744 top",
+    "83.1 20119280 llama-server",
+    "82.6 198720 python"
+   ],
+   "memwatch": {
+    "ts": "2026-11-09 16:34:48",
+    "project_gb": 12.38,
+    "system_gb": 368.31
+   }
+  }
+ }
+}

@@ -1,0 +1,561 @@
+{
+ "drift_cohorts": "drift_cohorts.csv",
+ "probe_design": {
+  "documents": 79,
+  "probes": 3600,
+  "checkpoints": [
+   0,
+   50,
+   100,
+   200
+  ],
+  "docs_at_t": {
+   "0": 46,
+   "50": 58,
+   "100": 20,
+   "200": 4
+  },
+  "probes_per_doc_t": 4.0,
+  "per_checkpoint": [
+   {
+    "chunker": "DIFF[REC]",
+    "t": 0,
+    "docs": 46,
+    "probes": 300,
+    "diff_pp": 0.0,
+    "ci": [
+     0.0,
+     0.0
+    ]
+   },
+   {
+    "chunker": "DIFF[REC]",
+    "t": 50,
+    "docs": 58,
+    "probes": 300,
+    "diff_pp": 1.6666666666666667,
+    "ci": [
+     -0.65,
+     4.55
+    ]
+   },
+   {
+    "chunker": "DIFF[REC]",
+    "t": 100,
+    "docs": 20,
+    "probes": 300,
+    "diff_pp": -1.0,
+    "ci": [
+     -2.2,
+     0.7
+    ]
+   },
+   {
+    "chunker": "DIFF[REC]",
+    "t": 200,
+    "docs": 4,
+    "probes": 300,
+    "diff_pp": 1.0,
+    "ci": [
+     0.0,
+     1.8
+    ]
+   },
+   {
+    "chunker": "DIFF[STRUCT-M]",
+    "t": 0,
+    "docs": 46,
+    "probes": 300,
+    "diff_pp": 0.0,
+    "ci": [
+     0.0,
+     0.0
+    ]
+   },
+   {
+    "chunker": "DIFF[STRUCT-M]",
+    "t": 50,
+    "docs": 58,
+    "probes": 300,
+    "diff_pp": 1.6666666666666667,
+    "ci": [
+     -0.01,
+     3.51
+    ]
+   },
+   {
+    "chunker": "DIFF[STRUCT-M]",
+    "t": 100,
+    "docs": 20,
+    "probes": 300,
+    "diff_pp": 0.33333333333333337,
+    "ci": [
+     -0.78,
+     1.67
+    ]
+   },
+   {
+    "chunker": "DIFF[STRUCT-M]",
+    "t": 200,
+    "docs": 4,
+    "probes": 300,
+    "diff_pp": 2.3333333333333335,
+    "ci": [
+     0.79,
+     3.26
+    ]
+   },
+   {
+    "chunker": "KARA",
+    "t": 0,
+    "docs": 46,
+    "probes": 300,
+    "diff_pp": 0.0,
+    "ci": [
+     0.0,
+     0.0
+    ]
+   },
+   {
+    "chunker": "KARA",
+    "t": 50,
+    "docs": 58,
+    "probes": 300,
+    "diff_pp": 0.0,
+    "ci": [
+     -2.67,
+     2.96
+    ]
+   },
+   {
+    "chunker": "KARA",
+    "t": 100,
+    "docs": 20,
+    "probes": 300,
+    "diff_pp": 3.3333333333333335,
+    "ci": [
+     1.42,
+     5.68
+    ]
+   },
+   {
+    "chunker": "KARA",
+    "t": 200,
+    "docs": 4,
+    "probes": 300,
+    "diff_pp": 0.6666666666666667,
+    "ci": [
+     -0.53,
+     4.19
+    ]
+   }
+  ]
+ },
+ "tost": [
+  {
+   "policy": "STALE",
+   "questions": 300,
+   "documents": 266,
+   "diff_pp": 1.0,
+   "ci90": [
+    0.0,
+    2.33
+   ],
+   "ci95": [
+    -0.33,
+    2.63
+   ],
+   "tost_equivalent_2pp": false,
+   "discordant": 5
+  },
+  {
+   "policy": "WINDOW-0",
+   "questions": 300,
+   "documents": 266,
+   "diff_pp": -2.0,
+   "ci90": [
+    -4.39,
+    0.33
+   ],
+   "ci95": [
+    -4.86,
+    0.67
+   ],
+   "tost_equivalent_2pp": false,
+   "discordant": 18
+  },
+  {
+   "policy": "WINDOW-1",
+   "questions": 300,
+   "documents": 266,
+   "diff_pp": -0.6666666666666667,
+   "ci90": [
+    -2.27,
+    0.97
+   ],
+   "ci95": [
+    -2.38,
+    1.03
+   ],
+   "tost_equivalent_2pp": false,
+   "discordant": 8
+  },
+  {
+   "policy": "WINDOW-2",
+   "questions": 300,
+   "documents": 266,
+   "diff_pp": -0.6666666666666667,
+   "ci90": [
+    -1.69,
+    0.34
+   ],
+   "ci95": [
+    -2.0,
+    0.66
+   ],
+   "tost_equivalent_2pp": true,
+   "discordant": 4
+  },
+  {
+   "policy": "WINDOW-4",
+   "questions": 300,
+   "documents": 266,
+   "diff_pp": 0.0,
+   "ci90": [
+    -0.68,
+    0.68
+   ],
+   "ci95": [
+    -1.0,
+    0.98
+   ],
+   "tost_equivalent_2pp": true,
+   "discordant": 2
+  }
+ ],
+ "thm1_terms": [
+  {
+   "stream": "wiki",
+   "r": 20,
+   "covered": 73649,
+   "mean_ins": 1.450569593612948,
+   "mean_bound": 7.481663023258972,
+   "ratio_of_means": 0.19388331031528971,
+   "mean_of_ratios": 0.20904165385402113,
+   "single_zone": 72217,
+   "mean_hash_term": 3.2669731503662574,
+   "mean_anchor_term": 4.071492861791545,
+   "share_with_anchor": 0.9266239251145852,
+   "no_zone_edits": 126,
+   "no_zone_ins": 0,
+   "l0_with_zone": 2353
+  },
+  {
+   "stream": "wiki",
+   "r": 3,
+   "covered": 81266,
+   "mean_ins": 2.1340659070213865,
+   "mean_bound": 6.071825855831467,
+   "ratio_of_means": 0.351470209734655,
+   "mean_of_ratios": 0.33542533902190264,
+   "single_zone": 72590,
+   "mean_hash_term": 3.5869954539192728,
+   "mean_anchor_term": 1.3925471828075493,
+   "share_with_anchor": 0.6932359829177572,
+   "no_zone_edits": 126,
+   "no_zone_ins": 0,
+   "l0_with_zone": 2538
+  },
+  {
+   "stream": "k8s",
+   "r": 20,
+   "covered": 10040,
+   "mean_ins": 1.779780876494024,
+   "mean_bound": 7.971713147410359,
+   "ratio_of_means": 0.2232620320855615,
+   "mean_of_ratios": 0.21987054733250108,
+   "single_zone": 8727,
+   "mean_hash_term": 3.3256560100836485,
+   "mean_anchor_term": 3.8594018563080095,
+   "share_with_anchor": 0.969749054657958,
+   "no_zone_edits": 221,
+   "no_zone_ins": 0,
+   "l0_with_zone": 394
+  },
+  {
+   "stream": "k8s",
+   "r": 3,
+   "covered": 13845,
+   "mean_ins": 3.4388587937883712,
+   "mean_bound": 8.58974358974359,
+   "ratio_of_means": 0.4003447550977507,
+   "mean_of_ratios": 0.3693028271356122,
+   "single_zone": 9639,
+   "mean_hash_term": 3.8253968253968256,
+   "mean_anchor_term": 1.0231351799979251,
+   "share_with_anchor": 0.5732959850606909,
+   "no_zone_edits": 221,
+   "no_zone_ins": 0,
+   "l0_with_zone": 465
+  },
+  {
+   "stream": "cpy",
+   "r": 7,
+   "covered": 16829,
+   "mean_ins": 1.8469308931011943,
+   "mean_bound": 5.871412442807059,
+   "ratio_of_means": 0.31456330330938165,
+   "mean_of_ratios": 0.3215298995591645,
+   "single_zone": 13636,
+   "mean_hash_term": 3.447125256673511,
+   "mean_anchor_term": 1.351276034027574,
+   "share_with_anchor": 0.5769287180991494,
+   "no_zone_edits": 460,
+   "no_zone_ins": 0,
+   "l0_with_zone": 646
+  },
+  {
+   "stream": "cpy",
+   "r": 3,
+   "covered": 23809,
+   "mean_ins": 3.0898819774035027,
+   "mean_bound": 7.633583938846654,
+   "ratio_of_means": 0.4047747430508176,
+   "mean_of_ratios": 0.3935148408690748,
+   "single_zone": 16584,
+   "mean_hash_term": 3.6875904486251807,
+   "mean_anchor_term": 0.7402918475639171,
+   "share_with_anchor": 0.42408345393150026,
+   "no_zone_edits": 460,
+   "no_zone_ins": 0,
+   "l0_with_zone": 839
+  }
+ ],
+ "unit_cost_fit": {
+  "alpha0": 0.07511360779929807,
+  "alpha": 2.2181608228084587e-05,
+  "by_batch": [
+   {
+    "batch": 1,
+    "calls": 12,
+    "median_tokens": 260.0,
+    "median_s": 0.06691272900206968,
+    "median_pred_s": 0.08088082593860006,
+    "median_rel_err": 0.18787324987151355
+   },
+   {
+    "batch": 4,
+    "calls": 12,
+    "median_tokens": 814.0,
+    "median_s": 0.08311966700057383,
+    "median_pred_s": 0.09316943689695892,
+    "median_rel_err": 0.10828004582210939
+   },
+   {
+    "batch": 16,
+    "calls": 12,
+    "median_tokens": 3282.0,
+    "median_s": 0.1479136460038717,
+    "median_pred_s": 0.1479136460038717,
+    "median_rel_err": 0.002547804649053114
+   },
+   {
+    "batch": 64,
+    "calls": 12,
+    "median_tokens": 13812.5,
+    "median_s": 0.3437351669999771,
+    "median_pred_s": 0.38149707144971645,
+    "median_rel_err": 0.13130800537990084
+   },
+   {
+    "batch": 256,
+    "calls": 12,
+    "median_tokens": 54426.5,
+    "median_s": 1.3263441249982861,
+    "median_pred_s": 1.2823809080251438,
+    "median_rel_err": -0.0406876017160087
+   }
+  ],
+  "keys": [
+   "alpha",
+   "alpha0",
+   "alpha0_le_single_call",
+   "alpha0_ols",
+   "alpha_ci95",
+   "alpha_ols",
+   "beta",
+   "calls",
+   "fit",
+   "gamma",
+   "meta",
+   "pool_docs",
+   "pool_texts",
+   "reps_per_size",
+   "single_call_s"
+  ]
+ },
+ "steadlith_workarounds": [
+  {
+   "stream": "cpy",
+   "chunker": "STL",
+   "T": 128,
+   "docs": 300,
+   "docs_with_fallback": 2,
+   "edits": 25817,
+   "edits_in_docs_with_fallback": 575
+  },
+  {
+   "stream": "cpy",
+   "chunker": "STL",
+   "T": 200,
+   "docs": 300,
+   "docs_with_fallback": 2,
+   "edits": 25817,
+   "edits_in_docs_with_fallback": 575
+  },
+  {
+   "stream": "cpy",
+   "chunker": "STL",
+   "T": 320,
+   "docs": 300,
+   "docs_with_fallback": 2,
+   "edits": 25817,
+   "edits_in_docs_with_fallback": 575
+  },
+  {
+   "stream": "cpy",
+   "chunker": "STL+snap",
+   "T": 128,
+   "docs": 300,
+   "docs_with_fallback": 2,
+   "edits": 25817,
+   "edits_in_docs_with_fallback": 575
+  },
+  {
+   "stream": "cpy",
+   "chunker": "STL+snap",
+   "T": 200,
+   "docs": 300,
+   "docs_with_fallback": 2,
+   "edits": 25817,
+   "edits_in_docs_with_fallback": 575
+  },
+  {
+   "stream": "cpy",
+   "chunker": "STL+snap",
+   "T": 320,
+   "docs": 300,
+   "docs_with_fallback": 2,
+   "edits": 25817,
+   "edits_in_docs_with_fallback": 575
+  },
+  {
+   "stream": "k8s",
+   "chunker": "STL",
+   "T": 128,
+   "docs": 284,
+   "docs_with_fallback": 21,
+   "edits": 14924,
+   "edits_in_docs_with_fallback": 1566
+  },
+  {
+   "stream": "k8s",
+   "chunker": "STL",
+   "T": 200,
+   "docs": 284,
+   "docs_with_fallback": 21,
+   "edits": 14924,
+   "edits_in_docs_with_fallback": 1566
+  },
+  {
+   "stream": "k8s",
+   "chunker": "STL",
+   "T": 320,
+   "docs": 284,
+   "docs_with_fallback": 21,
+   "edits": 14924,
+   "edits_in_docs_with_fallback": 1566
+  },
+  {
+   "stream": "k8s",
+   "chunker": "STL+snap",
+   "T": 128,
+   "docs": 284,
+   "docs_with_fallback": 21,
+   "edits": 14924,
+   "edits_in_docs_with_fallback": 1566
+  },
+  {
+   "stream": "k8s",
+   "chunker": "STL+snap",
+   "T": 200,
+   "docs": 284,
+   "docs_with_fallback": 21,
+   "edits": 14924,
+   "edits_in_docs_with_fallback": 1566
+  },
+  {
+   "stream": "k8s",
+   "chunker": "STL+snap",
+   "T": 320,
+   "docs": 284,
+   "docs_with_fallback": 21,
+   "edits": 14924,
+   "edits_in_docs_with_fallback": 1566
+  },
+  {
+   "stream": "wiki",
+   "chunker": "STL",
+   "T": 128,
+   "docs": 1000,
+   "docs_with_fallback": 5,
+   "edits": 82949,
+   "edits_in_docs_with_fallback": 367
+  },
+  {
+   "stream": "wiki",
+   "chunker": "STL",
+   "T": 200,
+   "docs": 1000,
+   "docs_with_fallback": 5,
+   "edits": 82949,
+   "edits_in_docs_with_fallback": 367
+  },
+  {
+   "stream": "wiki",
+   "chunker": "STL",
+   "T": 320,
+   "docs": 1000,
+   "docs_with_fallback": 5,
+   "edits": 82949,
+   "edits_in_docs_with_fallback": 367
+  },
+  {
+   "stream": "wiki",
+   "chunker": "STL+snap",
+   "T": 128,
+   "docs": 1000,
+   "docs_with_fallback": 5,
+   "edits": 82949,
+   "edits_in_docs_with_fallback": 367
+  },
+  {
+   "stream": "wiki",
+   "chunker": "STL+snap",
+   "T": 200,
+   "docs": 1000,
+   "docs_with_fallback": 5,
+   "edits": 82949,
+   "edits_in_docs_with_fallback": 367
+  },
+  {
+   "stream": "wiki",
+   "chunker": "STL+snap",
+   "T": 320,
+   "docs": 1000,
+   "docs_with_fallback": 5,
+   "edits": 82949,
+   "edits_in_docs_with_fallback": 367
+  }
+ ]
+}

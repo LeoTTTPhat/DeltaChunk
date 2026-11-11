@@ -1,0 +1,23 @@
+{
+  "k8s": {
+    "url": "https://github.com/kubernetes/website",
+    "head_sha": "a3fa41cb55094b623886c9778f5d22182b9d3db8",
+    "head_commit_time": "2026-11-08T23:45:38Z"
+  },
+  "cpython": {
+    "url": "https://github.com/python/cpython",
+    "head_sha": "3dee86d70560329437c2e774a1a89a3c57b14119",
+    "head_commit_time": "2026-11-09T12:56:53+09:00"
+  },
+  "simplewiki": {
+    "dump": "simplewiki-20261101-pages-meta-history.xml.7z",
+    "url": "https://dumps.wikimedia.org/simplewiki/20261101/",
+    "sha1": "fff247a9d15efabac8f3249c6c43aefcd60b56fd"
+  },
+  "model_snapshots": {
+    "BAAI/bge-small-en-v1.5": "5c38ec7c405ec4b44b94cc5a9bb96e735b38267a",
+    "jinaai/jina-embeddings-v2-small-en": "44e7d1d6caec8c883c2d4b207588504d519788d0",
+    "intfloat/e5-small-v2": "ffb93f3bd4047442299a41ebb6fa998a38507c52",
+    "qwen3:8b GGUF sha256": "a3de86cd1c132c822487ededd47a324c50491393e6565cd14bafa40d0b8e686f"
+  }
+}

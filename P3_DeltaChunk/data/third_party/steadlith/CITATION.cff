@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use Steadlith in research or published work, please cite this software."
+title: "Steadlith: incremental indexing for changing RAG corpora"
+type: software
+authors:
+  - family-names: "Sahoo"
+    given-names: "Satwik Sai Prakash"
+    email: "sahoospsatwik@gmail.com"
+repository-code: "https://github.com/satwiksps/steadlith"
+version: 1.0.1
+date-released: 2026-09-05
+license: Apache-2.0
+keywords:
+  - retrieval-augmented generation
+  - content-defined chunking
+  - incremental indexing
+  - embeddings
+abstract: >-
+  Steadlith is a Python toolkit for content-defined chunking, content-addressed
+  identities, cache-aware planning, and transactional indexing of changing
+  retrieval-augmented generation corpora.

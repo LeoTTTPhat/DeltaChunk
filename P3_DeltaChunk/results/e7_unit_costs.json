@@ -1,0 +1,92 @@
+{
+ "alpha0": 0.07511360779929807,
+ "alpha": 2.2181608228084587e-05,
+ "alpha_ci95": [
+  2.11225761922109e-05,
+  2.3176286750248783e-05
+ ],
+ "alpha_ols": 2.341294750080405e-05,
+ "alpha0_ols": 0.05833867796885216,
+ "single_call_s": 0.06691272900206968,
+ "alpha0_le_single_call": false,
+ "beta": 0.0003138625419820255,
+ "gamma": 2.980279912028708e-07,
+ "calls": {
+  "call_1": {
+   "seconds": 0.06691272900206968,
+   "tokens": 260.0,
+   "n": 12
+  },
+  "call_4": {
+   "seconds": 0.08311966700057383,
+   "tokens": 814.0,
+   "n": 12
+  },
+  "call_16": {
+   "seconds": 0.1479136460038717,
+   "tokens": 3282.0,
+   "n": 12
+  },
+  "call_64": {
+   "seconds": 0.3437351669999771,
+   "tokens": 13812.5,
+   "n": 12
+  },
+  "call_256": {
+   "seconds": 1.3263441249982861,
+   "tokens": 54426.5,
+   "n": 12
+  }
+ },
+ "pool_texts": 1572,
+ "pool_docs": 157,
+ "reps_per_size": 12,
+ "fit": "Theil-Sen over all timed calls (seconds ~ alpha0 + alpha * tokens)",
+ "meta": {
+  "time": "2026-11-10 01:53:55",
+  "host": "arm64",
+  "python": "3.12.12",
+  "versions": {
+   "numpy": "2.5.4",
+   "pandas": "3.1.1",
+   "langchain-text-splitters": "1.1.3",
+   "kara-toolkit": "0.3.2",
+   "steadlith": "1.0.1",
+   "fastcdc": "1.7.0",
+   "tokenizers": "0.22.2",
+   "sentence-transformers": "5.7.0",
+   "transformers": "4.57.6",
+   "torch": "2.15.0",
+   "hnswlib": "0.8.0",
+   "faiss-cpu": "1.15.1"
+  },
+  "threads": {
+   "P3_THREADS": 8,
+   "RAYON_NUM_THREADS": "8",
+   "TOKENIZERS_PARALLELISM": null,
+   "OMP_NUM_THREADS": "8",
+   "torch_num_threads": 8
+  },
+  "load": {
+   "top10": [
+    "227.1 6687952 mds_stores",
+    "98.8 2096208 python",
+    "86.9 4733200 python",
+    "84.9 606736 curl_fuzzer_tftp",
+    "84.7 443936 curl_fuzzer_http",
+    "81.3 1791408 curl_fuzzer_ws",
+    "66.1 2057248 curl_fuzzer_ws",
+    "44.9 24876864 llama-server",
+    "39.7 837040 curl_fuzzer_ws",
+    "35.8 55584 Runner.Listener"
+   ],
+   "memwatch": {
+    "ts": "2026-11-10 01:53:54",
+    "project_gb": 16.09,
+    "system_gb": 273.69
+   }
+  },
+  "device": "mps",
+  "note": "measured under contention"
+ }
+}

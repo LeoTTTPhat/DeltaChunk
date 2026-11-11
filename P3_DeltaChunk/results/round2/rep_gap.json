@@ -1,0 +1,60 @@
+{
+ "pairs": 120,
+ "documents": 120,
+ "tok_new_median": 1491.0,
+ "rule": "one pair per article: articles in salted-hash order (doc_groups); per article, candidate revision indices sorted by sha256('bian-rep:<doc>:<i>'); the first of the first 20 candidates whose old and new versions both have 1,024-20,000 tokens and differ is taken; stop at 120 pairs",
+ "comparisons": [
+  {
+   "a": "Bian-STL176/352",
+   "b": "Bian-Recursive400",
+   "mean_a": 32.795614080769404,
+   "mean_b": 31.18537911000153,
+   "diff_pp": 1.610234970767877,
+   "ci95": [
+    -1.75,
+    5.05
+   ],
+   "share_a_gt_b": 0.5083333333333333,
+   "share_equal": 0.025
+  },
+  {
+   "a": "Bian-Fixed304",
+   "b": "Bian-Recursive400",
+   "mean_a": 55.7173589895523,
+   "mean_b": 31.18537911000153,
+   "diff_pp": 24.531979879550768,
+   "ci95": [
+    18.58,
+    30.51
+   ],
+   "share_a_gt_b": 0.675,
+   "share_equal": 0.05
+  },
+  {
+   "a": "Bian-Fixed304",
+   "b": "Bian-STL176/352",
+   "mean_a": 55.7173589895523,
+   "mean_b": 32.795614080769404,
+   "diff_pp": 22.921744908782888,
+   "ci95": [
+    17.12,
+    29.05
+   ],
+   "share_a_gt_b": 0.675,
+   "share_equal": 0.05
+  },
+  {
+   "a": "Bian-STL176/352",
+   "b": "LangChain-REC400",
+   "mean_a": 32.795614080769404,
+   "mean_b": 31.18537911000153,
+   "diff_pp": 1.610234970767877,
+   "ci95": [
+    -1.75,
+    5.05
+   ],
+   "share_a_gt_b": 0.5083333333333333,
+   "share_equal": 0.025
+  }
+ ]
+}

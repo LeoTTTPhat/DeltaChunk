@@ -1,0 +1,1 @@
+gemma3:27b sha256-e796792eba26c4d3b04b0ac5adb01a453dd9ec2dfd83b6c59cbf6fe5f30b0f68 port 8302 -np 8 -c 16384 -cb -ngl 99 -cram 512

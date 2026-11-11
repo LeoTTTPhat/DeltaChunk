@@ -1,0 +1,67 @@
+{
+ "time": "2026-11-09 22:44:30",
+ "host": "arm64",
+ "python": "3.12.12",
+ "versions": {
+  "numpy": "2.5.4",
+  "pandas": "3.1.1",
+  "langchain-text-splitters": "1.1.3",
+  "kara-toolkit": "0.3.2",
+  "steadlith": "1.0.1",
+  "fastcdc": "1.7.0",
+  "tokenizers": "0.22.2",
+  "sentence-transformers": "5.7.0",
+  "transformers": "4.57.6",
+  "torch": "2.15.0",
+  "hnswlib": "0.8.0",
+  "faiss-cpu": "1.15.1"
+ },
+ "threads": {
+  "P3_THREADS": 8,
+  "RAYON_NUM_THREADS": "8",
+  "TOKENIZERS_PARALLELISM": null,
+  "OMP_NUM_THREADS": "8",
+  "torch_num_threads": 8
+ },
+ "load": {
+  "top10": [
+   "352.2 700048 python",
+   "123.2 6356704 mds_stores",
+   "95.2 2649376 python",
+   "93.7 205696 python",
+   "93.3 2934224 python",
+   "92.6 290096 python",
+   "89.5 292592 python",
+   "85.3 294112 python",
+   "80.5 292848 python",
+   "75.1 429520 python"
+  ],
+  "memwatch": {
+   "ts": "2026-11-09 22:44:30",
+   "project_gb": 30.15,
+   "system_gb": 412.94
+  }
+ },
+ "seconds": 3877.1,
+ "background": 50000,
+ "docs": 100,
+ "embed": {
+  "encoded": 5340,
+  "hits": 143146,
+  "calls": 4120,
+  "seconds": 366.60932161809615
+ },
+ "hnsw": {
+  "M": 16,
+  "efC": 200,
+  "efS": 100
+ },
+ "question_queries": 52,
+ "unit_queries": 148,
+ "seeds": "0,1,2",
+ "taus": "0.3",
+ "cells": 27,
+ "cells_resumed": 6,
+ "checkpoint": "results/raw/e6/59e327461fb21864",
+ "tau_basis": "tombstones / (slots - background slots)"
+}

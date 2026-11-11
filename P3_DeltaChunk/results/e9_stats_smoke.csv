@@ -1,0 +1,21 @@
+stream,config,n,mean,ci_lo,ci_hi,diff,diff_ci_lo,diff_ci_hi,mcnemar_p,discordant,n_pairs,tost90_lo,tost90_hi,n_required,tost_equivalent,tost_method,boot90_lo,boot90_hi,p_holm
+cpy,KARA,1,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,-0.7301451610435795,0.7301451610435795,773.0,False,Newcombe paired score 90% + discordance>0 + n>=n_required,0.0,0.0,1.0
+cpy,REC,1,0.0,0.0,0.0,,,,,,,,,,,,,,
+cpy,STRUCT-M,1,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,-0.7301451610435795,0.7301451610435795,773.0,False,Newcombe paired score 90% + discordance>0 + n>=n_required,0.0,0.0,1.0
+cpy,SentCDC,1,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,-0.7301451610435795,0.7301451610435795,773.0,False,Newcombe paired score 90% + discordance>0 + n>=n_required,0.0,0.0,1.0
+cpy,closed-book,1,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,-0.7301451610435795,0.7301451610435795,773.0,False,Newcombe paired score 90% + discordance>0 + n>=n_required,0.0,0.0,1.0
+k8s,KARA,2,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,2.0,-0.5749831702367021,0.5749831702367021,773.0,False,Newcombe paired score 90% + discordance>0 + n>=n_required,0.0,0.0,1.0
+k8s,REC,2,0.0,0.0,0.0,,,,,,,,,,,,,,
+k8s,STRUCT-M,2,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,2.0,-0.5749831702367021,0.5749831702367021,773.0,False,Newcombe paired score 90% + discordance>0 + n>=n_required,0.0,0.0,1.0
+k8s,SentCDC,2,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,2.0,-0.5749831702367021,0.5749831702367021,773.0,False,Newcombe paired score 90% + discordance>0 + n>=n_required,0.0,0.0,1.0
+k8s,closed-book,2,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,2.0,-0.5749831702367021,0.5749831702367021,773.0,False,Newcombe paired score 90% + discordance>0 + n>=n_required,0.0,0.0,1.0
+wiki,KARA,2,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,2.0,-0.5749831702367021,0.5749831702367021,773.0,False,Newcombe paired score 90% + discordance>0 + n>=n_required,0.0,0.0,1.0
+wiki,REC,2,0.0,0.0,0.0,,,,,,,,,,,,,,
+wiki,STRUCT-M,2,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,2.0,-0.5749831702367021,0.5749831702367021,773.0,False,Newcombe paired score 90% + discordance>0 + n>=n_required,0.0,0.0,1.0
+wiki,SentCDC,2,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,2.0,-0.5749831702367021,0.5749831702367021,773.0,False,Newcombe paired score 90% + discordance>0 + n>=n_required,0.0,0.0,1.0
+wiki,closed-book,2,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,2.0,-0.5749831702367021,0.5749831702367021,773.0,False,Newcombe paired score 90% + discordance>0 + n>=n_required,0.0,0.0,1.0
+all,KARA,5,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,5.0,-0.3511293472372523,0.3511293472372523,773.0,False,Newcombe paired score 90% + discordance>0 + n>=n_required,0.0,0.0,1.0
+all,REC,5,0.0,0.0,0.0,,,,,,,,,,,,,,
+all,STRUCT-M,5,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,5.0,-0.3511293472372523,0.3511293472372523,773.0,False,Newcombe paired score 90% + discordance>0 + n>=n_required,0.0,0.0,1.0
+all,SentCDC,5,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,5.0,-0.3511293472372523,0.3511293472372523,773.0,False,Newcombe paired score 90% + discordance>0 + n>=n_required,0.0,0.0,1.0
+all,closed-book,5,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,5.0,-0.3511293472372523,0.3511293472372523,773.0,False,Newcombe paired score 90% + discordance>0 + n>=n_required,0.0,0.0,1.0

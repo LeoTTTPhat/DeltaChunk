@@ -1,0 +1,601 @@
+qid,stream,config,proximal,answer,gold,em,f1,contains
+386b1d860a60,cpy,REC-stale20,False,CJKCodecs,Subject,0,0.0,0
+e2158d68f186,cpy,REC-stale20,True,IEEE 754,IEEE 754,1,1.0,1
+8104def1b635,wiki,REC-stale20,False,Rosa Parks,Harrison,0,0.0,0
+8b0a6ab99c56,k8s,REC-stale20,False,Services named mydb and myservice,mydb,0,0.33333333333333337,1
+a3b43838954b,cpy,REC-stale20,True,header_source_parse,get_source,0,0.0,0
+57ea39e23be4,cpy,REC-stale20,False,knowing when an experiment is over,when a feature is safe to remove,0,0.3636363636363636,0
+de5fe190e67b,wiki,REC-stale20,False,Months,Months,1,1.0,1
+68a7cf107312,k8s,REC-stale20,False,runtime finalization risks,looser compatibility promises,0,0.0,0
+6c46ab7f7a6c,wiki,REC-stale20,True,Large Hadron Collider,the Tevatron,0,0.0,0
+c5f44e63eb87,wiki,REC-stale20,True,Animal rights activist.,active animal rights activist,0,0.8571428571428571,0
+54194bb3d487,wiki,REC-stale20,False,"""Where's your wife, John?""",You're destined to sing,0,0.0,0
+d8b5542d35ab,wiki,REC-stale20,True,1001 to 2000,years 1001 to 2000,0,0.8571428571428571,0
+c7ae5db484ff,wiki,REC-stale20,False,Alphabetical order by last name,order of the alphabet,0,0.25,0
+eeb8d1b8f84b,wiki,REC-stale20,False,gently and differently than bottle-feeding babies.,different way,0,0.0,0
+a9f002a3a7b7,wiki,REC-stale20,False,a global conflict that would end quickly,the war to end all wars,0,0.1818181818181818,0
+d1860a8dd975,wiki,REC-stale20,True,1973,1973,1,1.0,1
+8acf0c353b15,wiki,REC-stale20,True,"Criminal Law (Amendment) Bill, 2018",Zainab Alert Bill,0,0.25,0
+bf20d90026c8,wiki,REC-stale20,True,making semiconductors,most semiconductors,0,0.5,0
+5eb7c84e2f65,cpy,REC-stale20,True,greater than,&#62;,0,0.0,0
+4a5b4468c689,cpy,REC-stale20,False,Modular functions,This allows failures to be post-mortem debugged,0,0.0,0
+5e19952950d5,wiki,REC-stale20,False,owl pellets,the things that owls eat,0,0.0,0
+023f4c227d50,k8s,REC-stale20,True,UTF-8,decimal values,0,0.0,0
+bd273ca3782f,k8s,REC-stale20,True,--certificate-renewal=false,--certificate-renewal=false,1,1.0,1
+f2e54bed7bb7,wiki,REC-stale20,True,"Art competitions, athletics, horse racing, tug of war, mathematics, music, debates, writings.","race, stone throw and archery",0,0.0,0
+4bbbf1ab9015,wiki,REC-stale20,False,Global conservation law,the amount of matter in an object,0,0.0,0
+f295ab7ea338,wiki,REC-stale20,False,64 GB of storage,64 GB of storage,1,1.0,1
+0e10869790a3,wiki,REC-stale20,True,"Belgium, Luxembourg, Quebec, Africa, Switzerland, Haiti",Belgium (Wallonia),0,0.25,0
+ab85edb018a4,wiki,REC-stale20,False,Church of England,Church of England,1,1.0,1
+f1659c92a1cc,wiki,REC-stale20,True,tax laws,laws on alcohol (sales and content),0,0.25,0
+e5f821131a56,cpy,REC-stale20,False,Operating system,built-in modules,0,0.0,0
+c3c00615d9cd,k8s,REC-stale20,True,Provides cluster-wide readable resources.,cluster usage,0,0.0,0
+98332bededde,cpy,REC-stale20,False,'1.1000000000000001','1.1000000000000001',1,1.0,1
+541a68fc6650,wiki,REC-stale20,False,marijuana,marijuana over the counter,0,0.5,0
+fbdcc618ed47,wiki,REC-stale20,True,Scout Movement,postmodern architecture,0,0.0,0
+842ee86264bb,k8s,REC-stale20,False,objects,the informing component,0,0.0,0
+c9fd21f88a48,cpy,REC-stale20,True,Never removed.,removed in Python 3.13,0,0.3333333333333333,0
+a2fcbea9bcff,wiki,REC-stale20,False,Vasily Zaytsev,Vasily Zaytsev,1,1.0,1
+7a61c357b49c,wiki,REC-stale20,False,absorbent material,absorbent material,1,1.0,1
+888c15025931,wiki,REC-stale20,False,Air.,airports,0,0.0,0
+14bb1f488424,wiki,REC-stale20,True,Lowe dragged up Bland’s criminal record.,such an important institution,0,0.0,0
+d50daa9bee2d,cpy,REC-stale20,False,virus scanning software,two orders of magnitude,0,0.0,0
+5a61fa686c1b,wiki,REC-stale20,False,Der Blaue Reiter,Der Blaue Reiter,1,1.0,1
+4ad5a5dfd86c,wiki,REC-stale20,False,4–6 hours,as long as twelve hours,0,0.28571428571428575,0
+bdc91bf82927,wiki,REC-stale20,False,"about 20,000","about 20,000",1,1.0,1
+9a1aa46f70dc,cpy,REC-stale20,True,becomes part of the language in the predicted release.,This feature will eventually be deprecated and removed,0,0.0,0
+03d5e056e1f5,cpy,REC-stale20,False,Structure and Union,:c:type:`PyObject` and :c:type:`PyVarObject`,0,0.3333333333333333,0
+2897e70e1b12,wiki,REC-stale20,False,NickMom,Cartoon Network,0,0.0,0
+6f46bad97033,cpy,REC-stale20,False,update(),Keyword arguments,0,0.0,0
+21b63ead80d0,wiki,REC-stale20,True,B'Day,Tinderbox album,0,0.0,0
+ef7d917270c9,cpy,REC-stale20,True,follows symlinks,open all of their descendants,0,0.0,0
+f6a9374db117,k8s,REC-stale20,True,Use individual logging call formatting.,create two sidecar containers,0,0.0,0
+81f07ca51f65,cpy,REC-stale20,False,sys.modules,interpreter where you need it,0,0.0,0
+012e28db1886,k8s,REC-stale20,True,Vertical scaling,_in-place Pod vertical scaling_,0,0.6666666666666666,0
+c3bb2242e7a1,wiki,REC-stale20,False,Phoenix,The Mayflower,0,0.0,0
+3793b4b1eb42,wiki,REC-stale20,True,"8th May, 1969","8th May, 1969",1,1.0,1
+53fcfa97c396,cpy,REC-stale20,False,square numbers,All such numbers,0,0.4,0
+6c4519464e13,cpy,REC-stale20,False,key-value pairs,case-insensitive substring matching,0,0.0,0
+649a980e2dab,wiki,REC-stale20,False,elephant behavior,Their ways of acting,0,0.0,0
+a181e4bc77cc,wiki,REC-stale20,True,Living things,"biotic, or living",0,0.4,0
+fe8baa38bccd,wiki,REC-stale20,False,Emerald,the colour of a squashed flea,0,0.0,0
+1703bab0fce0,wiki,REC-stale20,True,tunnels and targets,the massacres occurring,0,0.0,0
+cdf11a9e69ac,wiki,REC-stale20,True,Francis Scott Key,Naftali Herz Imber,0,0.0,0
+4aee1d1025df,cpy,REC-stale20,False,json.dumps(float('nan')),0/0,0,0.0,0
+d09653e51e74,wiki,REC-stale20,True,Chinese characters and Nôm script,Chinese loanwords,0,0.28571428571428575,0
+ccd24270fba1,cpy,REC-stale20,True,None or a positive integer,a floating-point value,0,0.0,0
+a4173874e248,wiki,REC-stale20,False,Indians,Indians,1,1.0,1
+499177ebb329,cpy,REC-stale20,True,posix,punctuation_chars,0,0.0,0
+d13b8da2377c,wiki,REC-stale20,True,Poor and dangerous conditions.,horrible,0,0.0,0
+74c2cba171c1,k8s,REC-stale20,False,"automating deployment, scaling, and management of containerized applications",automation,0,0.0,0
+f4e27ae1db1d,wiki,REC-stale20,False,the rhythms and musical style of James Brown,rhythms and musical style,0,0.7272727272727273,1
+371fc3f5e8ae,wiki,REC-stale20,False,Rome,on the way to the hospital,0,0.0,0
+dc0f2d6671a0,wiki,REC-stale20,True,2016,2000,0,0.0,0
+091d303667c3,wiki,REC-stale20,True,Military presence and political figures.,slavery,0,0.0,0
+802e1fd26881,wiki,REC-stale20,True,Shitateru-hime,Shitateru-hime,1,1.0,1
+640da4f69d07,k8s,REC-stale20,False,FailedPostStartHook,FailedPostStartHook,1,1.0,1
+798035eca167,wiki,REC-stale20,False,Van Diemen's Land,Van Diemen's Land,1,1.0,1
+a3a07f404dc2,cpy,REC-stale20,True,"['1', '', '2']",the shortest possible,0,0.0,0
+2d9f37dfbd24,wiki,REC-stale20,False,Adults,adults,1,1.0,1
+8ee0cc8cce45,cpy,REC-stale20,True,Waitable timer,high-resolution timer,0,0.5,0
+2a858fa19905,wiki,REC-stale20,False,moons,Moons,1,1.0,1
+e27f87c63c2e,wiki,REC-stale20,False,None mentioned.,Even more died,0,0.0,0
+08bf17f06cda,k8s,REC-stale20,True,"Neil Alexander, Rab Douglas, David Bingham, John Robertson, Marvin Andrews, David Fernández, Javier Sánchez Broto, Stuart Lovell",overall release lead,0,0.0,0
+fec22a648757,cpy,REC-stale20,False,"a function, module, package, or source file","the name of a function, module, or package",0,0.6666666666666666,0
+7cb016fd3a03,cpy,REC-stale20,False,Unhandled exception,Unhandled exception,1,1.0,1
+a1da23ff93c4,wiki,REC-stale20,False,square or rectangular plan with a prayer hall and an enclosed courtyard,very simple,0,0.0,0
+8bdd8774688f,cpy,REC-stale20,False,representing time values,:class:`struct_time`,0,0.0,0
+5bdd005c6f3e,wiki,REC-stale20,False,temperature variations,how temperature is different,0,0.3333333333333333,0
+27b8146e2522,wiki,REC-stale20,True,Hamas,Indian soldiers,0,0.0,0
+c1fd8b81f100,wiki,REC-stale20,False,antisemitism and disinformation,uncontrolled antisemitism,0,0.4,0
+2003607e4a6d,k8s,REC-stale20,False,"A single patch operation that sets `spec.replicas` is `[{""op"": ""add"", ""path"": ""/spec/replicas"", """,create one patch,0,0.14285714285714288,0
+19852440bc9a,wiki,REC-stale20,True,Teletubbies,Teletubbies,1,1.0,1
+844590475fc8,wiki,REC-stale20,False,African Americans,HIV-positive gay men,0,0.0,0
+fedfb2fb6403,wiki,REC-stale20,True,Russian Revolution,German Revolution,0,0.5,0
+b1b3626dbf02,cpy,REC-stale20,False,Historical baggage,historical baggage,1,1.0,1
+ed6f5aa60247,wiki,REC-stale20,True,Substance abuse,The painkillers he was prescribed,0,0.0,0
+7dbd006f59f2,wiki,REC-stale20,False,"13,297 km²","5,134 mi²",0,0.0,0
+700f7ef30f6e,wiki,REC-stale20,False,Valmiki,sage (rishi) Valmiki,0,0.5,0
+2b1a2293bd20,wiki,REC-stale20,False,James Bay,Beyonce Knowles,0,0.0,0
+30f41a0377b6,wiki,REC-stale20,True,Ancient Egyptian myth,Nazi Germany actively supported Zionism,0,0.0,0
+1e72a27c055a,k8s,REC-stale20,False,Missing endpoints or misconfigured services.,Several common problems,0,0.0,0
+6b85bf51b411,k8s,REC-stale20,True,PersistentVolume is deleted.,The underlying storage snapshot will be deleted,0,0.2222222222222222,0
+b5dff58506d5,wiki,REC-stale20,True,Minnesota Timberwolves,Qatar,0,0.0,0
+44adcb19cfbc,k8s,REC-stale20,True,Denial of service attacks.,Out-of-memory (OOM) handling,0,0.0,0
+65eaf06e0555,k8s,REC-stale20,True,Context and code references.,The Go version used,0,0.0,0
+397ea5cb5e31,cpy,REC-stale20,False,Kubernetes objects managed with imperative commands and declarative configuration.,integer objects,0,0.1818181818181818,0
+b90f63c608ed,cpy,REC-stale20,True,"Operations include traffic signals, railway signals, air traffic control, government policies, and regulations.",conversions to :class:`complex` and :class:`bool`,0,0.1111111111111111,0
+f27440c46ea8,wiki,REC-stale20,True,"Buddhism, Christianity, Hinduism",Buddhism or Animism,0,0.3333333333333333,0
+fdf1330c6562,cpy,REC-stale20,False,first or second line,a line of its own,0,0.25,0
+f9afa305b023,k8s,REC-stale20,True,Python Packaging User Guide,minikube start,0,0.0,0
+27e8895f08a6,wiki,REC-stale20,False,Paul de Saint-Victor,Paul de Saint-Victor,1,1.0,1
+85caa658e459,cpy,REC-stale20,True,a positional argument or a flag,self,0,0.0,0
+aa995079ead7,wiki,REC-stale20,True,sacred tradition,the original Christian faith,0,0.0,0
+e0fd5584fe89,wiki,REC-stale20,True,Mary I,Queen Mary I,0,0.8,0
+641279a8cd66,wiki,REC-stale20,False,Jewish scriptures,Jewish scriptures,1,1.0,1
+9e998ffa7609,wiki,REC-stale20,True,Political and racial tensions.,lack of manual labour,0,0.0,0
+3c373a714264,cpy,REC-stale20,True,prior written permission,recompile Python,0,0.0,0
+5dbbc7a9d43f,cpy,REC-stale20,False,records timestamp and improves performance,the mailbox so that,0,0.0,0
+65ac051f76d7,wiki,REC-stale20,False,over 60 percent,more than 60 percent,0,0.5714285714285715,0
+6e58629c1054,k8s,REC-stale20,False,`x-kubernetes-list-type`,self.foo == 1,0,0.0,0
+df286d937ef7,wiki,REC-stale20,False,94 meters,13 and 20 metres,0,0.0,0
+22165a8f4167,k8s,REC-stale20,False,special characters in shell-style wildcards,Security Context object,0,0.0,0
+169d57eaddc6,wiki,REC-stale20,True,$1.84 billion,second-highest-grossing film of 1994,0,0.0,0
+44f639b81a7f,wiki,REC-stale20,True,Hari Koo and Doori Koo,Shinbi,0,0.0,0
+f61576d9ea78,wiki,REC-stale20,False,Jon Bon Jovi,Jon Bon Jovi,1,1.0,1
+08e2a8b140dc,wiki,REC-stale20,True,Stampede of the Disco Elephants,four albums,0,0.0,0
+4a40a0efbeab,k8s,REC-stale20,True,external etcd setup,on separate hosts,0,0.0,0
+c95570b4a5cd,wiki,REC-stale20,False,Jane,Secretary of State Seward,0,0.0,0
+bad430da795b,cpy,REC-stale20,True,xmlcharrefreplace,errors,0,0.0,0
+7adfe6b24eb5,wiki,REC-stale20,True,1863,autumn of 1863,0,0.5,0
+1e3420ce686f,k8s,REC-stale20,False,Kubernetes website,Kubernetes website,1,1.0,1
+b384df11adaf,wiki,REC-stale20,False,Airbus,Airbus,1,1.0,1
+c73e60a28a9e,k8s,REC-stale20,True,configparser,YAML or JSON configuration files,0,0.0,0
+673c33922e47,cpy,REC-stale20,False,len(),-1,0,0.0,0
+92343aff7307,k8s,REC-stale20,True,subject,container,0,0.0,0
+0508dbabeb50,k8s,REC-stale20,True,The volume is deleted.,automatically deleted,0,0.4,0
+aebdf0abaa80,wiki,REC-stale20,True,Urartu,kingdom of Agra and Oudh,0,0.0,0
+980135c34d03,wiki,REC-stale20,True,President of the German Reichstag,President of the German Reichstag,1,1.0,1
+3eb96e0168f8,cpy,REC-stale20,False,the size of the packed value in bytes when using standard size,size of the packed value in bytes,0,0.7499999999999999,1
+f08eb2e06f26,k8s,REC-stale20,False,v1 and v2,Earlier versions of Kubernetes,0,0.0,0
+46eac3707329,cpy,REC-stale20,False,multi-process program sharing authentication key,Frequently one doesn't care what the realm is,0,0.0,0
+82f0c7e4865c,wiki,REC-stale20,False,inferior epigastric artery,testicular artery,0,0.4,0
+8ad8e4a96274,wiki,REC-stale20,True,25 million in 2010,over 30 million,0,0.28571428571428575,0
+0734816c0a08,wiki,REC-stale20,False,"A string instrument that uses electric pickups to convert string vibrations into electric current, which is then amplified to produce sound.",a string instrument,0,0.18181818181818182,1
+fcee44ae0dc5,wiki,REC-stale20,False,Internal energy due to temperature.,internal energy,0,0.5714285714285715,1
+76925bfee25d,wiki,REC-stale20,False,"Birds, mammals, reptiles, and other animals.",most other animals,0,0.4444444444444444,0
+b66d9efe8668,wiki,REC-stale20,True,Australia,United States,0,0.0,0
+c0cb68b21ff5,wiki,REC-stale20,False,Red,red bricks,0,0.6666666666666666,0
+7365e3615a9a,k8s,REC-stale20,False,hard links between volumes,storage capacity aware Pod scheduling,0,0.0,0
+bf97410a7e8b,cpy,REC-stale20,False,At the start of a line or after code.,At the start of a line,0,0.7272727272727273,1
+8b41d86764aa,wiki,REC-stale20,True,executing laws and managing departments,social and ceremonial events,0,0.22222222222222224,0
+b11c279a3d3a,k8s,REC-stale20,True,secure storage,a hash,0,0.0,0
+256feb43f886,wiki,REC-stale20,False,three,three syllables,0,0.6666666666666666,0
+de7f44fa5547,wiki,REC-stale20,True,City districts,"singing, acting, television hosting, modeling, CMs and dancing",0,0.0,0
+6ad4c6d2a5ae,wiki,REC-stale20,False,Forks,Forks,1,1.0,1
+31197fdc08ca,wiki,REC-stale20,False,Role or ClusterRole,character's class,0,0.0,0
+8c02bab5496f,wiki,REC-stale20,False,0-100 scale,0 - 100 scale,0,0.4,0
+f5c70389a2e6,wiki,REC-stale20,True,The Night of Broken Glass,Night of Broken Glass,1,1.0,1
+862fe1a13197,wiki,REC-stale20,True,Most votes,electoral votes,0,0.5,0
+6baec951c7f8,k8s,REC-stale20,True,Close idle connections.,send traffic to Pods,0,0.0,0
+1e558befe85e,wiki,REC-stale20,True,"Phase Four Studios, Phoenix",empty warehouse lot,0,0.0,0
+a9c522da5324,wiki,REC-stale20,False,one or two,one or two,1,1.0,1
+2b2dd01f396f,wiki,REC-stale20,True,on the scanning area,moves slowly along it,0,0.0,0
+9ecd788e775f,k8s,REC-stale20,False,Pods are terminated and replaced.,Your pods are re-created on a node,0,0.3636363636363636,0
+4b3e9bb6db9d,cpy,REC-stale20,False,list comprehensions with walrus operator,low-level (and inherently unsafe) I/O interfaces,0,0.0,0
+ca11ed14bfdc,wiki,REC-stale20,True,They cannot live on land.,Unable to move,0,0.0,0
+bc310337ff96,wiki,REC-stale20,False,Homogenous and finitary relations.,Italian-Slovene relations,0,0.3333333333333333,0
+4f7cac8afc86,wiki,REC-stale20,True,/j/,[],0,0.0,1
+fe60a0142ce4,cpy,REC-stale20,False,The overridden method is checked by type checkers.,Existing pairs in *a* will be replaced,0,0.0,0
+e6e6e7866610,wiki,REC-stale20,True,Alternative splicing,convergent evolution,0,0.0,0
+f4dba9b8eca3,cpy,REC-stale20,False,"string, int, choice, float, complex","integer, float and complex",0,0.4444444444444445,0
+4657b7e65c6a,k8s,REC-stale20,False,Features under development are marked as beta or deprecated.,Some sub-features,0,0.0,0
+64f3e0bbc52c,wiki,REC-stale20,False,"10,000","10,000 animals",0,0.6666666666666666,0
+72cc9dab8112,k8s,REC-stale20,True,"Separate copies, no sharing.",some restrictions apply,0,0.0,0
+03cd8de44b42,wiki,REC-stale20,True,Benton,"Some taxonomists, such as Benton",0,0.33333333333333337,0
+df85ed83ffc6,cpy,REC-stale20,True,Real,Rational.numerator,0,0.0,0
+fbedb6172100,k8s,REC-stale20,False,Kubernetes features and tasks,accomplish a goal,0,0.0,0
+977cd3680f99,k8s,REC-stale20,False,Configuration file modification,API server,0,0.0,0
+4c0a29d2572c,wiki,REC-stale20,False,25%,10%,0,0.0,0
+12c09d5aa945,k8s,REC-stale20,False,a persistent IP address and DNS name entry,persistent IP address,0,0.6,1
+4c72382f8f12,wiki,REC-stale20,False,2002,2002,1,1.0,1
+13afe14b4d29,wiki,REC-stale20,True,Piero de Medici,Piero de Medici,1,1.0,1
+607bf92c766e,cpy,REC-stale20,False,Pods are scheduled to Nodes based on resource availability and constraints.,a consistent state,0,0.0,0
+7b69304a4e1f,wiki,REC-stale20,False,Teen spy adventures,middle school student,0,0.0,0
+f076e1deda3f,wiki,REC-stale20,True,2007,2008,0,0.0,0
+77b4eba2e9bf,cpy,REC-stale20,False,Adds indentation to the item.,incremental indentation,0,0.3333333333333333,0
+133683bf14c3,wiki,REC-stale20,False,Revolution,Flip and Nitty,0,0.0,0
+edf30b0670ec,k8s,REC-stale20,False,"synthetic ""Added"" events","synthetic ""Added"" events",1,1.0,1
+7f3cac1af9ed,wiki,REC-stale20,True,1977,1971,0,0.0,0
+808de8f3064e,wiki,REC-stale20,False,nation,a nation,1,1.0,1
+964c536ca6c8,k8s,REC-stale20,True,the addresses,How about you John?,0,0.0,0
+4c4fa9485fec,wiki,REC-stale20,False,"Forever Night, Never Day",Sounds Live Feels Live,0,0.0,0
+6547767f18c1,cpy,REC-stale20,False,tuple,:class:`int`,0,0.0,0
+936cb753f832,wiki,REC-stale20,True,squirt guns,squirt guns,1,1.0,1
+210f5bd4cc96,wiki,REC-stale20,True,33,13 episodes,0,0.0,0
+3877f8e681c1,k8s,REC-stale20,True,YAML or JSON,YAML format,0,0.4,0
+4e64ca295b9a,wiki,REC-stale20,False,aerial attack to destroy Hezbollah's missile supply,aerial attack,0,0.4444444444444445,1
+a8b9a7fc0257,k8s,REC-stale20,True,beta config file changes,malicious code execution,0,0.0,0
+fcadceb8cfeb,wiki,REC-stale20,True,"Best Actress, Best Motion Picture",five Brit Awards,0,0.0,0
+c2cc6cc31f7d,cpy,REC-stale20,True,searching root directory,:func:`!glob`,0,0.0,0
+2cb1b487abb5,k8s,REC-stale20,False,hello,hello greeter,0,0.6666666666666666,0
+8d0e050b06cf,wiki,REC-stale20,True,10%,10%,1,1.0,1
+2b60fb5223f2,wiki,REC-stale20,True,new materials and technologies,higher quality and more appealing content,0,0.2,0
+0b867f417518,cpy,REC-stale20,False,RAND_status(),The algorithm,0,0.0,0
+ed0a0021fdcb,k8s,REC-stale20,False,each other,each other,1,1.0,1
+67f1f14afa0c,wiki,REC-stale20,False,Thomas Nast,Thomas Nast,1,1.0,1
+1ed47f18a6a1,wiki,REC-stale20,False,"a river, a road, a corridor",many kinds of places,0,0.0,0
+e78695c51a40,wiki,REC-stale20,True,Unnamed tropical storm,Storm 91C,0,0.4,0
+4f7a773e0e8b,cpy,REC-stale20,False,"Earth's rotation, Moon's orbit, Earth's orbit",The first weekday,0,0.0,0
+bcfead61129f,wiki,REC-stale20,True,fingernails,feet,0,0.0,0
+7fa1436d65d1,cpy,REC-stale20,False,"str or bytes, str or bytes",strings,0,0.0,0
+ce731e11ea0c,k8s,REC-stale20,True,restartPolicy,FallbackToLogsOnError,0,0.0,0
+cac2864957ac,wiki,REC-stale20,False,Puranas and epics,His association with dance and also with music,0,0.18181818181818182,0
+8db90605eef9,wiki,REC-stale20,True,"October 3, 1849",October 3,0,0.8,1
+9201bdd10102,wiki,REC-stale20,True,"1,368,840","176,000 inhabitants",0,0.0,0
+10aa0c0c19aa,cpy,REC-stale20,False,4,:data:`DEFAULT_PROTOCOL`,0,0.0,0
+3b7065e4cf0d,cpy,REC-stale20,False,specified_attributes,:attr:`~.needs_input`,0,0.0,0
+e205ccf8d471,wiki,REC-stale20,False,Martin Nowak,Martin Nowak,1,1.0,1
+ab13a0df63d3,wiki,REC-stale20,False,June 25,June 25 until July 31,0,0.5714285714285715,0
+657bb8447b4e,wiki,REC-stale20,True,Unpredictable wind supply.,wind is uncontrollable,0,0.3333333333333333,0
+f8ded7c5afd4,wiki,REC-stale20,True,"The question asks about the creator of ""Parkesine,"" but the provided context does not mention Parkesine or its creator. Therefore, the",Alexander Parkes,0,0.0,0
+6ec2e19cc795,wiki,REC-stale20,True,TOKYO DOME,NHK Red and White Singing Contest,0,0.0,0
+bd28c0bc3780,wiki,REC-stale20,False,Information about the partner particle.,Receive information about the other particle,0,0.6666666666666665,0
+994b241fd792,k8s,REC-stale20,False,PyDict_EVENT_CLONED,reduced performance,0,0.0,0
+7e481cba38da,cpy,REC-stale20,True,wait,:meth:`~Event.wait`,0,0.0,0
+3a7157002320,wiki,REC-stale20,True,Everything,almost everything we see,0,0.4,0
+2f4439eddc86,wiki,REC-stale20,False,Pollutants formed by chemical reactions.,Ozone and smog,0,0.0,0
+044a7fff953e,k8s,REC-stale20,True,Addons may be killed due to resource limits.,addons often consume more of some resources,0,0.13333333333333333,0
+909d5e0aa174,wiki,REC-stale20,True,Vancouver,Marble Hill,0,0.0,0
+261fa879827b,wiki,REC-stale20,False,Computational proofs and abstract algebra concepts.,almost all of Ramanujan's work,0,0.0,0
+4ddf61f10d87,wiki,REC-stale20,True,leading an army,talk or to eat,0,0.0,0
+b8fb438c1a96,wiki,REC-stale20,True,"An American flag, experiments, and a sign.",an American flag,0,0.5714285714285715,1
+1e8b81a233a6,k8s,REC-stale20,True,kubectl get pods --namespace seattle,kubectl get pods,0,0.7499999999999999,1
+4514a4e85a56,wiki,REC-stale20,False,Conquest of the Aztec Empire,to the West Indies,0,0.0,0
+65e4ce29608d,k8s,REC-stale20,False,stored root certificate and client certificates,stored root certificate and client certificates,1,1.0,1
+85ee6fef963a,wiki,REC-stale20,True,celebrity relationships and lifestyles,Their relationship,0,0.0,0
+be6a8d50bdee,wiki,REC-stale20,True,No one mentioned.,his friends at Nickelodeon,0,0.0,0
+b145c4ef6a4c,k8s,REC-stale20,False,On the control plane.,control plane,0,0.8,1
+c6463ed7fd93,cpy,REC-stale20,True,denial of service attacks,older versions of Expat,0,0.25,0
+299448c4cf21,k8s,REC-stale20,True,"information, processes, objects, ideas, events",the code we already have,0,0.0,0
+bc0c01774a3a,wiki,REC-stale20,True,The problem of induction,Hilbert's tenth problem,0,0.3333333333333333,0
+f9f482632c8a,cpy,REC-stale20,False,readlines,:meth:`~io.IOBase.readlines`,0,0.0,0
+31c0a7f1df24,cpy,REC-stale20,False,module's namespace,the module's namespace,1,1.0,1
+e9a9711f444f,wiki,REC-stale20,False,Polish Home Army,The Polish Home Army,1,1.0,1
+194506a63a23,wiki,REC-stale20,True,5.0,Buster,0,0.0,0
+f83bef186776,k8s,REC-stale20,False,The first control plane node.,Pick a control plane node,0,0.75,0
+9ce4c687742e,k8s,REC-stale20,True,Misc/NEWS,Contributing upstream,0,0.0,0
+0f6fdf77713a,wiki,REC-stale20,True,Thorn Lighting,Hilti,0,0.0,0
+886ca071a3ea,cpy,REC-stale20,True,the default database,Python's built-in MIME type tables,0,0.0,0
+fca8ef9e2782,cpy,REC-stale20,False,the class of the object,the class of the object,1,1.0,1
+6a65207e4324,wiki,REC-stale20,True,Windows Vista,Windows Vista,1,1.0,1
+d2f30f735ce8,wiki,REC-stale20,False,1953,1953,1,1.0,1
+7a0327e452a7,wiki,REC-stale20,True,Stopping alcohol use abruptly.,getting toxins out of the body,0,0.0,0
+8c55de9a48ed,wiki,REC-stale20,True,Xbox 360,Xbox 360,1,1.0,1
+7d413dd410fd,wiki,REC-stale20,False,20 minutes plus theme song and credits,20 minutes long,0,0.4,0
+6958207b2285,cpy,REC-stale20,False,unquote,One and only one of,0,0.0,0
+96ef6d0d2994,wiki,REC-stale20,False,"Zurich, Brugg, Lucerne, Zofingen, Zug, Aarau, Rome, Wichita, Cancún, Kaif","Brugg, Lucerne, Zofingen and Zug",0,0.5333333333333333,0
+0cd97f8ecaa8,k8s,REC-stale20,False,kubectl expose,EndpointSlices,0,0.0,0
+87c0b5559902,cpy,REC-stale20,True,text/plain,get_default_type,0,0.0,0
+ada0d21964f2,wiki,REC-stale20,True,1936,"September 28, 2009",0,0.0,0
+171f7e3175cd,cpy,REC-stale20,False,False,:const:`False`,0,0.0,0
+ff862d4070ae,cpy,REC-stale20,False,Compat32,:class:`~email.policy.Policy`,0,0.0,0
+065205c696c7,wiki,REC-stale20,True,Cindy Jackson,visionary individuals,0,0.0,0
+570dd2a2c4aa,wiki,REC-stale20,False,"No, responsibility is not required in divorce.",It is not necessary,0,0.36363636363636365,0
+793afdffb2a6,wiki,REC-stale20,True,Toronto Transit Commission,Los Angeles Railway,0,0.0,0
+730416994648,wiki,REC-stale20,False,Egypt,Egypt,1,1.0,1
+aba0d9a2a4c3,k8s,REC-stale20,False,certificates,CA certificate bundle,0,0.0,0
+7a244c49f408,wiki,REC-stale20,False,"In gardens, vineyards, and rose gardens.",at the end of each row of vines,0,0.0,0
+f92686b38859,k8s,REC-stale20,False,urllib.request.urlopen(),service,0,0.0,0
+d15634a74368,k8s,REC-stale20,False,make regen-configure,kubectl create --edit,0,0.0,0
+728f205c1724,k8s,REC-stale20,True,Misc/NEWS,Contributing upstream,0,0.0,0
+09f40a724078,wiki,REC-stale20,False,"Chingyai, Kharong, Isingchaibi, Nungpak Khul, Chingoi","Chingyai, Kharong, Isingchaibi, Nungpak Khul, Chingoi",1,1.0,1
+13a815959ee4,k8s,REC-stale20,True,network providers,etcd,0,0.0,0
+30468d176ea8,k8s,REC-stale20,True,namespaceSelector,key-value labels,0,0.0,0
+44844bd20cd7,cpy,REC-stale20,False,cancel(),:meth:`~Timer.cancel`,0,0.0,0
+c396c4bcb7a4,wiki,REC-stale20,True,Around one million,"3,500 German prisoners",0,0.0,0
+c01babe26243,k8s,REC-stale20,False,Pod deletion or node shutdown,graceful deletion of a Pod,0,0.4444444444444445,0
+74397bbaf3c8,cpy,REC-stale20,False,None,"(pid, fd)",0,0.0,0
+0c6f33a89aa8,wiki,REC-stale20,True,Forbes Quarry,Forbes Quarry find,0,0.8,0
+ca099ac0c186,cpy,REC-stale20,False,Python byte code,bytecode for modules,0,0.0,0
+c05b478977b6,k8s,REC-stale20,False,150,150 feasible ones,0,0.5,0
+7cc2c79aef23,wiki,REC-stale20,False,Levant,Northern Mesopotamia,0,0.0,0
+6386a33abdc3,cpy,REC-stale20,False,Objects that used to be instances but no longer meet the frozen attributes.,some objects,0,0.14285714285714285,0
+2e6f6f4e4c35,k8s,REC-stale20,True,dnsmasq,dnsmasq,1,1.0,1
+6560907ba697,wiki,REC-stale20,True,Other forces,Other forces,1,1.0,1
+c77f84316d45,wiki,REC-stale20,False,C3 linearization,an entirely new approach,0,0.0,0
+5215316d9733,wiki,REC-stale20,False,Hispaniola,Hispaniola,1,1.0,1
+bef2c7acdbb7,wiki,REC-stale20,True,Muslim,Muslims,0,0.0,0
+ad7f50a0b5df,wiki,REC-stale20,True,1991,In 2023,0,0.0,0
+80b0c3ee706e,cpy,REC-stale20,True,store,Use the latest patch release,0,0.0,0
+088062abafb5,cpy,REC-stale20,True,Python 3.13,removed in Python 3.13,0,0.6666666666666666,0
+717d6a640dc2,k8s,REC-stale20,True,DNS policies,rich set of policies,0,0.3333333333333333,0
+5736364a6075,cpy,REC-stale20,False,Perl 5,Base64 standard alphabet,0,0.0,0
+92b56cc9f7ab,cpy,REC-stale20,False,None,a single command-line argument,0,0.0,0
+7638a2b1c62b,wiki,REC-stale20,False,Peng Liyuan,Peng Liyuan,1,1.0,1
+758a0b8d7377,k8s,REC-stale20,True,Misc/NEWS,Contributing upstream,0,0.0,0
+e1ebaadb9a28,k8s,REC-stale20,False,"API violations, buffer underflow, buffer overflow","Create, update, and delete",0,0.0,0
+e2062c3dab28,cpy,REC-stale20,False,generator's method,awaiting on the next object,0,0.0,0
+5435003f5c58,wiki,REC-stale20,False,Graceland College,Graceland College,1,1.0,1
+3c321e67cb8f,wiki,REC-stale20,True,the existence of Anastasia,this belief,0,0.0,0
+2f2206c80dd4,wiki,REC-stale20,False,Africa,savannas of Africa,0,0.5,0
+386b1d860a60,cpy,closed-book,False,The field with proper encoding is the one that uses ASCII or UTF-8.,Subject,0,0.0,0
+e2158d68f186,cpy,closed-book,True,IEEE 754,IEEE 754,1,1.0,1
+8104def1b635,wiki,closed-book,False,Martin Luther King Jr.,Harrison,0,0.0,0
+8b0a6ab99c56,k8s,closed-book,False,the main container to be ready,mydb,0,0.0,0
+a3b43838954b,cpy,closed-book,True,Source line determination.,get_source,0,0.0,0
+57ea39e23be4,cpy,closed-book,False,Truth.,when a feature is safe to remove,0,0.0,0
+de5fe190e67b,wiki,closed-book,False,In the previous month's records.,Months,0,0.4,1
+68a7cf107312,k8s,closed-book,False,Security and privacy considerations.,looser compatibility promises,0,0.0,0
+6c46ab7f7a6c,wiki,closed-book,True,Large Hadron Collider,the Tevatron,0,0.0,0
+c5f44e63eb87,wiki,closed-book,True,Opposed to animal experimentation.,active animal rights activist,0,0.25,0
+54194bb3d487,wiki,closed-book,False,She told her to sit down.,You're destined to sing,0,0.2,0
+d8b5542d35ab,wiki,closed-book,True,1001 to 2000,years 1001 to 2000,0,0.8571428571428571,0
+c7ae5db484ff,wiki,closed-book,False,Alphabetical order,order of the alphabet,0,0.4,0
+eeb8d1b8f84b,wiki,closed-book,False,Using their lips to create suction.,different way,0,0.0,0
+a9f002a3a7b7,wiki,closed-book,False,a short war,the war to end all wars,0,0.28571428571428575,0
+d1860a8dd975,wiki,closed-book,True,1985,1973,0,0.0,0
+8acf0c353b15,wiki,closed-book,True,The Pure Food and Drug Act.,Zainab Alert Bill,0,0.0,0
+bf20d90026c8,wiki,closed-book,True,Semiconductor devices,most semiconductors,0,0.0,0
+5eb7c84e2f65,cpy,closed-book,True,greater than,&#62;,0,0.0,0
+4a5b4468c689,cpy,closed-book,False,Reproducible steps,This allows failures to be post-mortem debugged,0,0.0,0
+5e19952950d5,wiki,closed-book,False,"owl behavior, habitat, and ecology.",the things that owls eat,0,0.0,0
+023f4c227d50,k8s,closed-book,True,"""application/json""",decimal values,0,0.0,0
+bd273ca3782f,k8s,closed-book,True,--no-renewal,--certificate-renewal=false,0,0.0,0
+f2e54bed7bb7,wiki,closed-book,True,Competitions held were the Olympics and the World Cup.,"race, stone throw and archery",0,0.16666666666666666,0
+4bbbf1ab9015,wiki,closed-book,False,Constants.,the amount of matter in an object,0,0.0,0
+f295ab7ea338,wiki,closed-book,False,128 GB,64 GB of storage,0,0.3333333333333333,0
+0e10869790a3,wiki,closed-book,True,"Belgium, Canada, Switzerland, Africa.",Belgium (Wallonia),0,0.3333333333333333,0
+ab85edb018a4,wiki,closed-book,False,St. Mary's Church,Church of England,0,0.3333333333333333,0
+f1659c92a1cc,wiki,closed-book,True,Canon law,laws on alcohol (sales and content),0,0.0,0
+e5f821131a56,cpy,closed-book,False,System calls,built-in modules,0,0.0,0
+c3c00615d9cd,k8s,closed-book,True,Provide public Kubernetes resources.,cluster usage,0,0.0,0
+98332bededde,cpy,closed-book,False,1.1,'1.1000000000000001',0,0.0,0
+541a68fc6650,wiki,closed-book,False,coffee and pastries,marijuana over the counter,0,0.0,0
+fbdcc618ed47,wiki,closed-book,True,Civil Rights Movement,postmodern architecture,0,0.0,0
+842ee86264bb,k8s,closed-book,False,Primary keys uniquely identify records.,the informing component,0,0.0,0
+c9fd21f88a48,cpy,closed-book,True,2020,removed in Python 3.13,0,0.0,0
+a2fcbea9bcff,wiki,closed-book,False,Vasily Zaytsev,Vasily Zaytsev,1,1.0,1
+7a61c357b49c,wiki,closed-book,False,Cotton and rayon.,absorbent material,0,0.0,0
+888c15025931,wiki,closed-book,False,Jet fuel.,airports,0,0.0,0
+14bb1f488424,wiki,closed-book,True,Lowe said Bland was a good man.,such an important institution,0,0.0,0
+d50daa9bee2d,cpy,closed-book,False,Initialization and resource allocation.,two orders of magnitude,0,0.0,0
+5a61fa686c1b,wiki,closed-book,False,Composition VII,Der Blaue Reiter,0,0.0,0
+4ad5a5dfd86c,wiki,closed-book,False,Varies by substance and individual.,as long as twelve hours,0,0.0,0
+bdc91bf82927,wiki,closed-book,False,"Over 20,000 species.","about 20,000",0,0.4,0
+9a1aa46f70dc,cpy,closed-book,True,It will be removed.,This feature will eventually be deprecated and removed,0,0.5,0
+03d5e056e1f5,cpy,closed-book,False,Common types,:c:type:`PyObject` and :c:type:`PyVarObject`,0,0.0,0
+2897e70e1b12,wiki,closed-book,False,CBS,Cartoon Network,0,0.0,0
+6f46bad97033,cpy,closed-book,False,A reducer function.,Keyword arguments,0,0.0,0
+21b63ead80d0,wiki,closed-book,True,"""Thriller""",Tinderbox album,0,0.0,0
+ef7d917270c9,cpy,closed-book,True,Repeat a process recursively.,open all of their descendants,0,0.0,0
+f6a9374db117,k8s,closed-book,True,Use a log parser that supports multiple formats.,create two sidecar containers,0,0.0,0
+81f07ca51f65,cpy,closed-book,False,at the top of the file,interpreter where you need it,0,0.0,0
+012e28db1886,k8s,closed-book,True,Vertical Pod Scaling,_in-place Pod vertical scaling_,0,0.8571428571428571,0
+c3bb2242e7a1,wiki,closed-book,False,USS Constitution,The Mayflower,0,0.0,0
+3793b4b1eb42,wiki,closed-book,True,1985,"8th May, 1969",0,0.0,0
+53fcfa97c396,cpy,closed-book,False,Arithmetic sequence,All such numbers,0,0.0,0
+6c4519464e13,cpy,closed-book,False,regular expressions,case-insensitive substring matching,0,0.0,0
+649a980e2dab,wiki,closed-book,False,human emotions,Their ways of acting,0,0.0,0
+a181e4bc77cc,wiki,closed-book,True,Living things.,"biotic, or living",0,0.4,0
+fe8baa38bccd,wiki,closed-book,False,Blue,the colour of a squashed flea,0,0.0,0
+1703bab0fce0,wiki,closed-book,True,A military convoy.,the massacres occurring,0,0.0,0
+cdf11a9e69ac,wiki,closed-book,True,Lyricist,Naftali Herz Imber,0,0.0,0
+4aee1d1025df,cpy,closed-book,False,"NaN is returned when a mathematical operation is undefined or invalid, such as dividing zero by zero.",0/0,0,0.0,0
+d09653e51e74,wiki,closed-book,True,poetry and prose,Chinese loanwords,0,0.0,0
+ccd24270fba1,cpy,closed-book,True,The function can return a value.,a floating-point value,0,0.3333333333333333,0
+a4173874e248,wiki,closed-book,False,Indians,Indians,1,1.0,1
+499177ebb329,cpy,closed-book,True,POSIX shell parsing,punctuation_chars,0,0.0,0
+d13b8da2377c,wiki,closed-book,True,Poor and overcrowded.,horrible,0,0.0,0
+74c2cba171c1,k8s,closed-book,False,Orchestrating containers.,automation,0,0.0,0
+f4e27ae1db1d,wiki,closed-book,False,their style,rhythms and musical style,0,0.3333333333333333,0
+371fc3f5e8ae,wiki,closed-book,False,New York City,on the way to the hospital,0,0.0,0
+dc0f2d6671a0,wiki,closed-book,True,When did she first have ear problems?,2000,0,0.0,0
+091d303667c3,wiki,closed-book,True,Slavery was common in Georgia at that time.,slavery,0,0.2222222222222222,1
+802e1fd26881,wiki,closed-book,True,deities and divine beings,Shitateru-hime,0,0.0,0
+640da4f69d07,k8s,closed-book,False,Pod readiness check,FailedPostStartHook,0,0.0,0
+798035eca167,wiki,closed-book,False,New Zealand,Van Diemen's Land,0,0.0,0
+a3a07f404dc2,cpy,closed-book,True,The return value is the concatenated string of the parts.,the shortest possible,0,0.0,0
+2d9f37dfbd24,wiki,closed-book,False,Sexual desires.,adults,0,0.0,0
+8ee0cc8cce45,cpy,closed-book,True,Task Scheduler,high-resolution timer,0,0.0,0
+2a858fa19905,wiki,closed-book,False,Moons,Moons,1,1.0,1
+e27f87c63c2e,wiki,closed-book,False,Unknown.,Even more died,0,0.0,0
+08bf17f06cda,k8s,closed-book,True,"The other members of the release team are the developers, testers, and project managers.",overall release lead,0,0.14285714285714288,0
+fec22a648757,cpy,closed-book,False,module or object name,"the name of a function, module, or package",0,0.6,0
+7cb016fd3a03,cpy,closed-book,False,A crash or exception.,Unhandled exception,0,0.4,0
+a1da23ff93c4,wiki,closed-book,False,A plan with a specific design.,very simple,0,0.0,0
+8bdd8774688f,cpy,closed-book,False,representing calendar time in a structured format,:class:`struct_time`,0,0.0,0
+5bdd005c6f3e,wiki,closed-book,False,Temperature variations.,how temperature is different,0,0.3333333333333333,0
+27b8146e2522,wiki,closed-book,True,Indigenous peoples,Indian soldiers,0,0.0,0
+c1fd8b81f100,wiki,closed-book,False,Toxicity and misinformation.,uncontrolled antisemitism,0,0.0,0
+2003607e4a6d,k8s,closed-book,False,A small piece of fabric.,create one patch,0,0.0,0
+19852440bc9a,wiki,closed-book,True,Sesame Street,Teletubbies,0,0.0,0
+844590475fc8,wiki,closed-book,False,Lower-income groups.,HIV-positive gay men,0,0.0,0
+fedfb2fb6403,wiki,closed-book,True,French Revolution,German Revolution,0,0.5,0
+b1b3626dbf02,cpy,closed-book,False,Because of data structure flexibility.,historical baggage,0,0.0,0
+ed6f5aa60247,wiki,closed-book,True,Trauma and stress.,The painkillers he was prescribed,0,0.0,0
+7dbd006f59f2,wiki,closed-book,False,"Approximately 13,297 square kilometers.","5,134 mi²",0,0.0,0
+700f7ef30f6e,wiki,closed-book,False,Valmiki,sage (rishi) Valmiki,0,0.5,0
+2b1a2293bd20,wiki,closed-book,False,Beyoncé,Beyonce Knowles,0,0.0,0
+30f41a0377b6,wiki,closed-book,True,"The myth of the ""Great Replacement.""",Nazi Germany actively supported Zionism,0,0.0,0
+1e72a27c055a,k8s,closed-book,False,Corrupted system files,Several common problems,0,0.0,0
+6b85bf51b411,k8s,closed-book,True,Resources are deleted.,The underlying storage snapshot will be deleted,0,0.2222222222222222,0
+b5dff58506d5,wiki,closed-book,True,New Zealand,Qatar,0,0.0,0
+44adcb19cfbc,k8s,closed-book,True,Malware attacks,Out-of-memory (OOM) handling,0,0.0,0
+65eaf06e0555,k8s,closed-book,True,The supported values are determined by the data type.,The Go version used,0,0.0,0
+397ea5cb5e31,cpy,closed-book,False,Shared objects.,integer objects,0,0.5,0
+b90f63c608ed,cpy,closed-book,True,"Operations included are addition, subtraction, multiplication, and division.",conversions to :class:`complex` and :class:`bool`,0,0.15384615384615385,0
+f27440c46ea8,wiki,closed-book,True,"Islam, Christianity, Hinduism, Buddhism",Buddhism or Animism,0,0.28571428571428575,0
+fdf1330c6562,cpy,closed-book,False,At the beginning of the document.,a line of its own,0,0.25,0
+f9afa305b023,k8s,closed-book,True,User manual or packaging.,minikube start,0,0.0,0
+27e8895f08a6,wiki,closed-book,False,Charles Baudelaire,Paul de Saint-Victor,0,0.0,0
+85caa658e459,cpy,closed-book,True,a function or method,self,0,0.0,0
+aa995079ead7,wiki,closed-book,True,Tradition and apostolic succession.,the original Christian faith,0,0.0,0
+e0fd5584fe89,wiki,closed-book,True,Queen Elizabeth I,Queen Mary I,0,0.6666666666666666,0
+641279a8cd66,wiki,closed-book,False,theology,Jewish scriptures,0,0.0,0
+9e998ffa7609,wiki,closed-book,True,Great Depression,lack of manual labour,0,0.0,0
+3c373a714264,cpy,closed-book,True,system restart,recompile Python,0,0.0,0
+5dbbc7a9d43f,cpy,closed-book,False,Email messages.,the mailbox so that,0,0.0,0
+65ac051f76d7,wiki,closed-book,False,40%,more than 60 percent,0,0.0,0
+6e58629c1054,k8s,closed-book,False,Rule with no validation risk is the one that doesn't require input.,self.foo == 1,0,0.0,0
+df286d937ef7,wiki,closed-book,False,about 180 meters,13 and 20 metres,0,0.0,0
+22165a8f4167,k8s,closed-book,False,Pattern matching in strings.,Security Context object,0,0.0,0
+169d57eaddc6,wiki,closed-book,True,$217 million,second-highest-grossing film of 1994,0,0.0,0
+44f639b81a7f,wiki,closed-book,True,Hobbits.,Shinbi,0,0.0,0
+f61576d9ea78,wiki,closed-book,False,Marcia Hines,Jon Bon Jovi,0,0.0,0
+08e2a8b140dc,wiki,closed-book,True,*In My Feelings*,four albums,0,0.0,0
+4a40a0efbeab,k8s,closed-book,True,on-premises or cloud environments,on separate hosts,0,0.0,0
+c95570b4a5cd,wiki,closed-book,False,John.,Secretary of State Seward,0,0.0,0
+bad430da795b,cpy,closed-book,True,`text/plain`,errors,0,0.0,0
+7adfe6b24eb5,wiki,closed-book,True,1891,autumn of 1863,0,0.0,0
+1e3420ce686f,k8s,closed-book,False,Google Docs,Kubernetes website,0,0.0,0
+b384df11adaf,wiki,closed-book,False,Lockheed Martin,Airbus,0,0.0,0
+c73e60a28a9e,k8s,closed-book,True,INI,YAML or JSON configuration files,0,0.0,0
+673c33922e47,cpy,closed-book,False,length(),-1,0,0.0,0
+92343aff7307,k8s,closed-book,True,Subject.,container,0,0.0,0
+0508dbabeb50,k8s,closed-book,True,The volume is deleted.,automatically deleted,0,0.4,0
+aebdf0abaa80,wiki,closed-book,True,Akkad,kingdom of Agra and Oudh,0,0.0,0
+980135c34d03,wiki,closed-book,True,Reichsmarschall,President of the German Reichstag,0,0.0,0
+3eb96e0168f8,cpy,closed-book,False,the size of the item,size of the packed value in bytes,0,0.4444444444444444,0
+f08eb2e06f26,k8s,closed-book,False,IPv4 and IPv6,Earlier versions of Kubernetes,0,0.0,0
+46eac3707329,cpy,closed-book,False,User logs in with credentials.,Frequently one doesn't care what the realm is,0,0.0,0
+82f0c7e4865c,wiki,closed-book,False,Internal iliac artery,testicular artery,0,0.4,0
+8ad8e4a96274,wiki,closed-book,True,Over 10 million,over 30 million,0,0.6666666666666666,0
+0734816c0a08,wiki,closed-book,False,a musical instrument with electric pickups,a string instrument,0,0.28571428571428575,0
+fcee44ae0dc5,wiki,closed-book,False,Energy in transit due to temperature difference.,internal energy,0,0.22222222222222224,0
+76925bfee25d,wiki,closed-book,False,"Animals, birds, insects, and marine life.",most other animals,0,0.2222222222222222,0
+b66d9efe8668,wiki,closed-book,True,United Kingdom,United States,0,0.5,0
+c0cb68b21ff5,wiki,closed-book,False,Red,red bricks,0,0.6666666666666666,0
+7365e3615a9a,k8s,closed-book,False,Sparse disk images,storage capacity aware Pod scheduling,0,0.0,0
+bf97410a7e8b,cpy,closed-book,False,"inside parentheses, inline, as a docstring, in a multi-line string, as a comment block",At the start of a line,0,0.0,0
+8b41d86764aa,wiki,closed-book,True,Leadership and management.,social and ceremonial events,0,0.28571428571428575,0
+b11c279a3d3a,k8s,closed-book,True,secure data handling practices,a hash,0,0.0,0
+256feb43f886,wiki,closed-book,False,4,three syllables,0,0.0,0
+de7f44fa5547,wiki,closed-book,True,Six areas of knowledge.,"singing, acting, television hosting, modeling, CMs and dancing",0,0.0,0
+6ad4c6d2a5ae,wiki,closed-book,False,Rome,Forks,0,0.0,0
+31197fdc08ca,wiki,closed-book,False,Class.,character's class,0,0.6666666666666666,0
+8c02bab5496f,wiki,closed-book,False,Mana and energy.,0 - 100 scale,0,0.0,0
+f5c70389a2e6,wiki,closed-book,True,Night of Broken Glass,Night of Broken Glass,1,1.0,1
+862fe1a13197,wiki,closed-book,True,Most votes.,electoral votes,0,0.5,0
+6baec951c7f8,k8s,closed-book,True,Distribute traffic.,send traffic to Pods,0,0.3333333333333333,0
+1e558befe85e,wiki,closed-book,True,Los Angeles,empty warehouse lot,0,0.0,0
+a9c522da5324,wiki,closed-book,False,10,one or two,0,0.0,0
+2b2dd01f396f,wiki,closed-book,True,Flat against the sensor.,moves slowly along it,0,0.0,0
+9ecd788e775f,k8s,closed-book,False,They are reloaded.,Your pods are re-created on a node,0,0.2222222222222222,0
+4b3e9bb6db9d,cpy,closed-book,False,The specific use case mentioned is not provided.,low-level (and inherently unsafe) I/O interfaces,0,0.0,0
+ca11ed14bfdc,wiki,closed-book,True,They cannot survive.,Unable to move,0,0.0,0
+bc310337ff96,wiki,closed-book,False,Relations studied were social and economic.,Italian-Slovene relations,0,0.25,0
+4f7cac8afc86,wiki,closed-book,True,/j/,[],0,0.0,1
+fe60a0142ce4,cpy,closed-book,False,The override action is executed.,Existing pairs in *a* will be replaced,0,0.0,0
+e6e6e7866610,wiki,closed-book,True,Convergent evolution.,convergent evolution,1,1.0,1
+f4dba9b8eca3,cpy,closed-book,False,All types.,"integer, float and complex",0,0.0,0
+4657b7e65c6a,k8s,closed-book,False,New features are still under development.,Some sub-features,0,0.0,0
+64f3e0bbc52c,wiki,closed-book,False,seven,"10,000 animals",0,0.0,0
+72cc9dab8112,k8s,closed-book,True,separation from others,some restrictions apply,0,0.0,0
+03cd8de44b42,wiki,closed-book,True,Edward Drinker Cope and Othniel Charles Marsh,"Some taxonomists, such as Benton",0,0.0,0
+df85ed83ffc6,cpy,closed-book,True,default value,Rational.numerator,0,0.0,0
+fbedb6172100,k8s,closed-book,False,Teaching a specific skill or topic.,accomplish a goal,0,0.0,0
+977cd3680f99,k8s,closed-book,False,Smartphones,API server,0,0.0,0
+4c0a29d2572c,wiki,closed-book,False,16.5%,10%,0,0.0,0
+12c09d5aa945,k8s,closed-book,False,a service creates a process.,persistent IP address,0,0.0,0
+4c72382f8f12,wiki,closed-book,False,"October 2, 1957",2002,0,0.0,0
+13afe14b4d29,wiki,closed-book,True,Pope Julius II,Piero de Medici,0,0.0,0
+607bf92c766e,cpy,closed-book,False,proper resource allocation,a consistent state,0,0.0,0
+7b69304a4e1f,wiki,closed-book,False,The main subject of the series is the human condition.,middle school student,0,0.0,0
+f076e1deda3f,wiki,closed-book,True,2007,2008,0,0.0,0
+77b4eba2e9bf,cpy,closed-book,False,Indenting nested lists.,incremental indentation,0,0.0,0
+133683bf14c3,wiki,closed-book,False,"""Love Is a Losing Game"" and ""I'll Be There for You""",Flip and Nitty,0,0.15384615384615383,0
+edf30b0670ec,k8s,closed-book,False,Watch events are initial events that trigger the start of a watch.,"synthetic ""Added"" events",0,0.15384615384615383,0
+7f3cac1af9ed,wiki,closed-book,True,1979,1971,0,0.0,0
+808de8f3064e,wiki,closed-book,False,nation,a nation,1,1.0,1
+964c536ca6c8,k8s,closed-book,True,the audience,How about you John?,0,0.0,0
+4c4fa9485fec,wiki,closed-book,False,The Summer Tour 2023,Sounds Live Feels Live,0,0.0,0
+6547767f18c1,cpy,closed-book,False,Return type,:class:`int`,0,0.0,0
+936cb753f832,wiki,closed-book,True,wet suits and a shower hose,squirt guns,0,0.0,0
+210f5bd4cc96,wiki,closed-book,True,12,13 episodes,0,0.0,0
+3877f8e681c1,k8s,closed-book,True,JSON or YAML,YAML format,0,0.4,0
+4e64ca295b9a,wiki,closed-book,False,a military operation during the Vietnam War,aerial attack,0,0.0,0
+a8b9a7fc0257,k8s,closed-book,True,Unauthorized access to Kubernetes clusters.,malicious code execution,0,0.0,0
+fcadceb8cfeb,wiki,closed-book,True,None.,five Brit Awards,0,0.0,0
+c2cc6cc31f7d,cpy,closed-book,True,configuration files location,:func:`!glob`,0,0.0,0
+2cb1b487abb5,k8s,closed-book,False,API Gateway,hello greeter,0,0.0,0
+8d0e050b06cf,wiki,closed-book,True,10%,10%,1,1.0,1
+2b60fb5223f2,wiki,closed-book,True,Advancements.,higher quality and more appealing content,0,0.0,0
+0b867f417518,cpy,closed-book,False,Weak random number generator.,The algorithm,0,0.0,0
+ed0a0021fdcb,k8s,closed-book,False,each other,each other,1,1.0,1
+67f1f14afa0c,wiki,closed-book,False,Hindus.,Thomas Nast,0,0.0,0
+1ed47f18a6a1,wiki,closed-book,False,a stage,many kinds of places,0,0.0,0
+e78695c51a40,wiki,closed-book,True,Hurricane Katrina,Storm 91C,0,0.0,0
+4f7a773e0e8b,cpy,closed-book,False,Earth's rotation.,The first weekday,0,0.0,0
+bcfead61129f,wiki,closed-book,True,fingers,feet,0,0.0,0
+7fa1436d65d1,cpy,closed-book,False,start and end tags,strings,0,0.0,0
+ce731e11ea0c,k8s,closed-book,True,Structured Logging,FallbackToLogsOnError,0,0.0,0
+cac2864957ac,wiki,closed-book,False,Mythological tales,His association with dance and also with music,0,0.0,0
+8db90605eef9,wiki,closed-book,True,1849,October 3,0,0.0,0
+9201bdd10102,wiki,closed-book,True,population of the city,"176,000 inhabitants",0,0.0,0
+10aa0c0c19aa,cpy,closed-book,False,HTTP,:data:`DEFAULT_PROTOCOL`,0,0.0,0
+3b7065e4cf0d,cpy,closed-book,False,disabled,:attr:`~.needs_input`,0,0.0,0
+e205ccf8d471,wiki,closed-book,False,Martin Luther King Jr.,Martin Nowak,0,0.3333333333333333,0
+ab13a0df63d3,wiki,closed-book,False,1974,June 25 until July 31,0,0.0,0
+657bb8447b4e,wiki,closed-book,True,Intermittent and variable supply.,wind is uncontrollable,0,0.0,0
+f8ded7c5afd4,wiki,closed-book,True,William Henry Parkes,Alexander Parkes,0,0.4,0
+6ec2e19cc795,wiki,closed-book,True,The X Factor USA,NHK Red and White Singing Contest,0,0.0,0
+bd28c0bc3780,wiki,closed-book,False,Quantum state correlation.,Receive information about the other particle,0,0.0,0
+994b241fd792,k8s,closed-book,False,Genetic mutation.,reduced performance,0,0.0,0
+7e481cba38da,cpy,closed-book,True,wait(),:meth:`~Event.wait`,0,0.0,0
+3a7157002320,wiki,closed-book,True,Everything.,almost everything we see,0,0.4,0
+2f4439eddc86,wiki,closed-book,False,Pollutants formed from primary pollutants.,Ozone and smog,0,0.0,0
+044a7fff953e,k8s,closed-book,True,Performance degradation.,addons often consume more of some resources,0,0.0,0
+909d5e0aa174,wiki,closed-book,True,Downtown,Marble Hill,0,0.0,0
+261fa879827b,wiki,closed-book,False,Theorems.,almost all of Ramanujan's work,0,0.0,0
+4ddf61f10d87,wiki,closed-book,True,Stay in the White House.,talk or to eat,0,0.0,0
+b8fb438c1a96,wiki,closed-book,True,a flag and a plaque,an American flag,0,0.4,0
+1e8b81a233a6,k8s,closed-book,True,kubectl get pods -n seattle,kubectl get pods,0,0.7499999999999999,1
+4514a4e85a56,wiki,closed-book,False,Spanish conquest of the Aztec Empire.,to the West Indies,0,0.0,0
+65e4ce29608d,k8s,closed-book,False,REST API,stored root certificate and client certificates,0,0.0,0
+85ee6fef963a,wiki,closed-book,True,celebrities and public figures,Their relationship,0,0.0,0
+be6a8d50bdee,wiki,closed-book,True,The Simpsons writers' union.,his friends at Nickelodeon,0,0.0,0
+b145c4ef6a4c,k8s,closed-book,False,On the server.,control plane,0,0.0,0
+c6463ed7fd93,cpy,closed-book,True,buffer overflow attacks,older versions of Expat,0,0.0,0
+299448c4cf21,k8s,closed-book,True,"Processes, procedures, and systems.",the code we already have,0,0.0,0
+bc0c01774a3a,wiki,closed-book,True,Halting problem,Hilbert's tenth problem,0,0.4,0
+f9f482632c8a,cpy,closed-book,False,split(),:meth:`~io.IOBase.readlines`,0,0.0,0
+31c0a7f1df24,cpy,closed-book,False,global scope,the module's namespace,0,0.0,0
+e9a9711f444f,wiki,closed-book,False,Polish government in London was loyal to the Polish government in London.,The Polish Home Army,0,0.14285714285714288,0
+194506a63a23,wiki,closed-book,True,12.11.1,Buster,0,0.0,0
+f83bef186776,k8s,closed-book,False,Master node,Pick a control plane node,0,0.3333333333333333,0
+9ce4c687742e,k8s,closed-book,True,Style Guide,Contributing upstream,0,0.0,0
+0f6fdf77713a,wiki,closed-book,True,Black & Decker,Hilti,0,0.0,0
+886ca071a3ea,cpy,closed-book,True,Initial data.,Python's built-in MIME type tables,0,0.0,0
+fca8ef9e2782,cpy,closed-book,False,first argument is the class itself.,the class of the object,0,0.25,0
+6a65207e4324,wiki,closed-book,True,Texas A&M,Windows Vista,0,0.0,0
+d2f30f735ce8,wiki,closed-book,False,1972,1953,0,0.0,0
+7a0327e452a7,wiki,closed-book,True,Removing toxins from the body.,getting toxins out of the body,0,0.4444444444444445,0
+8c55de9a48ed,wiki,closed-book,True,Xbox 360,Xbox 360,1,1.0,1
+7d413dd410fd,wiki,closed-book,False,10 minutes.,20 minutes long,0,0.4,0
+6958207b2285,cpy,closed-book,False,Required parameter.,One and only one of,0,0.0,0
+96ef6d0d2994,wiki,closed-book,False,"New York, Chicago, Los Angeles","Brugg, Lucerne, Zofingen and Zug",0,0.0,0
+0cd97f8ecaa8,k8s,closed-book,False,ServiceEndpoint,EndpointSlices,0,0.0,0
+87c0b5559902,cpy,closed-book,True,text/html,get_default_type,0,0.0,0
+ada0d21964f2,wiki,closed-book,True,2006,"September 28, 2009",0,0.0,0
+171f7e3175cd,cpy,closed-book,False,False,:const:`False`,0,0.0,0
+ff862d4070ae,cpy,closed-book,False,Policy object,:class:`~email.policy.Policy`,0,0.0,0
+065205c696c7,wiki,closed-book,True,Estée Lauder,visionary individuals,0,0.0,0
+570dd2a2c4aa,wiki,closed-book,False,Yes.,It is not necessary,0,0.0,0
+793afdffb2a6,wiki,closed-book,True,Public transit system.,Los Angeles Railway,0,0.0,0
+730416994648,wiki,closed-book,False,Syria,Egypt,0,0.0,0
+aba0d9a2a4c3,k8s,closed-book,False,Digital certificate,CA certificate bundle,0,0.4,0
+7a244c49f408,wiki,closed-book,False,In gardens.,at the end of each row of vines,0,0.0,0
+f92686b38859,k8s,closed-book,False,URI,service,0,0.0,0
+d15634a74368,k8s,closed-book,False,edit config,kubectl create --edit,0,0.4,0
+728f205c1724,k8s,closed-book,True,Style Guide,Contributing upstream,0,0.0,0
+09f40a724078,wiki,closed-book,False,Shrines of the Indus Valley Civilization.,"Chingyai, Kharong, Isingchaibi, Nungpak Khul, Chingoi",0,0.0,0
+13a815959ee4,k8s,closed-book,True,IPv4 only device,etcd,0,0.0,0
+30468d176ea8,k8s,closed-book,True,a label selector,key-value labels,0,0.0,0
+44844bd20cd7,cpy,closed-book,False,Disables the timer.,:meth:`~Timer.cancel`,0,0.0,0
+c396c4bcb7a4,wiki,closed-book,True,Over 3 million.,"3,500 German prisoners",0,0.0,0
+c01babe26243,k8s,closed-book,False,Termination request.,graceful deletion of a Pod,0,0.0,0
+74397bbaf3c8,cpy,closed-book,False,The return value of the function depends on its implementation.,"(pid, fd)",0,0.0,0
+0c6f33a89aa8,wiki,closed-book,True,Saint-Cessair,Forbes Quarry find,0,0.0,0
+ca099ac0c186,cpy,closed-book,False,Source code into C code.,bytecode for modules,0,0.0,0
+c05b478977b6,k8s,closed-book,False,12,150 feasible ones,0,0.0,0
+7cc2c79aef23,wiki,closed-book,False,The region described in the passage is the Amazon Rainforest.,Northern Mesopotamia,0,0.0,0
+6386a33abdc3,cpy,closed-book,False,objects that do not conform to the protocol at runtime,some objects,0,0.1818181818181818,0
+2e6f6f4e4c35,k8s,closed-book,True,/etc/hosts,dnsmasq,0,0.0,0
+6560907ba697,wiki,closed-book,True,Axis and Allied forces,Other forces,0,0.3333333333333333,0
+c77f84316d45,wiki,closed-book,False,Machine Learning,an entirely new approach,0,0.0,0
+5215316d9733,wiki,closed-book,False,Island of the Seven Cities,Hispaniola,0,0.0,0
+bef2c7acdbb7,wiki,closed-book,True,Muslim,Muslims,0,0.0,0
+ad7f50a0b5df,wiki,closed-book,True,2018,In 2023,0,0.0,0
+80b0c3ee706e,cpy,closed-book,True,Follow the instructions.,Use the latest patch release,0,0.0,0
+088062abafb5,cpy,closed-book,True,2023,removed in Python 3.13,0,0.0,0
+717d6a640dc2,k8s,closed-book,True,"Role-Based Access Control (RBAC), Network Policies, Pod Security Policies, Admission Controllers, and Service Mesh Integration.",rich set of policies,0,0.10526315789473685,0
+5736364a6075,cpy,closed-book,False,ISO 9001,Base64 standard alphabet,0,0.0,0
+92b56cc9f7ab,cpy,closed-book,False,1,a single command-line argument,0,0.0,0
+7638a2b1c62b,wiki,closed-book,False,Peng Liyuan,Peng Liyuan,1,1.0,1
+758a0b8d7377,k8s,closed-book,True,Style Guide,Contributing upstream,0,0.0,0
+e1ebaadb9a28,k8s,closed-book,False,Automatic operations.,"Create, update, and delete",0,0.0,0
+e2062c3dab28,cpy,closed-book,False,generator,awaiting on the next object,0,0.0,0
+5435003f5c58,wiki,closed-book,False,Oxford University,Graceland College,0,0.0,0
+3c321e67cb8f,wiki,closed-book,True,The existence of God.,this belief,0,0.0,0
+2f2206c80dd4,wiki,closed-book,False,Africa,savannas of Africa,0,0.5,0

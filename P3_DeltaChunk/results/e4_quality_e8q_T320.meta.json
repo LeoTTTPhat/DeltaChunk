@@ -1,0 +1,78 @@
+{
+ "time": "2026-11-10 03:25:00",
+ "host": "arm64",
+ "python": "3.12.12",
+ "versions": {
+  "numpy": "2.5.4",
+  "pandas": "3.1.1",
+  "langchain-text-splitters": "1.1.3",
+  "kara-toolkit": "0.3.2",
+  "steadlith": "1.0.1",
+  "fastcdc": "1.7.0",
+  "tokenizers": "0.22.2",
+  "sentence-transformers": "5.7.0",
+  "transformers": "4.57.6",
+  "torch": "2.15.0",
+  "hnswlib": "0.8.0",
+  "faiss-cpu": "1.15.1"
+ },
+ "threads": {
+  "P3_THREADS": 8,
+  "RAYON_NUM_THREADS": "8",
+  "TOKENIZERS_PARALLELISM": null,
+  "OMP_NUM_THREADS": "8",
+  "torch_num_threads": 8
+ },
+ "load": {
+  "top10": [
+   "135.1 10903616 llama-server",
+   "108.7 5234944 mds_stores",
+   "96.8 11337536 python",
+   "77.6 16586720 llama-server",
+   "51.4 710672 curl_fuzzer_http",
+   "50.9 693456 curl_fuzzer_http",
+   "42.9 108768 mds",
+   "41.0 118448 Runner.Listener",
+   "39.8 721760 curl_fuzzer_http",
+   "38.2 3958528 Python"
+  ],
+  "memwatch": {
+   "ts": "2026-11-10 03:25:00",
+   "project_gb": 12.08,
+   "system_gb": 246.12
+  }
+ },
+ "seconds": 463.2,
+ "questions": 900,
+ "background_chunks": 30000,
+ "resumed_chunkers": [],
+ "checkpoint": "results/raw/e4/f66e1fa4cc658eca",
+ "bg_mode": "native",
+ "bg_target": 30000,
+ "embed": {
+  "encoded": 46606,
+  "hits": 132243,
+  "calls": 13,
+  "seconds": 364.5658847079758
+ },
+ "T": "320",
+ "achieved_tok": {
+  "REC": {
+   "wiki": 321.8,
+   "k8s": 326.9,
+   "cpy": 327.7
+  },
+  "STRUCT-M": {
+   "wiki": 152.6,
+   "k8s": 258.7,
+   "cpy": 331.3
+  },
+  "SentCDC": {
+   "wiki": 128.5,
+   "k8s": 200.3,
+   "cpy": 221.9
+  }
+ },
+ "device": "mps",
+ "model": "BAAI/bge-small-en-v1.5"
+}

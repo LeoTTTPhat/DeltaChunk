@@ -1,0 +1,65 @@
+{
+ "time": "2026-11-10 03:08:05",
+ "host": "arm64",
+ "python": "3.12.12",
+ "versions": {
+  "numpy": "2.5.4",
+  "pandas": "3.1.1",
+  "langchain-text-splitters": "1.1.3",
+  "kara-toolkit": "0.3.2",
+  "steadlith": "1.0.1",
+  "fastcdc": "1.7.0",
+  "tokenizers": "0.22.2",
+  "sentence-transformers": "5.7.0",
+  "transformers": "4.57.6",
+  "torch": "2.15.0",
+  "hnswlib": "0.8.0",
+  "faiss-cpu": "1.15.1"
+ },
+ "threads": {
+  "P3_THREADS": 8,
+  "RAYON_NUM_THREADS": "8",
+  "TOKENIZERS_PARALLELISM": null,
+  "OMP_NUM_THREADS": "8"
+ },
+ "load": {
+  "top10": [
+   "78.1 24913952 llama-server",
+   "55.3 89264 Runner.Listener",
+   "54.5 126672 Runner.Listener",
+   "51.8 117664 Runner.Listener",
+   "50.6 126976 Runner.Listener",
+   "45.3 521312 curl_fuzzer_http",
+   "41.1 128560 Runner.Listener",
+   "38.6 117744 Runner.Listener",
+   "37.9 551216 curl_fuzzer_http",
+   "32.9 115280 Runner.Listener"
+  ],
+  "memwatch": {
+   "ts": "2026-11-10 03:08:01",
+   "project_gb": 5.97,
+   "system_gb": 354.91
+  }
+ },
+ "stream": "k8s",
+ "docs": 284,
+ "procs": 4,
+ "seconds": 19.2,
+ "errors": 0,
+ "tag": "_tierB",
+ "chunkers": [
+  "REC-O"
+ ],
+ "Ts": [
+  200,
+  128,
+  320
+ ],
+ "intervals": [
+  "revision",
+  "daily",
+  "weekly",
+  "monthly"
+ ],
+ "odir": "/Users/sonha/Documents/SonHa/ICDE27/P3_DeltaChunk/results/raw/e1_tierB/k8s"
+}

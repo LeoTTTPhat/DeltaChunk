@@ -1,0 +1,901 @@
+qid,stream,stratum,doc_id,question,answer,blind_answer,blind_unanswerable,blind_agree,blind_f1,answerable,answer_correct,self_contained,unambiguous,judge_raw
+b6bcbf169fc8,wiki,wiki-proximal,136759,Who is the vice president-elect?,The candidate who won the presidential election,The candidate who won the presidential election.,False,True,1.0,True,True,True,True,"```json
+{""answerable"": ""yes"", ""answer_correct"": ""yes"", ""self_contained"": ""yes"", ""unambiguous"": ""yes""}
+```"
+9201bdd10102,wiki,wiki-proximal,2917,How many inhabitants live inside the city limits?,"176,000 inhabitants","Around 176,000 inhabitants with second homes.",False,True,0.6,True,True,True,True,"```json
+{""answerable"": ""yes"", ""answer_correct"": ""yes"", ""self_contained"": ""yes"", ""unambiguous"": ""yes""}
+```"
+e374e8220107,wiki,wiki-proximal,260848,What did behaviorists deny the importance of?,heredity,"inherited behaviors, instincts, or inherited tendency.",False,False,0.0,True,False,True,True,"```json
+{""answerable"": ""yes"", ""answer_correct"": ""no"", ""self_contained"": ""yes"", ""unambiguous"": ""yes""}
+```"
+d8b5542d35ab,wiki,wiki-proximal,4022,What years span the second millennium?,years 1001 to 2000,years 1001 to 2000,False,True,1.0,True,True,True,True,"```json
+{""answerable"": ""yes"", ""answer_correct"": ""yes"", ""self_contained"": ""yes"", ""unambiguous"": ""yes""}
+```"
+32ec89f81762,wiki,wiki-proximal,25195,What is the Irish term for cowboy?,buachaill bó,“buachaill bó”,False,True,1.0,True,True,True,True,"```json
+{""answerable"": ""yes"", ""answer_correct"": ""yes"", ""self_contained"": ""yes"", ""unambiguous"": ""yes""}
+```"
+fbdcc618ed47,wiki,wiki-proximal,69799,Which movement did some people start?,postmodern architecture,postmodern architecture movement.,False,True,0.8,True,True,True,True,"```json
+{""answerable"": ""yes"", ""answer_correct"": ""yes"", ""self_contained"": ""yes"", ""unambiguous"": ""yes""}
+```"
+25fc7d42673c,wiki,wiki-proximal,12819,What point of view did Cayce use?,first person plural,First person plural – 'we' – point of view.,False,True,0.6,True,True,True,True,"```json
+{""answerable"": ""yes"", ""answer_correct"": ""yes"", ""self_contained"": ""yes"", ""unambiguous"": ""yes""}
+```"
+b58f07801910,wiki,wiki-proximal,15210,What was the original Latin word?,axe surrounded by a bundle of sticks,UNANSWERABLE,True,False,0.0,True,True,True,True,"```json
+{""answerable"": ""yes"", ""answer_correct"": ""yes"", ""self_contained"": ""yes"", ""unambiguous"": ""yes""}
+```"
+3cbe77b22f2e,wiki,wiki-proximal,284062,Which artist did Kelly collaborate with?,Celine Dion,Celine Dion,False,True,1.0,True,True,True,True,"```json
+{""answerable"": ""yes"", ""answer_correct"": ""yes"", ""self_contained"": ""yes"", ""unambiguous"": ""yes""}
+```"
+8ad8e4a96274,wiki,wiki-proximal,1098525,How many migrants are in the GCC?,over 30 million,Over 30 million migrants.,False,True,0.8571428571428571,True,True,True,True,"```json
+{""answerable"": ""yes"", ""answer_correct"": ""yes"", ""self_contained"": ""yes"", ""unambiguous"": ""yes""}
+```"
+3a7157002320,wiki,wiki-proximal,17422,What is mostly made of matter?,almost everything we see,almost everything we see is made of matter.,False,True,0.6666666666666666,True,True,True,True,"```json
+{""answerable"": ""yes"", ""answer_correct"": ""yes"", ""self_contained"": ""yes"", ""unambiguous"": ""yes""}
+```"
+f7ec91d54728,wiki,wiki-proximal,21991,What do the ribosomes attached to the rough ER make?,Proteins,proteins made by the ribosomes,False,True,0.33333333333333337,True,True,True,True,"```json
+{""answerable"": ""yes"", ""answer_correct"": ""yes"", ""self_contained"": ""yes"", ""unambiguous"": ""yes""}
+```"
+8b111d79f87b,wiki,wiki-proximal,897,What is the official language of Vatican City?,Italian,Italian is the only official language.,False,True,0.2857142857142857,True,True,True,True,"```json
+{""answerable"": ""yes"", ""answer_correct"": ""yes"", ""self_contained"": ""yes"", ""unambiguous"": ""yes""}
+```"
+be6a8d50bdee,wiki,wiki-proximal,81927,Who did John Kricfalusi fight with?,his friends at Nickelodeon,his friends at Nickelodeon,False,True,1.0,True,True,True,True,"```json
+{""answerable"": ""yes"", ""answer_correct"": ""yes"", ""self_contained"": ""yes"", ""unambiguous"": ""yes""}
+```"
+aebdf0abaa80,wiki,wiki-proximal,284339,Which kingdom was seized in 1856?,kingdom of Agra and Oudh,the kingdom of Agra and Oudh.,False,True,0.9090909090909091,True,True,True,True,"```json
+{""answerable"": ""yes"", ""answer_correct"": ""yes"", ""self_contained"": ""yes"", ""unambiguous"": ""yes""}
+```"
+0d7deeb6559f,wiki,wiki-proximal,3309,Who is a Queen Consort?,Camilla,"a queen married to one, such as a King.",False,False,0.0,True,True,True,True,"```json
+{""answerable"": ""yes"", ""answer_correct"": ""yes"", ""self_contained"": ""yes"", ""unambiguous"": ""yes""}
+```"
+bfb1b2ba11a6,wiki,wiki-proximal,518810,Which religious text did the Ikhwan appeal to besides the Qur'an?,Torah (Tawrat),Torah (Tawrat) and the Gospel (Injil),False,True,0.5,True,True,True,True,"```json
+{""answerable"": ""yes"", ""answer_correct"": ""yes"", ""self_contained"": ""yes"", ""unambiguous"": ""yes""}
+```"
+210f5bd4cc96,wiki,wiki-proximal,839771,How many episodes are in Part 1?,13 episodes,Thirteen episodes,False,True,0.5,True,True,True,True,"```json
+{""answerable"": ""yes"", ""answer_correct"": ""yes"", ""self_contained"": ""yes"", ""unambiguous"": ""yes""}
+```"
+646b13cf7078,wiki,wiki-proximal,565721,What is Nanotyrannus considered to be?,a juvenile of Tyrannosaurus rex,juvenile of Tyrannosaurus rex or similar genus.,False,True,0.6666666666666666,True,True,True,True,"```json
+{""answerable"": ""yes"", ""answer_correct"": ""yes"", ""self_contained"": ""yes"", ""unambiguous"": ""yes""}
+```"
+8436ee8e417d,wiki,wiki-proximal,15986,Where did Hermione meet Harry and Ron?,Hogwarts Express,on the Hogwarts Express.,False,True,0.6666666666666666,True,True,True,True,"```json
+{""answerable"": ""yes"", ""answer_correct"": ""yes"", ""self_contained"": ""yes"", ""unambiguous"": ""yes""}
+```"
+6c46ab7f7a6c,wiki,wiki-proximal,129317,What did scientists use to look for the Higgs Boson?,the Tevatron,the Tevatron,False,True,1.0,True,True,True,True,"```json
+{""answerable"": ""yes"", ""answer_correct"": ""yes"", ""self_contained"": ""yes"", ""unambiguous"": ""yes""}
+```"
+e6e6e7866610,wiki,wiki-proximal,66619,What causes similar structures to be coded by different genes?,convergent evolution,convergent evolution,False,True,1.0,True,True,True,True,"```json
+{""answerable"": ""yes"", ""answer_correct"": ""yes"", ""self_contained"": ""yes"", ""unambiguous"": ""yes""}
+```"
+ca11ed14bfdc,wiki,wiki-proximal,98969,What happens to sea snakes on land?,Unable to move,"Unable to move, unable to slither.",False,True,0.6666666666666666,True,True,True,True,"```json
+{""answerable"": ""yes"", ""answer_correct"": ""yes"", ""self_contained"": ""yes"", ""unambiguous"": ""yes""}
+```"
+08e2a8b140dc,wiki,wiki-proximal,69825,What album did N-Dubz release?,four albums,"four albums, including a greatest hits album.",False,True,0.4444444444444445,True,True,True,True,"```json
+{""answerable"": ""yes"", ""answer_correct"": ""yes"", ""self_contained"": ""yes"", ""unambiguous"": ""yes""}
+```"
+6ba586baffe4,wiki,wiki-proximal,410551,Which body appointed Neville Bonner?,Queensland Parliament,Queensland Parliament,False,True,1.0,True,True,True,True,"```json
+{""answerable"": ""yes"", ""answer_correct"": ""yes"", ""self_contained"": ""yes"", ""unambiguous"": ""yes""}
+```"
+322bf0091ad8,wiki,wiki-proximal,41153,What does ATP help muscles do?,contract so you can move,helps muscles contract so you can move.,False,True,0.8333333333333333,True,True,True,True,"```json
+{""answerable"": ""yes"", ""answer_correct"": ""yes"", ""self_contained"": ""yes"", ""unambiguous"": ""yes""}
+```"
+83fc72a954e6,wiki,wiki-proximal,334964,What is the feature of the observation areas?,underwater viewing,"underwater viewing, across from a moat.",False,True,0.5,True,True,True,True,"```json
+{""answerable"": ""yes"", ""answer_correct"": ""yes"", ""self_contained"": ""yes"", ""unambiguous"": ""yes""}
+```"
+bc0c01774a3a,wiki,wiki-proximal,613952,Which problem was shown to be unsolvable?,Hilbert's tenth problem,Hilbert's tenth problem is unsolvable.,False,True,0.8,True,True,True,True,"```json
+{""answerable"": ""yes"", ""answer_correct"": ""yes"", ""self_contained"": ""yes"", ""unambiguous"": ""yes""}
+```"
+47bfbb7e740e,wiki,wiki-proximal,311343,Which artist is featured on the album?,Natti Natasha,"Natti Natasha, Milka and Zion Y Lennox.",False,True,0.4444444444444445,True,True,True,True,"```json
+{""answerable"": ""yes"", ""answer_correct"": ""yes"", ""self_contained"": ""yes"", ""unambiguous"": ""yes""}
+```"
+090607b157c9,wiki,wiki-proximal,175026,What is the Boohball?,glowing white ball,a glowing white ball,False,True,0.8571428571428571,True,True,True,True,"```json
+{""answerable"": ""yes"", ""answer_correct"": ""yes"", ""self_contained"": ""yes"", ""unambiguous"": ""yes""}
+```"
+f33d6191fd1c,wiki,wiki-proximal,69227,Which two countries fought in one conflict?,Great Britain and France,Great Britain and France.,False,True,1.0,True,True,True,True,"```json
+{""answerable"": ""yes"", ""answer_correct"": ""yes"", ""self_contained"": ""yes"", ""unambiguous"": ""yes""}
+```"
+740cd73fb852,wiki,wiki-proximal,102275,What was the Neanderthal hyoid similar to?,human hyoids,very similar to human hyoids.,False,True,0.5714285714285715,True,True,True,True,"```json
+{""answerable"": ""yes"", ""answer_correct"": ""yes"", ""self_contained"": ""yes"", ""unambiguous"": ""yes""}
+```"
+30f41a0377b6,wiki,wiki-proximal,1166932,What myth did IHR promote?,Nazi Germany actively supported Zionism,“Nazi Germany actively supported Zionism”,False,True,1.0,True,True,True,True,"```json
+{""answerable"": ""yes"", ""answer_correct"": ""yes"", ""self_contained"": ""yes"", ""unambiguous"": ""yes""}
+```"
+ad069d502a68,wiki,wiki-proximal,170259,What are the communities called on Reddit?,subreddits,"subreddits, communities within which discussions take place.",False,True,0.25,True,True,True,True,"```json
+{""answerable"": ""yes"", ""answer_correct"": ""yes"", ""self_contained"": ""yes"", ""unambiguous"": ""yes""}
+```"
+14bb1f488424,wiki,wiki-proximal,379272,What did Lowe say about Bland?,such an important institution,Had been a convict and killed a man.,False,False,0.0,True,False,True,True,"```json
+{""answerable"": ""yes"", ""answer_correct"": ""no"", ""self_contained"": ""yes"", ""unambiguous"": ""yes""}
+```"
+90ad0d8b98dd,wiki,wiki-proximal,193427,Which mission achieved the Moon landing?,Apollo 11,Apollo 11,False,True,1.0,True,True,True,True,"```json
+{""answerable"": ""yes"", ""answer_correct"": ""yes"", ""self_contained"": ""yes"", ""unambiguous"": ""yes""}
+```"
+c396c4bcb7a4,wiki,wiki-proximal,53325,How many German prisoners were taken?,"3,500 German prisoners","3,500 German prisoners.",False,True,1.0,True,True,True,True,"```json
+{""answerable"": ""yes"", ""answer_correct"": ""yes"", ""self_contained"": ""yes"", ""unambiguous"": ""yes""}
+```"
+ed6f5aa60247,wiki,wiki-proximal,285299,What caused his addiction?,The painkillers he was prescribed,Painkillers he was prescribed led to addiction.,False,True,0.6666666666666666,True,True,True,True,"```json
+{""answerable"": ""yes"", ""answer_correct"": ""yes"", ""self_contained"": ""yes"", ""unambiguous"": ""yes""}
+```"
+d2982f7ba52b,wiki,wiki-proximal,165979,Who is the sixth member of the Board?,one other respected professional,Superintendent of the Division of City Schools-Manila.,False,False,0.0,True,True,True,True,"```json
+{""answerable"": ""yes"", ""answer_correct"": ""yes"", ""self_contained"": ""yes"", ""unambiguous"": ""yes""}
+```"
+c95140f68891,wiki,wiki-proximal,6717,What can Tony do while wearing the suit?,"fly, shoot beams of energy","fly, shoot beams, hack, cut through material.",False,True,0.5,True,True,True,True,"```json
+{""answerable"": ""yes"", ""answer_correct"": ""yes"", ""self_contained"": ""yes"", ""unambiguous"": ""yes""}
+```"
+f8ded7c5afd4,wiki,wiki-proximal,646,Who created Parkesine?,Alexander Parkes,"Alexander Parkes, an English inventor.",False,True,0.5714285714285715,True,True,True,True,"```json
+{""answerable"": ""yes"", ""answer_correct"": ""yes"", ""self_contained"": ""yes"", ""unambiguous"": ""yes""}
+```"
+9e0e26766ac7,wiki,wiki-proximal,41016,What is the origin of the name K2?,The first survey of the Karakoram range,first survey of the Karakoram range.,False,True,0.923076923076923,True,True,True,True,"```json
+{""answerable"": ""yes"", ""answer_correct"": ""yes"", ""self_contained"": ""yes"", ""unambiguous"": ""yes""}
+```"
+13afe14b4d29,wiki,wiki-proximal,4653,Who commissioned Michelangelo for the snow statue?,Piero de Medici,Piero de Medici commissioned Michelangelo.,False,True,0.7499999999999999,True,True,True,True,"```json
+{""answerable"": ""yes"", ""answer_correct"": ""yes"", ""self_contained"": ""yes"", ""unambiguous"": ""yes""}
+```"
+bf20d90026c8,wiki,wiki-proximal,43000,What is doped silicon used for?,most semiconductors,the basis for most semiconductors.,False,True,0.5714285714285715,True,True,True,True,"```json
+{""answerable"": ""yes"", ""answer_correct"": ""yes"", ""self_contained"": ""yes"", ""unambiguous"": ""yes""}
+```"
+555f3fab652f,wiki,wiki-proximal,28036,What is directly proportional to applied force?,rate of change of momentum,rate of change of momentum,False,True,1.0,True,True,True,True,"```json
+{""answerable"": ""yes"", ""answer_correct"": ""yes"", ""self_contained"": ""yes"", ""unambiguous"": ""yes""}
+```"
+f52113bed77d,wiki,wiki-proximal,24365,What have many more cougars been killed by?,humans,humans.,False,True,1.0,True,True,True,True,"```json
+{""answerable"": ""yes"", ""answer_correct"": ""yes"", ""self_contained"": ""yes"", ""unambiguous"": ""yes""}
+```"
+7320ea65949a,wiki,wiki-proximal,6240,What is San Marino known for?,one of the smallest countries,one of the smallest countries in the world.,False,True,0.7692307692307693,True,True,True,True,"```json
+{""answerable"": ""yes"", ""answer_correct"": ""yes"", ""self_contained"": ""yes"", ""unambiguous"": ""yes""}
+```"
+926652619bde,wiki,wiki-proximal,43746,Which rivers flowed through Mesopotamia?,Euphrates and Tigris,Euphrates and Tigris rivers flowing through the region.,False,True,0.5454545454545454,True,True,True,True,"```json
+{""answerable"": ""yes"", ""answer_correct"": ""yes"", ""self_contained"": ""yes"", ""unambiguous"": ""yes""}
+```"
+8acf0c353b15,wiki,wiki-proximal,143263,Which bill increased safety for women and children?,Zainab Alert Bill,Zainab Alert Bill,False,True,1.0,True,True,True,True,"```json
+{""answerable"": ""yes"", ""answer_correct"": ""yes"", ""self_contained"": ""yes"", ""unambiguous"": ""yes""}
+```"
+8eb121e369dd,wiki,wiki-proximal,402,What day does July finish on in leap years?,May of the previous year,May of the previous year.,False,True,1.0,True,True,True,True,"```json
+{""answerable"": ""yes"", ""answer_correct"": ""yes"", ""self_contained"": ""yes"", ""unambiguous"": ""yes""}
+```"
+373b84141996,wiki,wiki-other,48144,Who charged the Scottish schiltron?,Sir Thomas,Sir Thomas and several other knights.,False,True,0.5,True,True,True,True,"```json
+{""answerable"": ""yes"", ""answer_correct"": ""yes"", ""self_contained"": ""yes"", ""unambiguous"": ""yes""}
+```"
+7a8bee2b2b81,wiki,wiki-other,1280932,What symptom is common in menopause?,Hot flashes,Hot flash is a common symptom.,False,False,0.25,True,True,True,True,"```json
+{""answerable"": ""yes"", ""answer_correct"": ""yes"", ""self_contained"": ""yes"", ""unambiguous"": ""yes""}
+```"
+133683bf14c3,wiki,wiki-other,35987,What were the B-sides titled?,Flip and Nitty,“Flip and Nitty”,False,True,1.0,True,True,True,True,"```json
+{""answerable"": ""yes"", ""answer_correct"": ""yes"", ""self_contained"": ""yes"", ""unambiguous"": ""yes""}
+```"
+09f40a724078,wiki,wiki-other,823540,Which shrines were absorbed into Hinduism?,"Chingyai, Kharong, Isingchaibi, Nungpak Khul, Chingoi","Chingyai, Kharong, Isingchaibi, Nungpak Khul, Chingoi, etc.",False,True,0.923076923076923,True,True,True,True,"```json
+{""answerable"": ""yes"", ""answer_correct"": ""yes"", ""self_contained"": ""yes"", ""unambiguous"": ""yes""}
+```"
+2897e70e1b12,wiki,wiki-other,1077416,Which network acquired the series?,Cartoon Network,Cartoon Network had acquired the U.S.-broadcast rights.,False,True,0.3636363636363636,True,True,True,True,"```json
+{""answerable"": ""yes"", ""answer_correct"": ""yes"", ""self_contained"": ""yes"", ""unambiguous"": ""yes""}
+```"
+76cefada0dcb,wiki,wiki-other,215998,Which nicknames are more common?,Unfavorable nicknames,Unfavorable nicknames are more common.,False,True,0.5714285714285715,True,True,True,True,"```json
+{""answerable"": ""yes"", ""answer_correct"": ""yes"", ""self_contained"": ""yes"", ""unambiguous"": ""yes""}
+```"
+7a61c357b49c,wiki,wiki-other,14029,What is a tampon made of?,absorbent material,absorbent material,False,True,1.0,True,True,True,True,"```json
+{""answerable"": ""yes"", ""answer_correct"": ""yes"", ""self_contained"": ""yes"", ""unambiguous"": ""yes""}
+```"
+5bdd005c6f3e,wiki,wiki-other,6329,What do isotherm maps show?,how temperature is different,how temperature is different across an area.,False,True,0.7272727272727273,True,True,True,True,"```json
+{""answerable"": ""yes"", ""answer_correct"": ""yes"", ""self_contained"": ""yes"", ""unambiguous"": ""yes""}
+```"
+464b88beaaae,wiki,wiki-other,4700,What is an aircraft defined as?,a machine that can fly,a machine that can fly.,False,True,1.0,True,True,True,True,"```json
+{""answerable"": ""yes"", ""answer_correct"": ""yes"", ""self_contained"": ""yes"", ""unambiguous"": ""yes""}
+```"
+6046286168b1,wiki,wiki-other,1161972,Which book documented the genocide?,Cambodge Année Zéro,Cambodge Année Zéro (Cambodia: Year Zero),False,True,0.6666666666666666,True,True,True,True,"```json
+{""answerable"": ""yes"", ""answer_correct"": ""yes"", ""self_contained"": ""yes"", ""unambiguous"": ""yes""}
+```"
+2a858fa19905,wiki,wiki-other,2900,What are natural satellites called?,Moons,Moons are natural satellites.,False,True,0.4,True,True,True,True,"```json
+{""answerable"": ""yes"", ""answer_correct"": ""yes"", ""self_contained"": ""yes"", ""unambiguous"": ""yes""}
+```"
+bd24fd289519,wiki,wiki-other,5237,What is her full name?,Angelina Jolie Voight,Angelina Jolie Voight,False,True,1.0,True,True,True,True,"```json
+{""answerable"": ""yes"", ""answer_correct"": ""yes"", ""self_contained"": ""yes"", ""unambiguous"": ""yes""}
+```"
+f9567b99f200,wiki,wiki-other,2817,Which subject defines a hedge as an investment?,finance,"In finance, a hedge is an investment.",False,True,0.25,True,True,True,True,"```json
+{""answerable"": ""yes"", ""answer_correct"": ""yes"", ""self_contained"": ""yes"", ""unambiguous"": ""yes""}
+```"
+b40156ef3b8e,wiki,wiki-other,456766,What are the names of Pence's children?,"Michael, Charlotte, and Audrey","Michael, Charlotte, and Audrey.",False,True,1.0,True,True,True,True,"```json
+{""answerable"": ""yes"", ""answer_correct"": ""yes"", ""self_contained"": ""yes"", ""unambiguous"": ""yes""}
+```"
+9d1e2f1d9899,wiki,wiki-other,187,What is imitating the act of sex meant to achieve?,achieve fertility,achieve fertility.,False,True,1.0,True,True,True,True,"```json
+{""answerable"": ""yes"", ""answer_correct"": ""yes"", ""self_contained"": ""yes"", ""unambiguous"": ""yes""}
+```"
+3c8807253542,wiki,wiki-other,10328,Which college focuses on classical music?,Clara und Robert Schumann Musikschule,Clara und Robert Schumann Musikschule,False,True,1.0,True,True,True,True,"```json
+{""answerable"": ""yes"", ""answer_correct"": ""yes"", ""self_contained"": ""yes"", ""unambiguous"": ""yes""}
+```"
+65ac051f76d7,wiki,wiki-other,850193,What percentage of computers could not upgrade to Windows 11?,more than 60 percent,more than 60 percent of computers,False,True,0.8,True,True,True,True,"```json
+{""answerable"": ""yes"", ""answer_correct"": ""yes"", ""self_contained"": ""yes"", ""unambiguous"": ""yes""}
+```"
+f295ab7ea338,wiki,wiki-other,572797,What storage does the OLED model have?,64 GB of storage,64 GB of storage.,False,True,1.0,True,True,True,True,"```json
+{""answerable"": ""yes"", ""answer_correct"": ""yes"", ""self_contained"": ""yes"", ""unambiguous"": ""yes""}
+```"
+4954cd0445e6,wiki,wiki-other,234589,When did chess spread throughout Europe?,By the year 1000,By the year 1000 it had spread.,False,True,0.7272727272727273,True,True,True,True,"```json
+{""answerable"": ""yes"", ""answer_correct"": ""yes"", ""self_contained"": ""yes"", ""unambiguous"": ""yes""}
+```"
+a1da23ff93c4,wiki,wiki-other,524,What was the Arab plan's design like?,very simple,"very simple, did not allow development.",False,True,0.5,True,True,True,True,"```json
+{""answerable"": ""yes"", ""answer_correct"": ""yes"", ""self_contained"": ""yes"", ""unambiguous"": ""yes""}
+```"
+bd78d06be876,wiki,wiki-other,789,What do we use to describe each measurement?,one or more numbers,one or more numbers,False,True,1.0,True,True,True,True,"```json
+{""answerable"": ""yes"", ""answer_correct"": ""yes"", ""self_contained"": ""yes"", ""unambiguous"": ""yes""}
+```"
+808de8f3064e,wiki,wiki-other,121,What is the people of a country called?,a nation,The people that live in a nation.,False,True,0.4444444444444445,True,True,True,True,"```json
+{""answerable"": ""yes"", ""answer_correct"": ""yes"", ""self_contained"": ""yes"", ""unambiguous"": ""yes""}
+```"
+b18fb2f49327,wiki,wiki-other,206439,When were most solar panels created?,1980's,in the 1980's,False,True,0.6666666666666666,True,True,True,True,"```json
+{""answerable"": ""yes"", ""answer_correct"": ""yes"", ""self_contained"": ""yes"", ""unambiguous"": ""yes""}
+```"
+57cdaac5066c,wiki,wiki-other,29350,Which empire conquered Central Asia?,Russian Empire,Russian Empire conquered these lands.,False,True,0.5714285714285715,True,True,True,True,"```json
+{""answerable"": ""yes"", ""answer_correct"": ""yes"", ""self_contained"": ""yes"", ""unambiguous"": ""yes""}
+```"
+649a980e2dab,wiki,wiki-other,3495,What do elephants find hard to understand?,Their ways of acting,people’s ways of acting toward elephants.,False,True,0.5454545454545454,True,False,True,True,"```json
+{""answerable"": ""yes"", ""answer_correct"": ""no"", ""self_contained"": ""yes"", ""unambiguous"": ""yes""}
+```"
+ebee699d6ea4,wiki,wiki-other,328587,What decides the final winner?,public vote,the public vote for the winner.,False,True,0.5,True,True,True,True,"```json
+{""answerable"": ""yes"", ""answer_correct"": ""yes"", ""self_contained"": ""yes"", ""unambiguous"": ""yes""}
+```"
+246f6ff440e5,wiki,wiki-other,32253,What do they make the enemy believe?,they are in one place,they are in one place.,False,True,1.0,True,True,True,True,"```json
+{""answerable"": ""yes"", ""answer_correct"": ""yes"", ""self_contained"": ""yes"", ""unambiguous"": ""yes""}
+```"
+666f8b72a650,wiki,wiki-other,3461,How many plant species are there?,over 3250 species,over 3250 species.,False,True,1.0,True,True,True,True,"```json
+{""answerable"": ""yes"", ""answer_correct"": ""yes"", ""self_contained"": ""yes"", ""unambiguous"": ""yes""}
+```"
+b8e3e8df777b,wiki,wiki-other,5074,Who selects the Taoiseach?,The parliament,The parliament.,False,True,1.0,True,True,True,True,"```json
+{""answerable"": ""yes"", ""answer_correct"": ""yes"", ""self_contained"": ""yes"", ""unambiguous"": ""yes""}
+```"
+7d413dd410fd,wiki,wiki-other,812585,How long is each episode?,20 minutes long,about 20 minutes long plus the theme song.,False,True,0.5454545454545454,True,True,True,True,"```json
+{""answerable"": ""yes"", ""answer_correct"": ""yes"", ""self_contained"": ""yes"", ""unambiguous"": ""yes""}
+```"
+4d288dab61a5,wiki,wiki-other,234134,Which layer introduces the client/server concept?,This is the first layer,the first layer where a client/server concept.,False,False,0.4615384615384615,True,True,False,True,"```json
+{""answerable"": ""yes"", ""answer_correct"": ""yes"", ""self_contained"": ""no"", ""unambiguous"": ""yes""}
+```"
+31db58932419,wiki,wiki-other,535761,What is a precedent?,A rule or law,a rule or law followed in the future.,False,True,0.6666666666666666,True,True,True,True,"```json
+{""answerable"": ""yes"", ""answer_correct"": ""yes"", ""self_contained"": ""yes"", ""unambiguous"": ""yes""}
+```"
+f18cd2b44f62,wiki,wiki-other,885027,Who was the sculptor mentioned?,Gottfried Schadow,Gottfried Schadow (d. 1850).,False,True,0.6666666666666666,True,True,True,True,"```json
+{""answerable"": ""yes"", ""answer_correct"": ""yes"", ""self_contained"": ""yes"", ""unambiguous"": ""yes""}
+```"
+8850a6f6d838,wiki,wiki-other,896,What are the two higher areas called?,continents,Ishtar Terra and Aphrodite Terra.,False,False,0.0,True,True,True,True,"```json
+{""answerable"": ""yes"", ""answer_correct"": ""yes"", ""self_contained"": ""yes"", ""unambiguous"": ""yes""}
+```"
+fc0730cc7be3,wiki,wiki-other,56579,What was carefully planned by the artists and priests?,The order of the pictures,The order of the pictures.,False,True,1.0,True,True,True,True,"```json
+{""answerable"": ""yes"", ""answer_correct"": ""yes"", ""self_contained"": ""yes"", ""unambiguous"": ""yes""}
+```"
+04c4b987a655,wiki,wiki-other,61683,Where did the idiom originate?,America,America in the early 20th century.,False,True,0.2857142857142857,True,True,True,True,"```json
+{""answerable"": ""yes"", ""answer_correct"": ""yes"", ""self_contained"": ""yes"", ""unambiguous"": ""yes""}
+```"
+c77f84316d45,wiki,wiki-other,827374,What is the new approach called?,an entirely new approach,an entirely new approach to Thomas & Friends content,False,True,0.6666666666666666,True,True,True,True,"```json
+{""answerable"": ""yes"", ""answer_correct"": ""yes"", ""self_contained"": ""yes"", ""unambiguous"": ""yes""}
+```"
+98e0d8a276f6,wiki,wiki-other,55648,What did Hans Sloane find better with milk?,chocolate,Chocolate.,False,True,1.0,True,True,True,True,"```json
+{""answerable"": ""yes"", ""answer_correct"": ""yes"", ""self_contained"": ""yes"", ""unambiguous"": ""yes""}
+```"
+256feb43f886,wiki,wiki-other,5843,How many syllables does meenemen have?,three syllables,three syllables: mee|ne|men.,False,True,0.5714285714285715,True,True,True,True,"```json
+{""answerable"": ""yes"", ""answer_correct"": ""yes"", ""self_contained"": ""yes"", ""unambiguous"": ""yes""}
+```"
+83ff1a0b63b9,wiki,wiki-other,552691,Where can notable deaths before August be found?,Months,“Months”,False,True,1.0,True,True,True,True,"```json
+{""answerable"": ""yes"", ""answer_correct"": ""yes"", ""self_contained"": ""yes"", ""unambiguous"": ""yes""}
+```"
+ecb7b71813f6,wiki,wiki-other,1158199,Which Inquisition was founded in 1478?,Spanish Inquisition,The Spanish Inquisition was founded in 1478.,False,True,0.4444444444444445,True,True,True,True,"```json
+{""answerable"": ""yes"", ""answer_correct"": ""yes"", ""self_contained"": ""yes"", ""unambiguous"": ""yes""}
+```"
+b32cbcf9824e,wiki,wiki-other,725839,What did Finland not want NATO to do?,build nuclear weapon bases,build nuclear weapon bases on its territory.,False,True,0.7272727272727273,True,True,True,True,"```json
+{""answerable"": ""yes"", ""answer_correct"": ""yes"", ""self_contained"": ""yes"", ""unambiguous"": ""yes""}
+```"
+fb06301238b8,wiki,wiki-other,472,What can someone create with an instrument?,a piece that tells a story,a piece that tells a story,False,True,1.0,True,True,True,True,"```json
+{""answerable"": ""yes"", ""answer_correct"": ""yes"", ""self_contained"": ""yes"", ""unambiguous"": ""yes""}
+```"
+fe53a74c4d8d,wiki,wiki-other,823540,What is the deity's new name?,Sovereign of the East,Nongpok Ningthou (lit. Sovereign of the East).,False,True,0.7272727272727273,True,False,True,True,"```json
+{""answerable"": ""yes"", ""answer_correct"": ""no"", ""self_contained"": ""yes"", ""unambiguous"": ""yes""}
+```"
+aaa4079b0660,wiki,wiki-other,112,What was the problem with the process?,It was expensive,"It was expensive, and reports took a long time.",False,True,0.5,True,True,True,True,"```json
+{""answerable"": ""yes"", ""answer_correct"": ""yes"", ""self_contained"": ""yes"", ""unambiguous"": ""yes""}
+```"
+1495617c9b18,wiki,wiki-other,64445,What does this training let people experience?,zero gravity,zero gravity for a very short time.,False,True,0.4444444444444445,True,True,False,True,"```json
+{""answerable"": ""yes"", ""answer_correct"": ""yes"", ""self_contained"": ""no"", ""unambiguous"": ""yes""}
+```"
+7d584e40bf52,wiki,wiki-other,74279,Who was Bunyan?,Reformed Baptist,A Reformed Baptist.,False,True,0.8,True,True,True,True,"```json
+{""answerable"": ""yes"", ""answer_correct"": ""yes"", ""self_contained"": ""yes"", ""unambiguous"": ""yes""}
+```"
+4bbbf1ab9015,wiki,wiki-other,2901,What does not change?,the amount of matter in an object,the amount of matter in an object.,False,True,1.0,True,True,True,True,"```json
+{""answerable"": ""yes"", ""answer_correct"": ""yes"", ""self_contained"": ""yes"", ""unambiguous"": ""yes""}
+```"
+94d63de057a9,wiki,wiki-other,694092,Where can notable deaths before November be found?,Months,“Months”,False,True,1.0,True,True,True,True,"```json
+{""answerable"": ""yes"", ""answer_correct"": ""yes"", ""self_contained"": ""yes"", ""unambiguous"": ""yes""}
+```"
+db2f70c2d3ca,wiki,wiki-other,37960,Who changed Emily Dickinson's poems?,The first people,The first people to print those poems.,False,True,0.6,True,True,True,True,"```json
+{""answerable"": ""yes"", ""answer_correct"": ""yes"", ""self_contained"": ""yes"", ""unambiguous"": ""yes""}
+```"
+55e47e4d62da,k8s,k8s,content/en/docs/tasks/configure-pod-container/quality-service-pod.md,What is the memory limit for the container?,200 MiB,200 MiB.,False,True,1.0,True,True,True,True,"```json
+{""answerable"": ""yes"", ""answer_correct"": ""yes"", ""self_contained"": ""yes"", ""unambiguous"": ""yes""}
+```"
+facc9f60b5d3,k8s,k8s,content/en/docs/reference/kubectl/kubectl.md,What is the time unit for non-zero values?,"1s, 2m, 3h","e.g. 1s, 2m, 3h.",False,True,0.7499999999999999,True,True,True,True,"```json
+{""answerable"": ""yes"", ""answer_correct"": ""yes"", ""self_contained"": ""yes"", ""unambiguous"": ""yes""}
+```"
+a0d7ee9d3d79,k8s,k8s,content/en/docs/reference/setup-tools/kubeadm/generated/kubeadm_init/_index.md,What is an example of the argument?,"IsPrivilegedUser,Swap","'IsPrivilegedUser,Swap'",False,True,1.0,True,True,True,True,"```json
+{""answerable"": ""yes"", ""answer_correct"": ""yes"", ""self_contained"": ""yes"", ""unambiguous"": ""yes""}
+```"
+b3d575cc24c4,k8s,k8s,content/en/docs/reference/access-authn-authz/authorization.md,What happens if all modules have no opinion?,the request is denied,the request is denied.,False,True,1.0,True,True,True,True,"```json
+{""answerable"": ""yes"", ""answer_correct"": ""yes"", ""self_contained"": ""yes"", ""unambiguous"": ""yes""}
+```"
+640da4f69d07,k8s,k8s,content/en/docs/concepts/containers/container-lifecycle-hooks.md,What event is triggered for PostStart?,FailedPostStartHook,`FailedPostStartHook` event,False,True,0.6666666666666666,True,True,True,True,"```json
+{""answerable"": ""yes"", ""answer_correct"": ""yes"", ""self_contained"": ""yes"", ""unambiguous"": ""yes""}
+```"
+87877e5ee786,k8s,k8s,content/en/docs/reference/access-authn-authz/extensible-admission-controllers.md,Where are labels checked for a namespace?,object.metadata.labels,object.metadata.labels.,False,True,1.0,True,True,True,True,"```json
+{""answerable"": ""yes"", ""answer_correct"": ""yes"", ""self_contained"": ""yes"", ""unambiguous"": ""yes""}
+```"
+cffd9486f0ca,k8s,k8s,content/en/docs/tasks/access-application-cluster/access-cluster.md,What does kubectl use to access the server?,stored root certificate and client certificates,root certificate and client certificates,False,True,0.9090909090909091,True,True,True,True,"```json
+{""answerable"": ""yes"", ""answer_correct"": ""yes"", ""self_contained"": ""yes"", ""unambiguous"": ""yes""}
+```"
+917b312ba47b,k8s,k8s,content/en/docs/tasks/debug/debug-application/debug-service.md,What is the Namespace mentioned?,default,The “default” is the Namespace you’re operating in.,False,True,0.19999999999999998,True,True,True,True,"```json
+{""answerable"": ""yes"", ""answer_correct"": ""yes"", ""self_contained"": ""yes"", ""unambiguous"": ""yes""}
+```"
+f8c91ab80408,k8s,k8s,content/en/docs/reference/access-authn-authz/authorization.md,What should be avoided?,Adding users,Adding users to this group.,False,True,0.5714285714285715,True,True,True,True,"```json
+{""answerable"": ""yes"", ""answer_correct"": ""yes"", ""self_contained"": ""yes"", ""unambiguous"": ""yes""}
+```"
+0971491758c1,k8s,k8s,content/en/docs/reference/command-line-tools-reference/kube-apiserver.md,What happens if the flag is false?,server would fail to start,server would fail to start.,False,True,1.0,True,True,True,True,"```json
+{""answerable"": ""yes"", ""answer_correct"": ""yes"", ""self_contained"": ""yes"", ""unambiguous"": ""yes""}
+```"
+d24ae1187a7b,k8s,k8s,content/en/docs/tasks/configure-pod-container/configure-volume-storage.md,What type of Volume does the Pod have?,emptyDir,Volume of type [emptyDir],False,True,0.4,True,True,True,True,"```json
+{""answerable"": ""yes"", ""answer_correct"": ""yes"", ""self_contained"": ""yes"", ""unambiguous"": ""yes""}
+```"
+5c77e39a9e4a,k8s,k8s,content/en/docs/concepts/cluster-administration/networking.md,What requires ensuring ports are not shared?,sharing machines,sharing machines among applications.,False,True,0.6666666666666666,True,True,True,True,"```json
+{""answerable"": ""yes"", ""answer_correct"": ""yes"", ""self_contained"": ""yes"", ""unambiguous"": ""yes""}
+```"
+a400cce90d16,k8s,k8s,content/en/docs/contribute/generate-ref-docs/kubernetes-api.md,What should you do after submitting changes?,Monitor your pull request,"Monitor your pull request, and respond.",False,True,0.8,True,True,True,True,"```json
+{""answerable"": ""yes"", ""answer_correct"": ""yes"", ""self_contained"": ""yes"", ""unambiguous"": ""yes""}
+```"
+863721af2526,k8s,k8s,content/en/docs/tutorials/stateful-application/cassandra.md,What resource issue occurs with Minikube?,insufficient resource errors,Insufficient resource errors during this tutorial.,False,True,0.6666666666666666,True,True,True,True,"```json
+{""answerable"": ""yes"", ""answer_correct"": ""yes"", ""self_contained"": ""yes"", ""unambiguous"": ""yes""}
+```"
+f54ba57b1a79,k8s,k8s,content/en/docs/concepts/workloads/controllers/job.md,What do you want existing Pods to keep doing?,keep running,keep running.,False,True,1.0,True,True,True,True,"```json
+{""answerable"": ""yes"", ""answer_correct"": ""yes"", ""self_contained"": ""yes"", ""unambiguous"": ""yes""}
+```"
+c21da79d6b36,k8s,k8s,content/en/docs/reference/setup-tools/kubeadm/generated/kubeadm_config/kubeadm_config_validate.md,What exit status indicates errors?,non-zero,non-zero.,False,True,1.0,True,True,True,True,"```json
+{""answerable"": ""yes"", ""answer_correct"": ""yes"", ""self_contained"": ""yes"", ""unambiguous"": ""yes""}
+```"
+9e22712bf226,k8s,k8s,content/en/docs/tasks/manage-kubernetes-objects/update-api-object-kubectl-patch.md,What did the patch add to the list?,A new Container,a new Container to the list.,False,True,0.6666666666666666,True,True,True,True,"```json
+{""answerable"": ""yes"", ""answer_correct"": ""yes"", ""self_contained"": ""yes"", ""unambiguous"": ""yes""}
+```"
+7f5eec876508,k8s,k8s,content/en/docs/reference/access-authn-authz/validating-admission-policy.md,What is checked for type errors?,referred variables,"referred variables, missing fields, type confusion.",False,True,0.5,True,True,True,True,"```json
+{""answerable"": ""yes"", ""answer_correct"": ""yes"", ""self_contained"": ""yes"", ""unambiguous"": ""yes""}
+```"
+e82bcec14e6b,k8s,k8s,content/en/docs/reference/config-api/kubeadm-config.v1beta3.md,What happens when root CA pinning is disabled?,disables root CA pinning,can be unsafe.,False,False,0.0,True,True,True,True,"```json
+{""answerable"": ""yes"", ""answer_correct"": ""yes"", ""self_contained"": ""yes"", ""unambiguous"": ""yes""}
+```"
+b6af8a6b3a89,k8s,k8s,content/en/docs/setup/best-practices/multiple-zones.md,What should be replicated across failure zones?,each individual control plane component,"control plane components, cloud controller manager.",False,False,0.3636363636363636,True,True,True,True,"```json
+{""answerable"": ""yes"", ""answer_correct"": ""yes"", ""self_contained"": ""yes"", ""unambiguous"": ""yes""}
+```"
+a095f935258c,k8s,k8s,content/en/docs/concepts/storage/storage-classes.md,What can you run and specify?,external provisioners,"external provisioners, which are independent programs.",False,True,0.5,True,True,True,True,"```json
+{""answerable"": ""yes"", ""answer_correct"": ""yes"", ""self_contained"": ""yes"", ""unambiguous"": ""yes""}
+```"
+3c2c745d5c0e,k8s,k8s,content/en/docs/concepts/workloads/controllers/replicaset.md,What does using Deployments eliminate the need to manage?,ReplicaSets that they create,ReplicaSets that they create.,False,True,1.0,True,True,True,True,"```json
+{""answerable"": ""yes"", ""answer_correct"": ""yes"", ""self_contained"": ""yes"", ""unambiguous"": ""yes""}
+```"
+1e3420ce686f,k8s,k8s,content/en/docs/test.md,What website does the pencil icon link to?,Kubernetes website,Kubernetes website.,False,True,1.0,True,True,True,True,"```json
+{""answerable"": ""yes"", ""answer_correct"": ""yes"", ""self_contained"": ""yes"", ""unambiguous"": ""yes""}
+```"
+bee2d6c91108,k8s,k8s,content/en/docs/concepts/windows/user-guide.md,What type of account is a GMSA?,Group Managed Service Account,a specific type of Active Directory account.,False,False,0.18181818181818182,True,True,True,True,"```json
+{""answerable"": ""yes"", ""answer_correct"": ""yes"", ""self_contained"": ""yes"", ""unambiguous"": ""yes""}
+```"
+7365e3615a9a,k8s,k8s,content/en/docs/concepts/storage/ephemeral-volumes.md,What is not supported for these volumes?,storage capacity aware Pod scheduling,storage capacity aware Pod scheduling,False,True,1.0,True,True,True,True,"```json
+{""answerable"": ""yes"", ""answer_correct"": ""yes"", ""self_contained"": ""yes"", ""unambiguous"": ""yes""}
+```"
+f92686b38859,k8s,k8s,content/en/docs/reference/access-authn-authz/extensible-admission-controllers.md,What should be used instead of url?,service,`service` instead of `url`.,False,True,0.4,True,True,True,True,"```json
+{""answerable"": ""yes"", ""answer_correct"": ""yes"", ""self_contained"": ""yes"", ""unambiguous"": ""yes""}
+```"
+012e28db1886,k8s,k8s,content/en/docs/concepts/workloads/pods/pod-lifecycle.md,What is in-place Pod vertical scaling called?,_in-place Pod vertical scaling_,resize a Pod's container-level CPU and memory.,False,False,0.14285714285714285,True,True,True,True,"```json
+{""answerable"": ""yes"", ""answer_correct"": ""yes"", ""self_contained"": ""yes"", ""unambiguous"": ""yes""}
+```"
+62453432865d,k8s,k8s,content/en/docs/reference/setup-tools/kubeadm/generated/kubeadm_init/kubeadm_init_phase_etcd_local.md,What is the guide for updating reference content?,Contributing upstream,[Contributing upstream](/docs/contribute/generate-ref-docs/contribute-upstream/),False,True,0.3636363636363636,True,True,True,True,"```json
+{""answerable"": ""yes"", ""answer_correct"": ""yes"", ""self_contained"": ""yes"", ""unambiguous"": ""yes""}
+```"
+2003607e4a6d,k8s,k8s,content/en/docs/tasks/manage-kubernetes-objects/kustomization.md,What is an example of a patch?,create one patch,increasing the deployment replica number.,False,False,0.0,True,True,True,True,"```json
+{""answerable"": ""yes"", ""answer_correct"": ""yes"", ""self_contained"": ""yes"", ""unambiguous"": ""yes""}
+```"
+cfff6b703e52,k8s,k8s,content/en/docs/setup/best-practices/cluster-large.md,What happens if a large cluster is deployed without adjusting resource limits?,the addon(s) may continuously get killed,Addon(s) may continuously get killed.,False,True,0.923076923076923,True,True,True,True,"```json
+{""answerable"": ""yes"", ""answer_correct"": ""yes"", ""self_contained"": ""yes"", ""unambiguous"": ""yes""}
+```"
+08bf17f06cda,k8s,k8s,content/en/docs/contribute/advanced.md,Who are the other members of the release team?,overall release lead,sig-testing and others.,False,False,0.0,True,True,True,True,"```json
+{""answerable"": ""yes"", ""answer_correct"": ""yes"", ""self_contained"": ""yes"", ""unambiguous"": ""yes""}
+```"
+f6a9374db117,k8s,k8s,content/en/docs/concepts/cluster-administration/logging.md,What is the recommended approach for handling different log formats?,create two sidecar containers,create two sidecar containers.,False,True,1.0,True,True,True,True,"```json
+{""answerable"": ""yes"", ""answer_correct"": ""yes"", ""self_contained"": ""yes"", ""unambiguous"": ""yes""}
+```"
+044a7fff953e,k8s,k8s,content/en/docs/setup/best-practices/cluster-large.md,What happens when running addons on large clusters?,addons often consume more of some resources,consume more of some resources.,False,True,0.8333333333333333,True,True,True,True,"```json
+{""answerable"": ""yes"", ""answer_correct"": ""yes"", ""self_contained"": ""yes"", ""unambiguous"": ""yes""}
+```"
+ddc5f33fc2a1,k8s,k8s,content/en/docs/concepts/configuration/secret.md,Which service account do containers have access to by default?,default ServiceAccount,the default ServiceAccount and its related Secret.,False,True,0.4444444444444445,True,True,True,True,"```json
+{""answerable"": ""yes"", ""answer_correct"": ""yes"", ""self_contained"": ""yes"", ""unambiguous"": ""yes""}
+```"
+2d0133f1cd21,k8s,k8s,content/en/docs/reference/command-line-tools-reference/kube-controller-manager.md,What determines the supported values?,The Go version used,Go version used.,False,True,0.8571428571428571,True,True,True,True,"```json
+{""answerable"": ""yes"", ""answer_correct"": ""yes"", ""self_contained"": ""yes"", ""unambiguous"": ""yes""}
+```"
+76eed8b3482b,k8s,k8s,content/en/docs/tutorials/stateful-application/cassandra.md,What does Cassandra require for data durability?,persistent storage,persistent storage to provide data durability.,False,True,0.5,True,True,True,True,"```json
+{""answerable"": ""yes"", ""answer_correct"": ""yes"", ""self_contained"": ""yes"", ""unambiguous"": ""yes""}
+```"
+eb190fdfc560,k8s,k8s,content/en/docs/concepts/workloads/management.md,What are annotations used for?,retrieval by API clients,retrieval by API clients such as tools.,False,True,0.7272727272727273,True,True,True,True,"```json
+{""answerable"": ""yes"", ""answer_correct"": ""yes"", ""self_contained"": ""yes"", ""unambiguous"": ""yes""}
+```"
+3877f8e681c1,k8s,k8s,content/en/docs/tasks/debug/debug-application/debug-running-pod.md,What format does kubectl get pod use?,YAML format,YAML format,False,True,1.0,True,True,True,True,"```json
+{""answerable"": ""yes"", ""answer_correct"": ""yes"", ""self_contained"": ""yes"", ""unambiguous"": ""yes""}
+```"
+30468d176ea8,k8s,k8s,content/en/docs/concepts/scheduling-eviction/topology-spread-constraints.md,What was explicitly merged into labelSelector?,key-value labels,key-value labels corresponding to `matchLabelKeys`,False,True,0.6666666666666666,True,True,True,True,"```json
+{""answerable"": ""yes"", ""answer_correct"": ""yes"", ""self_contained"": ""yes"", ""unambiguous"": ""yes""}
+```"
+ce24dbf7fc9e,k8s,k8s,content/en/docs/tasks/administer-cluster/cpu-management-policies.md,What is the formula for exclusively allocatable CPUs?,total number of CPUs,total CPUs minus any CPU reservations.,False,False,0.4,True,False,True,True,"```json
+{""answerable"": ""yes"", ""answer_correct"": ""no"", ""self_contained"": ""yes"", ""unambiguous"": ""yes""}
+```"
+f2c8e059a9fa,k8s,k8s,content/en/docs/concepts/cluster-administration/networking.md,What are CNI plugins used for?,Many different CNI plugins exist,manage their network and security capabilities.,False,False,0.0,True,False,True,True,"```json
+{""answerable"": ""yes"", ""answer_correct"": ""no"", ""self_contained"": ""yes"", ""unambiguous"": ""yes""}
+```"
+c73e60a28a9e,k8s,k8s,content/en/docs/tasks/access-application-cluster/web-ui-dashboard.md,What format is used for configuration files?,YAML or JSON configuration files,YAML or JSON configuration files.,False,True,1.0,True,True,True,True,"```json
+{""answerable"": ""yes"", ""answer_correct"": ""yes"", ""self_contained"": ""yes"", ""unambiguous"": ""yes""}
+```"
+916e4e91d9a2,k8s,k8s,content/en/docs/tasks/manage-kubernetes-objects/declarative-config.md,What defines updates scoped to specific fields?,The patch,The patch defines updates scoped to specific fields.,False,True,0.4,True,True,True,True,"```json
+{""answerable"": ""yes"", ""answer_correct"": ""yes"", ""self_contained"": ""yes"", ""unambiguous"": ""yes""}
+```"
+7e978845c6cf,k8s,k8s,content/en/docs/tutorials/_index.md,What is a tutorial typically composed of?,several sections,"several sections, each with a sequence of steps.",False,True,0.4,True,True,True,True,"```json
+{""answerable"": ""yes"", ""answer_correct"": ""yes"", ""self_contained"": ""yes"", ""unambiguous"": ""yes""}
+```"
+fe17a3aa0ec3,k8s,k8s,content/en/docs/tasks/administer-cluster/topology-manager.md,What does Topology Manager determine?,if a single NUMA Node affinity is possible,single NUMA Node affinity is possible.,False,True,0.8571428571428571,True,True,False,True,"```json
+{""answerable"": ""yes"", ""answer_correct"": ""yes"", ""self_contained"": ""no"", ""unambiguous"": ""yes""}
+```"
+74c2cba171c1,k8s,k8s,content/en/docs/concepts/extend-kubernetes/operator.md,What is Kubernetes designed for?,automation,Kubernetes is designed for automation.,False,True,0.33333333333333337,True,True,True,True,"```json
+{""answerable"": ""yes"", ""answer_correct"": ""yes"", ""self_contained"": ""yes"", ""unambiguous"": ""yes""}
+```"
+ec426f408348,k8s,k8s,content/en/docs/tasks/configure-pod-container/quality-service-pod.md,Which container specifies a memory request?,One container,One container specifies a memory request.,False,True,0.5,True,True,True,True,"```json
+{""answerable"": ""yes"", ""answer_correct"": ""yes"", ""self_contained"": ""yes"", ""unambiguous"": ""yes""}
+```"
+9ce4c687742e,k8s,k8s,content/en/docs/reference/setup-tools/kubeadm/generated/kubeadm_init/kubeadm_init_phase_control-plane_scheduler.md,What is the guide for updating reference content?,Contributing upstream,[Contributing upstream](/docs/contribute/generate-ref-docs/contribute-upstream/),False,True,0.3636363636363636,True,True,True,True,"```json
+{""answerable"": ""yes"", ""answer_correct"": ""yes"", ""self_contained"": ""yes"", ""unambiguous"": ""yes""}
+```"
+7e2dc99be185,k8s,k8s,content/en/docs/concepts/workloads/controllers/daemonset.md,What field does the DaemonSet controller add to the Pod?,spec.affinity.nodeAffinity,`spec.affinity.nodeAffinity` field of the Pod.,False,True,0.6,True,True,True,True,"```json
+{""answerable"": ""yes"", ""answer_correct"": ""yes"", ""self_contained"": ""yes"", ""unambiguous"": ""yes""}
+```"
+6fd051729ce2,k8s,k8s,content/en/docs/concepts/workloads/pods/_index.md,What cannot communicate without special configuration?,Containers in different Pods,Containers in different Pods.,False,True,1.0,True,True,True,True,"```json
+{""answerable"": ""yes"", ""answer_correct"": ""yes"", ""self_contained"": ""yes"", ""unambiguous"": ""yes""}
+```"
+bbb581a79501,k8s,k8s,content/en/docs/reference/setup-tools/kubeadm/generated/kubeadm_reset/_index.md,What is the guide for updating reference content?,Contributing upstream,[Contributing upstream](/docs/contribute/generate-ref-docs/contribute-upstream/),False,True,0.3636363636363636,True,True,True,True,"```json
+{""answerable"": ""yes"", ""answer_correct"": ""yes"", ""self_contained"": ""yes"", ""unambiguous"": ""yes""}
+```"
+7d567fc44e48,k8s,k8s,content/en/docs/tasks/administer-cluster/certificates.md,What is the MASTER_CLUSTER_IP?,first IP from the service CIDR,first IP from the service CIDR,False,True,1.0,True,True,True,True,"```json
+{""answerable"": ""yes"", ""answer_correct"": ""yes"", ""self_contained"": ""yes"", ""unambiguous"": ""yes""}
+```"
+f268a5c2a2ee,k8s,k8s,content/en/docs/tasks/administer-cluster/cpu-management-policies.md,Which option takes precedence over others?,explicit CPU list,`--reserved-cpus` option takes precedence over others.,False,False,0.0,True,True,True,True,"```json
+{""answerable"": ""yes"", ""answer_correct"": ""yes"", ""self_contained"": ""yes"", ""unambiguous"": ""yes""}
+```"
+023f4c227d50,k8s,k8s,content/en/docs/tasks/inject-data-application/distribute-credentials-secure.md,What value should be used for defaultMode in JSON?,decimal values,decimal values for the `defaultMode`,False,True,0.5714285714285715,True,True,True,True,"```json
+{""answerable"": ""yes"", ""answer_correct"": ""yes"", ""self_contained"": ""yes"", ""unambiguous"": ""yes""}
+```"
+6f7c327753dc,k8s,k8s,content/en/docs/reference/labels-annotations-taints/_index.md,What is the value of this annotation?,the name of volume plugin,name of volume plugin that created the volume.,False,True,0.7692307692307693,True,True,False,True,"```json
+{""answerable"": ""yes"", ""answer_correct"": ""yes"", ""self_contained"": ""no"", ""unambiguous"": ""yes""}
+```"
+f0c5da726743,k8s,k8s,content/en/docs/reference/access-authn-authz/bootstrap-tokens.md,Which tool is bootstrap tokens built to support?,kubeadm,[kubeadm](/docs/reference/setup-tools/kubeadm/),False,True,0.2857142857142857,True,True,True,True,"```json
+{""answerable"": ""yes"", ""answer_correct"": ""yes"", ""self_contained"": ""yes"", ""unambiguous"": ""yes""}
+```"
+b0c747916a6e,k8s,k8s,content/en/docs/concepts/extend-kubernetes/compute-storage-net/network-plugins.md,What must you use for cluster networking?,a CNI plugin,CNI plugins for cluster networking.,False,False,0.25,True,True,True,True,"```json
+{""answerable"": ""yes"", ""answer_correct"": ""yes"", ""self_contained"": ""yes"", ""unambiguous"": ""yes""}
+```"
+6b85bf51b411,k8s,k8s,content/en/docs/concepts/storage/volume-snapshots.md,What happens when DeletionPolicy is Delete?,The underlying storage snapshot will be deleted,Deleted along with the `VolumeSnapshotContent` object.,False,False,0.30769230769230765,True,True,True,True,"```json
+{""answerable"": ""yes"", ""answer_correct"": ""yes"", ""self_contained"": ""yes"", ""unambiguous"": ""yes""}
+```"
+476a1056558c,k8s,k8s,content/en/docs/concepts/extend-kubernetes/compute-storage-net/device-plugins.md,Where are Unix sockets stored?,/var/lib/kubelet/device-plugins,`/var/lib/kubelet/device-plugins`,False,True,1.0,True,True,True,True,"```json
+{""answerable"": ""yes"", ""answer_correct"": ""yes"", ""self_contained"": ""yes"", ""unambiguous"": ""yes""}
+```"
+4a40a0efbeab,k8s,k8s,content/en/docs/setup/production-environment/tools/kubeadm/setup-ha-etcd-with-kubeadm.md,Where can etcd instances be provisioned?,on separate hosts,separate hosts,False,True,0.8,True,True,True,True,"```json
+{""answerable"": ""yes"", ""answer_correct"": ""yes"", ""self_contained"": ""yes"", ""unambiguous"": ""yes""}
+```"
+0508dbabeb50,k8s,k8s,content/en/docs/tasks/administer-cluster/change-pv-reclaim-policy.md,What happens to a dynamically provisioned volume when its PersistentVolumeClaim is deleted?,automatically deleted,automatically deleted when a user deletes.,False,True,0.5,True,True,False,True,"```json
+{""answerable"": ""yes"", ""answer_correct"": ""yes"", ""self_contained"": ""no"", ""unambiguous"": ""yes""}
+```"
+f9afa305b023,k8s,k8s,content/en/docs/tutorials/hello-minikube.md,Where can installation instructions be found?,minikube start,__Step 1__ in [minikube start],False,True,0.5714285714285715,True,False,True,True,"```json
+{""answerable"": ""yes"", ""answer_correct"": ""no"", ""self_contained"": ""yes"", ""unambiguous"": ""yes""}
+```"
+b145c4ef6a4c,k8s,k8s,content/en/docs/concepts/extend-kubernetes/operator.md,Where does the Controller typically run?,control plane,Outside of the control plane.,False,True,0.5714285714285715,True,False,True,True,"```json
+{""answerable"": ""yes"", ""answer_correct"": ""no"", ""self_contained"": ""yes"", ""unambiguous"": ""yes""}
+```"
+035c1bf9bef1,k8s,k8s,content/en/docs/tasks/administer-cluster/manage-resources/memory-constraint-namespace.md,What is the memory limit per node?,1 GiB of memory,at least 1 GiB of memory.,False,True,0.8,True,True,True,True,"```json
+{""answerable"": ""yes"", ""answer_correct"": ""yes"", ""self_contained"": ""yes"", ""unambiguous"": ""yes""}
+```"
+e1ebaadb9a28,k8s,k8s,content/en/docs/concepts/overview/working-with-objects/object-management.md,Which operations are automatically detected?,"Create, update, and delete","Create, update, and delete operations.",False,True,0.888888888888889,True,True,True,True,"```json
+{""answerable"": ""yes"", ""answer_correct"": ""yes"", ""self_contained"": ""yes"", ""unambiguous"": ""yes""}
+```"
+a27717c65424,k8s,k8s,content/en/docs/tasks/administer-cluster/reserve-compute-resources.md,What does the scheduler not do with Allocatable?,does not over-subscribe,does not over-subscribe 'Allocatable'.,False,True,0.888888888888889,True,True,True,True,"```json
+{""answerable"": ""yes"", ""answer_correct"": ""yes"", ""self_contained"": ""yes"", ""unambiguous"": ""yes""}
+```"
+b11c279a3d3a,k8s,k8s,content/en/docs/tasks/administer-cluster/kms-provider.md,What should plugin implementations use to avoid leaking data?,a hash,a hash to avoid leaking any data.,False,True,0.4444444444444445,True,True,True,True,"```json
+{""answerable"": ""yes"", ""answer_correct"": ""yes"", ""self_contained"": ""yes"", ""unambiguous"": ""yes""}
+```"
+c3c00615d9cd,k8s,k8s,content/en/docs/concepts/overview/working-with-objects/namespaces.md,What is the purpose of kube-public?,cluster usage,visible and readable publicly throughout the cluster.,False,False,0.22222222222222224,True,False,True,True,"```json
+{""answerable"": ""yes"", ""answer_correct"": ""no"", ""self_contained"": ""yes"", ""unambiguous"": ""yes""}
+```"
+994b241fd792,k8s,k8s,content/en/docs/tasks/run-application/run-replicated-stateful-application.md,What issue occurs during the clone?,reduced performance,reduced performance.,False,True,1.0,True,True,True,True,"```json
+{""answerable"": ""yes"", ""answer_correct"": ""yes"", ""self_contained"": ""yes"", ""unambiguous"": ""yes""}
+```"
+9622750fe2d8,k8s,k8s,content/en/docs/tasks/access-application-cluster/web-ui-dashboard.md,What can Dashboard be used for?,Deploy containerized applications,"Deploy applications, troubleshoot, and manage resources.",False,False,0.4444444444444444,True,True,True,True,"```json
+{""answerable"": ""yes"", ""answer_correct"": ""yes"", ""self_contained"": ""yes"", ""unambiguous"": ""yes""}
+```"
+82ca50939663,k8s,k8s,content/en/docs/tasks/administer-cluster/guaranteed-scheduling-critical-addon-pods.md,Where should add-ons run?,regular cluster node,on a regular cluster node.,False,True,0.7499999999999999,True,True,True,True,"```json
+{""answerable"": ""yes"", ""answer_correct"": ""yes"", ""self_contained"": ""yes"", ""unambiguous"": ""yes""}
+```"
+22165a8f4167,k8s,k8s,content/en/docs/concepts/security/pod-security-standards.md,What does the wildcard notation refer to?,Security Context object,all elements in a list.,False,False,0.0,True,False,True,True,"```json
+{""answerable"": ""yes"", ""answer_correct"": ""no"", ""self_contained"": ""yes"", ""unambiguous"": ""yes""}
+```"
+dea3d753818e,k8s,k8s,content/en/docs/reference/issues-security/security.md,What is the expected timeframe for report to disclosure?,7 days,On the order of 7 days.,False,True,0.5,True,True,True,True,"```json
+{""answerable"": ""yes"", ""answer_correct"": ""yes"", ""self_contained"": ""yes"", ""unambiguous"": ""yes""}
+```"
+78ae1d0f6bd1,k8s,k8s,content/en/docs/tutorials/stateful-application/zookeeper.md,What requires consistent configuration?,Zab protocol,servers in a ZooKeeper ensemble,False,False,0.0,True,False,True,True,"```json
+{""answerable"": ""yes"", ""answer_correct"": ""no"", ""self_contained"": ""yes"", ""unambiguous"": ""yes""}
+```"
+d15634a74368,k8s,k8s,content/en/docs/tasks/manage-kubernetes-objects/imperative-config.md,What command allows editing a config before creation?,kubectl create --edit,`kubectl create --edit`,False,True,1.0,True,True,True,True,"```json
+{""answerable"": ""yes"", ""answer_correct"": ""yes"", ""self_contained"": ""yes"", ""unambiguous"": ""yes""}
+```"
+14ff2b50fe76,k8s,k8s,content/en/docs/concepts/containers/runtime-class.md,What is an example of a workload need?,high level of information security assurance,high level of information security assurance.,False,True,1.0,True,True,True,True,"```json
+{""answerable"": ""yes"", ""answer_correct"": ""yes"", ""self_contained"": ""yes"", ""unambiguous"": ""yes""}
+```"
+bd273ca3782f,k8s,k8s,content/en/docs/reference/setup-tools/kubeadm/kubeadm-upgrade.md,What flag can be used to opt-out of certificate renewal?,--certificate-renewal=false,`--certificate-renewal=false`,False,True,1.0,True,True,True,True,"```json
+{""answerable"": ""yes"", ""answer_correct"": ""yes"", ""self_contained"": ""yes"", ""unambiguous"": ""yes""}
+```"
+f83bef186776,k8s,k8s,content/en/docs/tasks/administer-cluster/kubeadm/kubeadm-upgrade.md,Which control plane node should be upgraded first?,Pick a control plane node,one node at a time.,False,False,0.4000000000000001,True,True,True,True,"```json
+{""answerable"": ""yes"", ""answer_correct"": ""yes"", ""self_contained"": ""yes"", ""unambiguous"": ""yes""}
+```"
+24626b193b50,k8s,k8s,content/en/docs/concepts/scheduling-eviction/scheduling-framework.md,What allows scheduling features to be implemented as plugins?,These APIs,“plugin” APIs are compiled directly into the scheduler.,False,False,0.2,True,True,True,True,"```json
+{""answerable"": ""yes"", ""answer_correct"": ""yes"", ""self_contained"": ""yes"", ""unambiguous"": ""yes""}
+```"
+12c09d5aa945,k8s,k8s,content/en/docs/tasks/access-application-cluster/connecting-frontend-backend.md,What does a Service create?,persistent IP address,a persistent IP address and DNS name entry,False,True,0.5454545454545454,True,True,True,True,"```json
+{""answerable"": ""yes"", ""answer_correct"": ""yes"", ""self_contained"": ""yes"", ""unambiguous"": ""yes""}
+```"
+21b443a9848a,k8s,k8s,content/en/docs/setup/production-environment/tools/kubeadm/install-kubeadm.md,Which distributions may lack glibc?,custom and lightweight distributions,"custom and lightweight distributions, such as Alpine Linux.",False,True,0.6666666666666666,True,True,True,True,"```json
+{""answerable"": ""yes"", ""answer_correct"": ""yes"", ""self_contained"": ""yes"", ""unambiguous"": ""yes""}
+```"
+5bb9ab725015,k8s,k8s,content/en/docs/concepts/extend-kubernetes/_index.md,What can you write according to the doc?,highly available and robust automation,highly available and robust automation.,False,True,1.0,True,True,True,True,"```json
+{""answerable"": ""yes"", ""answer_correct"": ""yes"", ""self_contained"": ""yes"", ""unambiguous"": ""yes""}
+```"
+ed0a0021fdcb,k8s,k8s,content/en/docs/tasks/access-application-cluster/communicate-containers-same-pod-shared-volume.md,What do helper and primary applications often need to communicate with?,each other,each other.,False,True,1.0,True,True,True,True,"```json
+{""answerable"": ""yes"", ""answer_correct"": ""yes"", ""self_contained"": ""yes"", ""unambiguous"": ""yes""}
+```"
+71860ad5bd37,k8s,k8s,content/en/docs/concepts/overview/kubernetes-api.md,What method allows direct API access?,REST calls,REST calls.,False,True,1.0,True,True,True,True,"```json
+{""answerable"": ""yes"", ""answer_correct"": ""yes"", ""self_contained"": ""yes"", ""unambiguous"": ""yes""}
+```"
+92343aff7307,k8s,k8s,content/en/docs/tasks/inject-data-application/downward-api-volume-expose-pod-information.md,What is the specific subject?,container,[container] rather than from the Pod overall.,False,True,0.25,True,True,False,True,"```json
+{""answerable"": ""yes"", ""answer_correct"": ""yes"", ""self_contained"": ""no"", ""unambiguous"": ""yes""}
+```"
+c25e78a98174,k8s,k8s,content/en/docs/reference/using-api/deprecation-guide.md,What happens when APIs evolve?,The old API is deprecated,old API is deprecated and removed.,False,True,0.7272727272727272,True,True,True,True,"```json
+{""answerable"": ""yes"", ""answer_correct"": ""yes"", ""self_contained"": ""yes"", ""unambiguous"": ""yes""}
+```"
+3f21d9680823,k8s,k8s,content/en/docs/setup/production-environment/tools/kubeadm/kubelet-integration.md,What is the name of the API object?,KubeletConfiguration,[`KubeletConfiguration`](/docs/reference/config-api/kubelet-config.v1beta1/),False,True,0.2222222222222222,True,True,True,True,"```json
+{""answerable"": ""yes"", ""answer_correct"": ""yes"", ""self_contained"": ""yes"", ""unambiguous"": ""yes""}
+```"
+03fa445dba09,k8s,k8s,content/en/docs/reference/access-authn-authz/node.md,Which hostname is determined by the cloud provider?,specific hostname,the specific hostname,False,True,0.8,True,True,True,True,"```json
+{""answerable"": ""yes"", ""answer_correct"": ""yes"", ""self_contained"": ""yes"", ""unambiguous"": ""yes""}
+```"
+a7f03cc4d943,k8s,k8s,content/en/docs/concepts/architecture/garbage-collection.md,What does Kubernetes use owner references for?,to give the control plane,to clean up related resources before deleting.,False,False,0.16666666666666666,True,True,True,True,"```json
+{""answerable"": ""yes"", ""answer_correct"": ""yes"", ""self_contained"": ""yes"", ""unambiguous"": ""yes""}
+```"
+320c7e50cce5,k8s,k8s,content/en/docs/reference/config-api/kubelet-config.v1beta1.md,What happens if memory.high is nil?,memory.high is not set,memory.high is not set.,False,True,1.0,True,True,True,True,"```json
+{""answerable"": ""yes"", ""answer_correct"": ""yes"", ""self_contained"": ""yes"", ""unambiguous"": ""yes""}
+```"
+49ddef470f00,k8s,k8s,content/en/docs/tutorials/security/seccomp.md,What is the default action set in the profile?,SCMP_ACT_ERRNO,"`""defaultAction"": ""SCMP_ACT_ERRNO""`",False,True,0.6666666666666666,True,True,False,True,"```json
+{""answerable"": ""yes"", ""answer_correct"": ""yes"", ""self_contained"": ""no"", ""unambiguous"": ""yes""}
+```"
+71837ff00c76,k8s,k8s,content/en/docs/tasks/administer-cluster/kubeadm/kubeadm-upgrade.md,What flag disables certificate renewal?,--certificate-renewal=false,`--certificate-renewal=false`,False,True,1.0,True,True,True,True,"```json
+{""answerable"": ""yes"", ""answer_correct"": ""yes"", ""self_contained"": ""yes"", ""unambiguous"": ""yes""}
+```"
+b2038b09cb1f,k8s,k8s,content/en/docs/reference/scheduling/config.md,Which plugins take precedence?,plugins set through specific extension points,specific extension points will always take precedence.,False,False,0.4615384615384615,True,True,True,True,"```json
+{""answerable"": ""yes"", ""answer_correct"": ""yes"", ""self_contained"": ""yes"", ""unambiguous"": ""yes""}
+```"
+9ae17f67b83b,k8s,k8s,content/en/docs/tasks/access-application-cluster/create-external-load-balancer.md,What does the Kubernetes control plane automate?,creation of the external load balancer,creation of the external load balancer.,False,True,1.0,True,True,True,True,"```json
+{""answerable"": ""yes"", ""answer_correct"": ""yes"", ""self_contained"": ""yes"", ""unambiguous"": ""yes""}
+```"
+8b0a6ab99c56,k8s,k8s,content/en/docs/concepts/workloads/pods/init-containers.md,What does the second init container wait for?,mydb,`mydb`,False,True,1.0,True,True,True,True,"```json
+{""answerable"": ""yes"", ""answer_correct"": ""yes"", ""self_contained"": ""yes"", ""unambiguous"": ""yes""}
+```"
+d57eedfafd9b,k8s,k8s,content/en/docs/tasks/manage-kubernetes-objects/update-api-object-kubectl-patch.md,When is a list replaced instead of merged?,This is not always what happens,"in some cases, the list is replaced.",False,False,0.15384615384615383,True,True,False,True,"```json
+{""answerable"": ""yes"", ""answer_correct"": ""yes"", ""self_contained"": ""no"", ""unambiguous"": ""yes""}
+```"
+e4ccc74b26e5,k8s,k8s,content/en/docs/reference/access-authn-authz/authentication.md,What field determines the username?,common name field,common name field in the 'subject',False,True,0.6666666666666666,True,True,True,True,"```json
+{""answerable"": ""yes"", ""answer_correct"": ""yes"", ""self_contained"": ""yes"", ""unambiguous"": ""yes""}
+```"
+72cc9dab8112,k8s,k8s,content/en/docs/concepts/services-networking/network-policies.md,What does isolation mean here?,some restrictions apply,some restrictions apply.,False,True,1.0,True,True,True,True,"```json
+{""answerable"": ""yes"", ""answer_correct"": ""yes"", ""self_contained"": ""yes"", ""unambiguous"": ""yes""}
+```"
+8203878b2e4b,k8s,k8s,content/en/docs/setup/production-environment/container-runtimes.md,Which component expects administrators to configure routing settings?,Kubernetes cluster networking,Some Kubernetes cluster networking implementations.,False,True,0.7499999999999999,True,True,True,True,"```json
+{""answerable"": ""yes"", ""answer_correct"": ""yes"", ""self_contained"": ""yes"", ""unambiguous"": ""yes""}
+```"
+d40ed9a4aaa7,k8s,k8s,content/en/docs/tasks/administer-cluster/kubeadm/adding-windows-nodes.md,What is the version format requirement?,The version must not have a `v` prefix,Must not have a `v` prefix.,False,True,0.8571428571428571,True,True,True,True,"```json
+{""answerable"": ""yes"", ""answer_correct"": ""yes"", ""self_contained"": ""yes"", ""unambiguous"": ""yes""}
+```"
+b896456cee8f,cpy,cpy,Doc/library/asyncio-future.rst,What can coroutines await on?,Future objects,Future objects until they have a result.,False,True,0.4444444444444445,True,True,True,True,"```json
+{""answerable"": ""yes"", ""answer_correct"": ""yes"", ""self_contained"": ""yes"", ""unambiguous"": ""yes""}
+```"
+80b0c3ee706e,cpy,cpy,Doc/using/configure.rst,What is the recommended action?,Use the latest patch release,Use latest patch release of LTS release.,False,True,0.6666666666666666,True,True,True,True,"```json
+{""answerable"": ""yes"", ""answer_correct"": ""yes"", ""self_contained"": ""yes"", ""unambiguous"": ""yes""}
+```"
+3b7065e4cf0d,cpy,cpy,Doc/library/bz2.rst,What attribute is set to False?,:attr:`~.needs_input`,`.needs_input` attribute will be set to `False`.,False,False,0.22222222222222224,True,True,False,True,"```json
+{""answerable"": ""yes"", ""answer_correct"": ""yes"", ""self_contained"": ""no"", ""unambiguous"": ""yes""}
+```"
+387167a51a2c,cpy,cpy,Doc/library/unicodedata.rst,What is returned if no value is defined?,an empty string,an empty string is returned.,False,True,0.7499999999999999,True,True,True,True,"```json
+{""answerable"": ""yes"", ""answer_correct"": ""yes"", ""self_contained"": ""yes"", ""unambiguous"": ""yes""}
+```"
+9cb59523f35c,cpy,cpy,Doc/howto/sockets.rst,What is the main issue with threads?,There's not much you can do about it,the entire thread is essentially dead.,False,False,0.0,True,True,True,True,"```json
+{""answerable"": ""yes"", ""answer_correct"": ""yes"", ""self_contained"": ""yes"", ""unambiguous"": ""yes""}
+```"
+238ef9e73d72,cpy,cpy,Doc/library/tarfile.rst,What is the default mtime value?,the time of creation of the archive,time of creation of the archive.,False,True,0.923076923076923,True,True,True,True,"```json
+{""answerable"": ""yes"", ""answer_correct"": ""yes"", ""self_contained"": ""yes"", ""unambiguous"": ""yes""}
+```"
+77591ca35fe6,cpy,cpy,Doc/library/contextvars.rst,Which method returns the current context value?,:meth:`ContextVar.get`,`ContextVar.get` method returns the value.,False,False,0.4444444444444444,True,True,True,True,"```json
+{""answerable"": ""yes"", ""answer_correct"": ""yes"", ""self_contained"": ""yes"", ""unambiguous"": ""yes""}
+```"
+a6cffa032550,cpy,cpy,Doc/library/crypt.rst,What are other possible replacements?,third-party libraries from PyPI,"legacycrypt, bcrypt, or argon2-cffi.",False,False,0.0,True,True,True,True,"```json
+{""answerable"": ""yes"", ""answer_correct"": ""yes"", ""self_contained"": ""yes"", ""unambiguous"": ""yes""}
+```"
+c9a79216daf5,cpy,cpy,Doc/library/email.header.rst,What is the default initial header value?,None,"``None`` (the default), the initial header value.",False,True,0.25,True,True,True,True,"```json
+{""answerable"": ""yes"", ""answer_correct"": ""yes"", ""self_contained"": ""yes"", ""unambiguous"": ""yes""}
+```"
+53fcfa97c396,cpy,cpy,Doc/library/random.rst,What are the numbers evenly spaced?,All such numbers,all such numbers are evenly spaced.,False,True,0.6666666666666666,True,True,False,True,"```json
+{""answerable"": ""yes"", ""answer_correct"": ""yes"", ""self_contained"": ""no"", ""unambiguous"": ""yes""}
+```"
+5dbbc7a9d43f,cpy,cpy,Doc/library/mailbox.rst,What does the mailbox update?,the mailbox so that,message corresponding to key is set.,False,False,0.0,True,True,True,True,"```json
+{""answerable"": ""yes"", ""answer_correct"": ""yes"", ""self_contained"": ""yes"", ""unambiguous"": ""yes""}
+```"
+220727b7ce85,cpy,cpy,Doc/faq/extending.rst,What should you call to handle errors?,print_error,"print_error, or just allow the standard traceback.",False,True,0.25,True,True,True,True,"```json
+{""answerable"": ""yes"", ""answer_correct"": ""yes"", ""self_contained"": ""yes"", ""unambiguous"": ""yes""}
+```"
+e48f3862c27e,cpy,cpy,Doc/library/gettext.rst,Which variable is used first for languages?,The first one returning a non-empty value,LANGUAGE,False,False,0.0,True,True,True,True,"```json
+{""answerable"": ""yes"", ""answer_correct"": ""yes"", ""self_contained"": ""yes"", ""unambiguous"": ""yes""}
+```"
+bf97410a7e8b,cpy,cpy,Doc/tutorial/introduction.rst,Where can a comment appear in Python?,At the start of a line,at the start of a line.,False,True,1.0,True,True,True,True,"```json
+{""answerable"": ""yes"", ""answer_correct"": ""yes"", ""self_contained"": ""yes"", ""unambiguous"": ""yes""}
+```"
+31c0a7f1df24,cpy,cpy,Doc/tutorial/classes.rst,What is the local scope outside functions?,the module's namespace,the module's namespace.,False,True,1.0,True,True,True,True,"```json
+{""answerable"": ""yes"", ""answer_correct"": ""yes"", ""self_contained"": ""yes"", ""unambiguous"": ""yes""}
+```"
+fbeb58120880,cpy,cpy,Doc/howto/functional.rst,What happens on a later function call?,A new private namespace,a new private namespace and a fresh set.,False,True,0.6666666666666666,True,True,True,True,"```json
+{""answerable"": ""yes"", ""answer_correct"": ""yes"", ""self_contained"": ""yes"", ""unambiguous"": ""yes""}
+```"
+6958207b2285,cpy,cpy,Doc/library/ipaddress.rst,Which parameter must be set?,One and only one of,One and only one of *prefixlen_diff* and *new_prefix*.,False,True,0.7692307692307693,True,True,True,True,"```json
+{""answerable"": ""yes"", ""answer_correct"": ""yes"", ""self_contained"": ""yes"", ""unambiguous"": ""yes""}
+```"
+bcbed8982db3,cpy,cpy,Doc/reference/lexical_analysis.rst,Where are linefeed characters replaced?,string literals,"Regardless of platform, each of these sequences.",False,False,0.0,True,False,True,True,"```json
+{""answerable"": ""yes"", ""answer_correct"": ""no"", ""self_contained"": ""yes"", ""unambiguous"": ""yes""}
+```"
+32ab094bb3cf,cpy,cpy,Doc/license.rst,What is the purpose of the NOTICE file?,for informational purposes only,for informational purposes only.,False,True,1.0,True,True,True,True,"```json
+{""answerable"": ""yes"", ""answer_correct"": ""yes"", ""self_contained"": ""yes"", ""unambiguous"": ""yes""}
+```"
+57ea39e23be4,cpy,cpy,Doc/whatsnew/2.1.rst,What is difficult to know?,when a feature is safe to remove,when a feature is safe to remove,False,True,1.0,True,True,True,True,"```json
+{""answerable"": ""yes"", ""answer_correct"": ""yes"", ""self_contained"": ""yes"", ""unambiguous"": ""yes""}
+```"
+9a1aa46f70dc,cpy,cpy,Doc/library/__future__.rst,What will happen to the feature?,This feature will eventually be deprecated and removed,Deprecated and removed.,False,True,0.5454545454545454,True,True,True,True,"```json
+{""answerable"": ""yes"", ""answer_correct"": ""yes"", ""self_contained"": ""yes"", ""unambiguous"": ""yes""}
+```"
+6c4519464e13,cpy,cpy,Doc/library/profiling.sampling.rst,What does the filter use for matching?,case-insensitive substring matching,case-insensitive substring matching against the filename.,False,True,0.7272727272727273,True,True,True,True,"```json
+{""answerable"": ""yes"", ""answer_correct"": ""yes"", ""self_contained"": ""yes"", ""unambiguous"": ""yes""}
+```"
+397ea5cb5e31,cpy,cpy,Doc/c-api/memory.rst,What objects are managed differently?,integer objects,"integers, strings, tuples, or dictionaries.",False,False,0.0,True,True,True,True,"```json
+{""answerable"": ""yes"", ""answer_correct"": ""yes"", ""self_contained"": ""yes"", ""unambiguous"": ""yes""}
+```"
+b021e7904dab,cpy,cpy,Doc/using/windows.rst,Where should the variables be set?,in the terminal session,in the terminal session before using.,False,True,0.8,True,True,True,True,"```json
+{""answerable"": ""yes"", ""answer_correct"": ""yes"", ""self_contained"": ""yes"", ""unambiguous"": ""yes""}
+```"
+8e61367220bd,cpy,cpy,Doc/library/struct.rst,Which architectures are little-endian?,"Intel x86, AMD64 (x86-64), and Apple M1","Intel x86, AMD64, and Apple M1.",False,True,0.8571428571428571,True,True,True,True,"```json
+{""answerable"": ""yes"", ""answer_correct"": ""yes"", ""self_contained"": ""yes"", ""unambiguous"": ""yes""}
+```"
+3c373a714264,cpy,cpy,Doc/using/unix.rst,What is not required when updating OpenSSL?,recompile Python,recompile Python,False,True,1.0,True,True,True,True,"```json
+{""answerable"": ""yes"", ""answer_correct"": ""yes"", ""self_contained"": ""yes"", ""unambiguous"": ""yes""}
+```"
+e3133b9c5b0b,cpy,cpy,Doc/c-api/typeobj.rst,What do static type objects not count as?,references,references to the type,False,True,0.4,True,True,True,True,"```json
+{""answerable"": ""yes"", ""answer_correct"": ""yes"", ""self_contained"": ""yes"", ""unambiguous"": ""yes""}
+```"
+5eb7c84e2f65,cpy,cpy,Doc/library/html.parser.rst,What is the decimal equivalent for &gt;?,&#62;,&#62;,False,True,1.0,True,True,False,True,"```json
+{""answerable"": ""yes"", ""answer_correct"": ""yes"", ""self_contained"": ""no"", ""unambiguous"": ""yes""}
+```"
+4a9a068b0c41,cpy,cpy,Doc/c-api/gcsupport.rst,What is the consequence of skipped references?,garbage reference cycles,cycles involving the skipped references will not be reliably broken.,False,False,0.15384615384615383,True,True,True,True,"```json
+{""answerable"": ""yes"", ""answer_correct"": ""yes"", ""self_contained"": ""yes"", ""unambiguous"": ""yes""}
+```"
+886ca071a3ea,cpy,cpy,Doc/library/mimetypes.rst,What is the initial database created from?,Python's built-in MIME type tables,Python's built-in MIME type tables.,False,True,1.0,True,True,True,True,"```json
+{""answerable"": ""yes"", ""answer_correct"": ""yes"", ""self_contained"": ""yes"", ""unambiguous"": ""yes""}
+```"
+6fcd6565a617,cpy,cpy,Doc/howto/regex.rst,What does \w match in a string pattern?,characters marked as letters,all the characters marked as letters,False,True,0.8,True,True,True,True,"```json
+{""answerable"": ""yes"", ""answer_correct"": ""yes"", ""self_contained"": ""yes"", ""unambiguous"": ""yes""}
+```"
+4a5b4468c689,cpy,cpy,Doc/library/doctest.rst,What allows failures to be debugged?,This allows failures to be post-mortem debugged,failures to be post-mortem debugged.,False,True,0.8571428571428571,True,True,False,True,"```json
+{""answerable"": ""yes"", ""answer_correct"": ""yes"", ""self_contained"": ""no"", ""unambiguous"": ""yes""}
+```"
+df766605e8d9,cpy,cpy,Doc/c-api/conversion.rst,What strings are accepted?,The set of accepted strings,strings accepted by Python's :func:`float` constructor,False,False,0.3076923076923077,True,True,True,True,"```json
+{""answerable"": ""yes"", ""answer_correct"": ""yes"", ""self_contained"": ""yes"", ""unambiguous"": ""yes""}
+```"
+8593246c97af,cpy,cpy,Doc/howto/functional.rst,What is the main difference between yield and return?,generator's state of execution is suspended,state of execution is suspended.,False,True,0.8333333333333333,True,True,True,True,"```json
+{""answerable"": ""yes"", ""answer_correct"": ""yes"", ""self_contained"": ""yes"", ""unambiguous"": ""yes""}
+```"
+06fcbdfaa82d,cpy,cpy,Doc/howto/logging-cookbook.rst,What cannot be used for logging calls?,:meth:`str.format` or :class:`string.Template`,`str.format` or `string.Template` syntax,False,True,0.7692307692307692,True,True,True,True,"```json
+{""answerable"": ""yes"", ""answer_correct"": ""yes"", ""self_contained"": ""yes"", ""unambiguous"": ""yes""}
+```"
+954c7dc92849,cpy,cpy,Doc/c-api/sequence.rst,How is the operation performed?,in-place,in-place when o supports it.,False,True,0.5,True,True,True,True,"```json
+{""answerable"": ""yes"", ""answer_correct"": ""yes"", ""self_contained"": ""yes"", ""unambiguous"": ""yes""}
+```"
+a9491955faa9,cpy,cpy,Doc/whatsnew/2.5.rst,What restriction was removed?,syntactic restriction,Couldn’t mix `yield` statements with `try...finally` suite.,False,False,0.0,True,True,True,True,"```json
+{""answerable"": ""yes"", ""answer_correct"": ""yes"", ""self_contained"": ""yes"", ""unambiguous"": ""yes""}
+```"
+81f07ca51f65,cpy,cpy,Doc/library/concurrent.futures.rst,Where must the module be imported?,interpreter where you need it,in interpreter where you need it.,False,True,0.9090909090909091,True,True,True,True,"```json
+{""answerable"": ""yes"", ""answer_correct"": ""yes"", ""self_contained"": ""yes"", ""unambiguous"": ""yes""}
+```"
+5ee0595e9386,cpy,cpy,Doc/reference/import.rst,What is the second argument in the import statement?,path entries to use for the module search,path entries to use for the module search.,False,True,1.0,True,True,True,True,"```json
+{""answerable"": ""yes"", ""answer_correct"": ""yes"", ""self_contained"": ""yes"", ""unambiguous"": ""yes""}
+```"
+b1b3626dbf02,cpy,cpy,Doc/extending/newtypes.rst,Why is the order of fields not followed?,historical baggage,historical baggage that impacts the ordering.,False,True,0.5,True,True,True,True,"```json
+{""answerable"": ""yes"", ""answer_correct"": ""yes"", ""self_contained"": ""yes"", ""unambiguous"": ""yes""}
+```"
+a67372bc6e6e,cpy,cpy,Doc/library/audioop.rst,When was the module removed?,removed in Python 3.13,removed in Python 3.13,False,True,1.0,True,True,True,True,"```json
+{""answerable"": ""yes"", ""answer_correct"": ""yes"", ""self_contained"": ""yes"", ""unambiguous"": ""yes""}
+```"
+03d5e056e1f5,cpy,cpy,Doc/c-api/structures.rst,What types represent the shared fields?,:c:type:`PyObject` and :c:type:`PyVarObject`,PyObject and PyVarObject types.,False,True,0.5454545454545454,True,True,True,True,"```json
+{""answerable"": ""yes"", ""answer_correct"": ""yes"", ""self_contained"": ""yes"", ""unambiguous"": ""yes""}
+```"
+522bf4079fca,cpy,cpy,Doc/c-api/float.rst,What do Pack routines produce?,a bytes string,a bytes string from a C double,False,True,0.6,True,True,True,True,"```json
+{""answerable"": ""yes"", ""answer_correct"": ""yes"", ""self_contained"": ""yes"", ""unambiguous"": ""yes""}
+```"
+4d2e1b2d73a7,cpy,cpy,Doc/library/asyncio-protocol.rst,What should you not rely on?,specific semantics,specific semantics,False,True,1.0,True,True,True,True,"```json
+{""answerable"": ""yes"", ""answer_correct"": ""yes"", ""self_contained"": ""yes"", ""unambiguous"": ""yes""}
+```"
+aa685363f1d1,cpy,cpy,Doc/tutorial/modules.rst,What is the convention for the import statement?,:keyword:`import` statement,``__all__`` list defines module names to import.,False,False,0.2,True,True,True,True,"```json
+{""answerable"": ""yes"", ""answer_correct"": ""yes"", ""self_contained"": ""yes"", ""unambiguous"": ""yes""}
+```"
+ff9bee9670f4,cpy,cpy,Doc/library/selectors.rst,What is a file object defined as?,any object with a :meth:`~io.IOBase.fileno` method,any object with a :meth:`~io.IOBase.fileno` method.,False,True,1.0,True,True,True,True,"```json
+{""answerable"": ""yes"", ""answer_correct"": ""yes"", ""self_contained"": ""yes"", ""unambiguous"": ""yes""}
+```"
+d3cad41a5d11,cpy,cpy,Doc/library/_thread.rst,What is provided for synchronization?,simple locks,simple locks (also called mutexes),False,True,0.5714285714285715,True,True,True,True,"```json
+{""answerable"": ""yes"", ""answer_correct"": ""yes"", ""self_contained"": ""yes"", ""unambiguous"": ""yes""}
+```"
+bad430da795b,cpy,cpy,Doc/library/email.contentmanager.rst,What error handler is used for text parts?,errors,`replace`,False,False,0.0,True,False,True,True,"```json
+{""answerable"": ""yes"", ""answer_correct"": ""no"", ""self_contained"": ""yes"", ""unambiguous"": ""yes""}
+```"
+98332bededde,cpy,cpy,Doc/whatsnew/3.1.rst,What was the value of repr(1.1)?,'1.1000000000000001','1.1000000000000001',False,True,1.0,True,True,True,True,"```json
+{""answerable"": ""yes"", ""answer_correct"": ""yes"", ""self_contained"": ""yes"", ""unambiguous"": ""yes""}
+```"
+2250f617cec2,cpy,cpy,Doc/library/pyexpat.rst,What disables reparse deferral?,SetReparseDeferralEnabled(False),`SetReparseDeferralEnabled(False)` disables reparse deferral.,False,True,0.5714285714285715,True,True,True,True,"```json
+{""answerable"": ""yes"", ""answer_correct"": ""yes"", ""self_contained"": ""yes"", ""unambiguous"": ""yes""}
+```"
+e5f821131a56,cpy,cpy,Doc/library/index.rst,What provides access to system functionality?,built-in modules,built-in modules (written in C),False,True,0.6666666666666666,True,True,True,True,"```json
+{""answerable"": ""yes"", ""answer_correct"": ""yes"", ""self_contained"": ""yes"", ""unambiguous"": ""yes""}
+```"
+b1bc9941dd8d,cpy,cpy,Doc/tutorial/controlflow.rst,Where are variable assignments stored?,local symbol table,local symbol table.,False,True,1.0,True,True,True,True,"```json
+{""answerable"": ""yes"", ""answer_correct"": ""yes"", ""self_contained"": ""yes"", ""unambiguous"": ""yes""}
+```"
+b90f63c608ed,cpy,cpy,Doc/library/numbers.rst,What operations are included?,conversions to :class:`complex` and :class:`bool`,"conversions, +, -, *, /, **, abs, conjugate.",False,False,0.2,True,False,False,True,"```json
+{""answerable"": ""yes"", ""answer_correct"": ""no"", ""self_contained"": ""no"", ""unambiguous"": ""yes""}
+```"
+7784f4b94548,cpy,cpy,Doc/using/cmdline.rst,Where can hash-based pyc validation be found?,:ref:`pyc-invalidation`,:ref:`pyc-invalidation`.,False,True,1.0,True,True,True,True,"```json
+{""answerable"": ""yes"", ""answer_correct"": ""yes"", ""self_contained"": ""yes"", ""unambiguous"": ""yes""}
+```"
+68ebe90c7663,cpy,cpy,Doc/library/wsgiref.rst,Where are deleted and re-inserted fields added?,header list,Appended to the header list.,False,True,0.5714285714285715,True,True,True,True,"```json
+{""answerable"": ""yes"", ""answer_correct"": ""yes"", ""self_contained"": ""yes"", ""unambiguous"": ""yes""}
+```"
+a6c557efd702,cpy,cpy,Doc/howto/urllib2.rst,How can you add headers to a request?,you can pass a dictionary of headers in,pass a dictionary of headers in.,False,True,0.8571428571428571,True,True,True,True,"```json
+{""answerable"": ""yes"", ""answer_correct"": ""yes"", ""self_contained"": ""yes"", ""unambiguous"": ""yes""}
+```"
+5a11dccd0a5a,cpy,cpy,Doc/library/nntplib.rst,When was the module removed?,removed in Python 3.13,removed in Python 3.13,False,True,1.0,True,True,True,True,"```json
+{""answerable"": ""yes"", ""answer_correct"": ""yes"", ""self_contained"": ""yes"", ""unambiguous"": ""yes""}
+```"
+a268c1785a85,cpy,cpy,Doc/whatsnew/3.4.rst,What is the default setting for backward compatibility?,False,the default is ``False``.,False,True,0.4,True,True,True,True,"```json
+{""answerable"": ""yes"", ""answer_correct"": ""yes"", ""self_contained"": ""yes"", ""unambiguous"": ""yes""}
+```"
+aad9e7d86780,cpy,cpy,Doc/library/smtplib.rst,What does the response examine for ESMTP?,ESMTP option,ESMTP option,False,True,1.0,True,True,True,True,"```json
+{""answerable"": ""yes"", ""answer_correct"": ""yes"", ""self_contained"": ""yes"", ""unambiguous"": ""yes""}
+```"
+088062abafb5,cpy,cpy,Doc/library/cgi.rst,When was the module removed?,removed in Python 3.13,removed in Python 3.13,False,True,1.0,True,True,True,True,"```json
+{""answerable"": ""yes"", ""answer_correct"": ""yes"", ""self_contained"": ""yes"", ""unambiguous"": ""yes""}
+```"
+85caa658e459,cpy,cpy,Doc/library/unittest.mock-examples.rst,What must be passed as the first argument?,self,``self``,False,True,1.0,True,True,True,True,"```json
+{""answerable"": ""yes"", ""answer_correct"": ""yes"", ""self_contained"": ""yes"", ""unambiguous"": ""yes""}
+```"
+ad64ea8013cb,cpy,cpy,Doc/library/fnmatch.rst,Which module uses the filter function?,:mod:`glob`,module :mod:`glob` uses :func:`.filter`,False,True,0.5,True,True,True,True,"```json
+{""answerable"": ""yes"", ""answer_correct"": ""yes"", ""self_contained"": ""yes"", ""unambiguous"": ""yes""}
+```"
+ca099ac0c186,cpy,cpy,Doc/faq/programming.rst,What does the tool convert into C code?,bytecode for modules,bytecode for modules written in Python,False,True,0.6666666666666666,True,True,True,True,"```json
+{""answerable"": ""yes"", ""answer_correct"": ""yes"", ""self_contained"": ""yes"", ""unambiguous"": ""yes""}
+```"
+a3b43838954b,cpy,cpy,Doc/library/linecache.rst,What method determines source lines?,get_source,``get_source`` method,False,True,0.6666666666666666,True,True,True,True,"```json
+{""answerable"": ""yes"", ""answer_correct"": ""yes"", ""self_contained"": ""yes"", ""unambiguous"": ""yes""}
+```"
+7fa1436d65d1,cpy,cpy,Doc/builtins/functions.rst,What must sep and end be?,strings,Both *sep* and *end* must be strings.,False,True,0.25,True,True,True,True,"```json
+{""answerable"": ""yes"", ""answer_correct"": ""yes"", ""self_contained"": ""yes"", ""unambiguous"": ""yes""}
+```"
+51c2ca9678d4,cpy,cpy,Doc/tutorial/stdlib2.rst,What do pack codes represent?,two and four byte unsigned numbers,two and four byte unsigned numbers,False,True,1.0,True,True,True,True,"```json
+{""answerable"": ""yes"", ""answer_correct"": ""yes"", ""self_contained"": ""yes"", ""unambiguous"": ""yes""}
+```"
+fca8ef9e2782,cpy,cpy,Doc/whatsnew/2.2.rst,What does a class method receive?,the class of the object,the class of the object,False,True,1.0,True,True,True,True,"```json
+{""answerable"": ""yes"", ""answer_correct"": ""yes"", ""self_contained"": ""yes"", ""unambiguous"": ""yes""}
+```"
+e6480b6443e0,cpy,cpy,Doc/bugs.rst,What is required to submit a bug report?,create a new account,log in to GitHub.,False,False,0.0,True,False,True,True,"```json
+{""answerable"": ""yes"", ""answer_correct"": ""no"", ""self_contained"": ""yes"", ""unambiguous"": ""yes""}
+```"
+0d03fe3fa9c4,cpy,cpy,Doc/tutorial/datastructures.rst,What happens if all items of two sequences compare equal?,The sequences are considered equal,sequences are considered equal.,False,True,0.888888888888889,True,True,True,True,"```json
+{""answerable"": ""yes"", ""answer_correct"": ""yes"", ""self_contained"": ""yes"", ""unambiguous"": ""yes""}
+```"
+3d5def529d50,cpy,cpy,Doc/library/tempfile.rst,What error is ignored during cleanup?,PermissionError,PermissionError removing open files on Windows,False,True,0.2857142857142857,True,True,True,True,"```json
+{""answerable"": ""yes"", ""answer_correct"": ""yes"", ""self_contained"": ""yes"", ""unambiguous"": ""yes""}
+```"
+5736364a6075,cpy,cpy,Doc/library/base64.rst,Which standard does it follow?,Base64 standard alphabet,Base64 standard alphabet.,False,True,1.0,True,True,True,True,"```json
+{""answerable"": ""yes"", ""answer_correct"": ""yes"", ""self_contained"": ""yes"", ""unambiguous"": ""yes""}
+```"
+d50daa9bee2d,cpy,cpy,Doc/faq/windows.rst,What is the startup overhead caused by?,two orders of magnitude,virus scanners configured to monitor all reads.,False,False,0.0,True,True,True,True,"```json
+{""answerable"": ""yes"", ""answer_correct"": ""yes"", ""self_contained"": ""yes"", ""unambiguous"": ""yes""}
+```"
+fdf1330c6562,cpy,cpy,Doc/reference/lexical_analysis.rst,Where must the encoding declaration appear?,a line of its own,On a line of its own.,False,True,0.9090909090909091,True,True,True,True,"```json
+{""answerable"": ""yes"", ""answer_correct"": ""yes"", ""self_contained"": ""yes"", ""unambiguous"": ""yes""}
+```"
+661db82e0e77,cpy,cpy,Doc/library/pathlib.rst,What is combined with the umask value?,mode,"*mode* is given, it is combined.",False,True,0.2857142857142857,True,True,True,True,"```json
+{""answerable"": ""yes"", ""answer_correct"": ""yes"", ""self_contained"": ""yes"", ""unambiguous"": ""yes""}
+```"
+10aa0c0c19aa,cpy,cpy,Doc/library/pickle.rst,What is the default protocol?,:data:`DEFAULT_PROTOCOL`,:data:`DEFAULT_PROTOCOL`,False,True,1.0,True,True,True,True,"```json
+{""answerable"": ""yes"", ""answer_correct"": ""yes"", ""self_contained"": ""yes"", ""unambiguous"": ""yes""}
+```"
+8df106d26f6f,cpy,cpy,Doc/tutorial/errors.rst,What is printed as the exception type?,the name of the built-in exception,the name of the built-in exception,False,True,1.0,True,True,True,True,"```json
+{""answerable"": ""yes"", ""answer_correct"": ""yes"", ""self_contained"": ""yes"", ""unambiguous"": ""yes""}
+```"
+393c2ec4095b,cpy,cpy,Doc/library/smtpd.rst,When was the module removed?,removed in Python 3.12,removed in Python 3.12,False,True,1.0,True,True,True,True,"```json
+{""answerable"": ""yes"", ""answer_correct"": ""yes"", ""self_contained"": ""yes"", ""unambiguous"": ""yes""}
+```"
+74397bbaf3c8,cpy,cpy,Doc/library/pty.rst,What is the return value of the function?,"(pid, fd)","“(pid, fd)”",False,True,1.0,True,True,True,True,"```json
+{""answerable"": ""yes"", ""answer_correct"": ""yes"", ""self_contained"": ""yes"", ""unambiguous"": ""yes""}
+```"
+7cb016fd3a03,cpy,cpy,Doc/library/doctest.rst,What triggers post-mortem debugging?,Unhandled exception,unhandled exception,False,True,1.0,True,True,True,True,"```json
+{""answerable"": ""yes"", ""answer_correct"": ""yes"", ""self_contained"": ""yes"", ""unambiguous"": ""yes""}
+```"
+845506b31e98,cpy,cpy,Doc/c-api/import.rst,What does the function return on failure?,-1,returning ``-1`` if the table could not be extended.,False,True,0.19999999999999998,True,True,True,True,"```json
+{""answerable"": ""yes"", ""answer_correct"": ""yes"", ""self_contained"": ""yes"", ""unambiguous"": ""yes""}
+```"
+2b5c9777430c,cpy,cpy,Doc/faq/general.rst,What does using the standard library teach students?,code reuse,code reuse.,False,True,1.0,True,True,True,True,"```json
+{""answerable"": ""yes"", ""answer_correct"": ""yes"", ""self_contained"": ""yes"", ""unambiguous"": ""yes""}
+```"
+67e43217a223,cpy,cpy,Doc/library/zipimport.rst,What can a ZIP archive contain?,a subdirectory structure,a subdirectory structure to support package imports,False,True,0.6,True,True,True,True,"```json
+{""answerable"": ""yes"", ""answer_correct"": ""yes"", ""self_contained"": ""yes"", ""unambiguous"": ""yes""}
+```"
+6ef27e6b1633,cpy,cpy,Doc/library/email.parser.rst,What policy is used by default?,compat32 <email.policy.Compat32>,:class:`compat32 <email.policy.Compat32>` policy,False,True,0.8,True,True,True,True,"```json
+{""answerable"": ""yes"", ""answer_correct"": ""yes"", ""self_contained"": ""yes"", ""unambiguous"": ""yes""}
+```"
+cd65c8683a70,cpy,cpy,Doc/library/abc.rst,What can an ABC be subclassed directly?,mix-in class,An ABC can be subclassed directly.,False,False,0.0,True,False,False,True,"```json
+{""answerable"": ""yes"", ""answer_correct"": ""no"", ""self_contained"": ""no"", ""unambiguous"": ""yes""}
+```"
+d0dd315f85e6,cpy,cpy,Doc/library/mailbox.rst,What is the parameter called?,Parameter *factory*,Parameter *factory* is a callable object.,False,True,0.5,True,True,True,True,"```json
+{""answerable"": ""yes"", ""answer_correct"": ""yes"", ""self_contained"": ""yes"", ""unambiguous"": ""yes""}
+```"
+723165676694,cpy,cpy,Doc/library/random.rst,What is the resulting list's order?,selection order,in selection order,False,True,0.8,True,True,False,True,"```json
+{""answerable"": ""yes"", ""answer_correct"": ""yes"", ""self_contained"": ""no"", ""unambiguous"": ""yes""}
+```"
+5e11a55830f1,cpy,cpy,Doc/library/concurrent.futures.rst,What happens to sys.stdout in another interpreter?,it will not be automatically redirected,not automatically redirected to any other interpreter.,False,False,0.4615384615384615,True,True,True,True,"```json
+{""answerable"": ""yes"", ""answer_correct"": ""yes"", ""self_contained"": ""yes"", ""unambiguous"": ""yes""}
+```"
+8050a807d8cf,cpy,cpy,Doc/library/email.mime.rst,What is the default subtype?,mixed,`mixed`,False,True,1.0,True,True,True,True,"```json
+{""answerable"": ""yes"", ""answer_correct"": ""yes"", ""self_contained"": ""yes"", ""unambiguous"": ""yes""}
+```"
+7793c60f2781,cpy,cpy,Doc/library/symtable.rst,What is the name for type parameter scopes?,the name of the underlying class,"underlying class, function, or type alias.",False,False,0.3333333333333333,True,True,True,True,"```json
+{""answerable"": ""yes"", ""answer_correct"": ""yes"", ""self_contained"": ""yes"", ""unambiguous"": ""yes""}
+```"
+df85ed83ffc6,cpy,cpy,Doc/library/numbers.rst,What provides defaults for float?,Rational.numerator,Provides defaults for :func:`float`.,False,False,0.0,True,False,True,True,"```json
+{""answerable"": ""yes"", ""answer_correct"": ""no"", ""self_contained"": ""yes"", ""unambiguous"": ""yes""}
+```"
+e0431bb4d254,cpy,cpy,Doc/library/gzip.rst,When will the mode of fileobj no longer be used?,In future Python releases,In future Python releases.,False,True,1.0,True,True,True,True,"```json
+{""answerable"": ""yes"", ""answer_correct"": ""yes"", ""self_contained"": ""yes"", ""unambiguous"": ""yes""}
+```"
+b2d77ea083e3,cpy,cpy,Doc/whatsnew/3.14.rst,Which GC was reverted in Python 3.14?,generational GC,incremental GC,False,True,0.5,True,True,True,True,"```json
+{""answerable"": ""yes"", ""answer_correct"": ""yes"", ""self_contained"": ""yes"", ""unambiguous"": ""yes""}
+```"
+8c6cf9143e60,cpy,cpy,Doc/c-api/sys.rst,What is returned if the object implements os.PathLike?,:meth:`~os.PathLike.__fspath__`,`~os.PathLike.__fspath__` as long as it is a `str` or `bytes` object.,False,False,0.3529411764705882,True,True,True,True,"```json
+{""answerable"": ""yes"", ""answer_correct"": ""yes"", ""self_contained"": ""yes"", ""unambiguous"": ""yes""}
+```"
+d3ed80ba98ed,cpy,cpy,Doc/c-api/intro.rst,Which function is used to finalize Python?,Py_FinalizeEx,:c:func:`Py_FinalizeEx`,False,True,0.5,True,True,True,True,"```json
+{""answerable"": ""yes"", ""answer_correct"": ""yes"", ""self_contained"": ""yes"", ""unambiguous"": ""yes""}
+```"
+574da21f7f0b,cpy,cpy,Doc/library/stat.rst,What is the size for FIFOs and sockets?,number of bytes waiting to be read,number of bytes waiting to be read.,False,True,1.0,True,True,True,True,"```json
+{""answerable"": ""yes"", ""answer_correct"": ""yes"", ""self_contained"": ""yes"", ""unambiguous"": ""yes""}
+```"
+9dc874c36fc5,cpy,cpy,Doc/library/shutil.rst,What is not used on Mac OS?,resource fork,resource fork and other metadata,False,True,0.5714285714285715,True,True,False,True,"```json
+{""answerable"": ""yes"", ""answer_correct"": ""yes"", ""self_contained"": ""no"", ""unambiguous"": ""yes""}
+```"
+4a39603a729f,cpy,cpy,Doc/library/zipapp.rst,Which OS interprets the shebang line?,POSIX,POSIX,False,True,1.0,True,True,True,True,"```json
+{""answerable"": ""yes"", ""answer_correct"": ""yes"", ""self_contained"": ""yes"", ""unambiguous"": ""yes""}
+```"
+004eff39eed7,cpy,cpy,Doc/library/email.parser.rst,What is the optional _factory?,no-argument callable,no-argument callable; if not specified use…,False,True,0.6,True,True,True,True,"```json
+{""answerable"": ""yes"", ""answer_correct"": ""yes"", ""self_contained"": ""yes"", ""unambiguous"": ""yes""}
+```"
+79160844fbff,cpy,cpy,Doc/howto/curses.rst,What replaced BSD curses?,ncurses,"ncurses, which is an open-source implementation.",False,True,0.25,True,True,True,True,"```json
+{""answerable"": ""yes"", ""answer_correct"": ""yes"", ""self_contained"": ""yes"", ""unambiguous"": ""yes""}
+```"
+607bf92c766e,cpy,cpy,Doc/library/sched.rst,What does the scheduler ensure?,a consistent state,a consistent state and propagate the exception.,False,True,0.6,True,True,True,True,"```json
+{""answerable"": ""yes"", ""answer_correct"": ""yes"", ""self_contained"": ""yes"", ""unambiguous"": ""yes""}
+```"

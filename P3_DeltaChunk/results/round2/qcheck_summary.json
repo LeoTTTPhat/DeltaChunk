@@ -1,0 +1,386 @@
+{
+ "summary": [
+  {
+   "scope": "all",
+   "n": 300,
+   "blind_agree": 0.8366666666666667,
+   "blind_agree_ci": [
+    0.7933333333333333,
+    0.8786910084451067
+   ],
+   "blind_agree_n": 300,
+   "blind_unanswerable": 0.0033333333333333335,
+   "blind_unanswerable_ci": [
+    0.0,
+    0.010135135135135136
+   ],
+   "blind_unanswerable_n": 300,
+   "answerable": 1.0,
+   "answerable_ci": [
+    1.0,
+    1.0
+   ],
+   "answerable_n": 300,
+   "answer_correct": 0.9433333333333334,
+   "answer_correct_ci": [
+    0.9139072847682119,
+    0.9699021739130435
+   ],
+   "answer_correct_n": 300,
+   "self_contained": 0.9466666666666667,
+   "self_contained_ci": [
+    0.9180327868852459,
+    0.9703971635030199
+   ],
+   "self_contained_n": 300,
+   "unambiguous": 1.0,
+   "unambiguous_ci": [
+    1.0,
+    1.0
+   ],
+   "unambiguous_n": 300,
+   "all_three_yes": 0.9433333333333334
+  },
+  {
+   "scope": "cpy",
+   "n": 100,
+   "blind_agree": 0.79,
+   "blind_agree_ci": [
+    0.7029441165270373,
+    0.8712871287128713
+   ],
+   "blind_agree_n": 100,
+   "blind_unanswerable": 0.0,
+   "blind_unanswerable_ci": [
+    0.0,
+    0.0
+   ],
+   "blind_unanswerable_n": 100,
+   "answerable": 1.0,
+   "answerable_ci": [
+    1.0,
+    1.0
+   ],
+   "answerable_n": 100,
+   "answer_correct": 0.94,
+   "answer_correct_ci": [
+    0.883495145631068,
+    0.9896907216494846
+   ],
+   "answer_correct_n": 100,
+   "self_contained": 0.92,
+   "self_contained_ci": [
+    0.8571428571428571,
+    0.9702970297029703
+   ],
+   "self_contained_n": 100,
+   "unambiguous": 1.0,
+   "unambiguous_ci": [
+    1.0,
+    1.0
+   ],
+   "unambiguous_n": 100,
+   "all_three_yes": 0.94
+  },
+  {
+   "scope": "k8s",
+   "n": 100,
+   "blind_agree": 0.8,
+   "blind_agree_ci": [
+    0.7171345811051693,
+    0.8775510204081632
+   ],
+   "blind_agree_n": 100,
+   "blind_unanswerable": 0.0,
+   "blind_unanswerable_ci": [
+    0.0,
+    0.0
+   ],
+   "blind_unanswerable_n": 100,
+   "answerable": 1.0,
+   "answerable_ci": [
+    1.0,
+    1.0
+   ],
+   "answerable_n": 100,
+   "answer_correct": 0.93,
+   "answer_correct_ci": [
+    0.8761904761904762,
+    0.9714353099730457
+   ],
+   "answer_correct_n": 100,
+   "self_contained": 0.94,
+   "self_contained_ci": [
+    0.8899722222222223,
+    0.9803921568627451
+   ],
+   "self_contained_n": 100,
+   "unambiguous": 1.0,
+   "unambiguous_ci": [
+    1.0,
+    1.0
+   ],
+   "unambiguous_n": 100,
+   "all_three_yes": 0.93
+  },
+  {
+   "scope": "wiki",
+   "n": 100,
+   "blind_agree": 0.92,
+   "blind_agree_ci": [
+    0.8613861386138614,
+    0.97
+   ],
+   "blind_agree_n": 100,
+   "blind_unanswerable": 0.01,
+   "blind_unanswerable_ci": [
+    0.0,
+    0.030303030303030304
+   ],
+   "blind_unanswerable_n": 100,
+   "answerable": 1.0,
+   "answerable_ci": [
+    1.0,
+    1.0
+   ],
+   "answerable_n": 100,
+   "answer_correct": 0.96,
+   "answer_correct_ci": [
+    0.92,
+    0.99
+   ],
+   "answer_correct_n": 100,
+   "self_contained": 0.98,
+   "self_contained_ci": [
+    0.9494949494949495,
+    1.0
+   ],
+   "self_contained_n": 100,
+   "unambiguous": 1.0,
+   "unambiguous_ci": [
+    1.0,
+    1.0
+   ],
+   "unambiguous_n": 100,
+   "all_three_yes": 0.96
+  },
+  {
+   "scope": "cpy",
+   "n": 100,
+   "blind_agree": 0.79,
+   "blind_agree_ci": [
+    0.7040816326530612,
+    0.8673804370232939
+   ],
+   "blind_agree_n": 100,
+   "blind_unanswerable": 0.0,
+   "blind_unanswerable_ci": [
+    0.0,
+    0.0
+   ],
+   "blind_unanswerable_n": 100,
+   "answerable": 1.0,
+   "answerable_ci": [
+    1.0,
+    1.0
+   ],
+   "answerable_n": 100,
+   "answer_correct": 0.94,
+   "answer_correct_ci": [
+    0.8823238206173558,
+    0.9896907216494846
+   ],
+   "answer_correct_n": 100,
+   "self_contained": 0.92,
+   "self_contained_ci": [
+    0.8585858585858586,
+    0.97
+   ],
+   "self_contained_n": 100,
+   "unambiguous": 1.0,
+   "unambiguous_ci": [
+    1.0,
+    1.0
+   ],
+   "unambiguous_n": 100,
+   "all_three_yes": 0.94
+  },
+  {
+   "scope": "k8s",
+   "n": 100,
+   "blind_agree": 0.8,
+   "blind_agree_ci": [
+    0.7187424150485436,
+    0.875
+   ],
+   "blind_agree_n": 100,
+   "blind_unanswerable": 0.0,
+   "blind_unanswerable_ci": [
+    0.0,
+    0.0
+   ],
+   "blind_unanswerable_n": 100,
+   "answerable": 1.0,
+   "answerable_ci": [
+    1.0,
+    1.0
+   ],
+   "answerable_n": 100,
+   "answer_correct": 0.93,
+   "answer_correct_ci": [
+    0.8775510204081632,
+    0.978952850877193
+   ],
+   "answer_correct_n": 100,
+   "self_contained": 0.94,
+   "self_contained_ci": [
+    0.8877551020408163,
+    0.9803969160479725
+   ],
+   "self_contained_n": 100,
+   "unambiguous": 1.0,
+   "unambiguous_ci": [
+    1.0,
+    1.0
+   ],
+   "unambiguous_n": 100,
+   "all_three_yes": 0.93
+  },
+  {
+   "scope": "wiki-other",
+   "n": 50,
+   "blind_agree": 0.94,
+   "blind_agree_ci": [
+    0.8775510204081632,
+    1.0
+   ],
+   "blind_agree_n": 50,
+   "blind_unanswerable": 0.0,
+   "blind_unanswerable_ci": [
+    0.0,
+    0.0
+   ],
+   "blind_unanswerable_n": 50,
+   "answerable": 1.0,
+   "answerable_ci": [
+    1.0,
+    1.0
+   ],
+   "answerable_n": 50,
+   "answer_correct": 0.96,
+   "answer_correct_ci": [
+    0.9019607843137255,
+    1.0
+   ],
+   "answer_correct_n": 50,
+   "self_contained": 0.96,
+   "self_contained_ci": [
+    0.8979591836734694,
+    1.0
+   ],
+   "self_contained_n": 50,
+   "unambiguous": 1.0,
+   "unambiguous_ci": [
+    1.0,
+    1.0
+   ],
+   "unambiguous_n": 50,
+   "all_three_yes": 0.96
+  },
+  {
+   "scope": "wiki-proximal",
+   "n": 50,
+   "blind_agree": 0.9,
+   "blind_agree_ci": [
+    0.8,
+    0.98
+   ],
+   "blind_agree_n": 50,
+   "blind_unanswerable": 0.02,
+   "blind_unanswerable_ci": [
+    0.0,
+    0.06
+   ],
+   "blind_unanswerable_n": 50,
+   "answerable": 1.0,
+   "answerable_ci": [
+    1.0,
+    1.0
+   ],
+   "answerable_n": 50,
+   "answer_correct": 0.96,
+   "answer_correct_ci": [
+    0.9,
+    1.0
+   ],
+   "answer_correct_n": 50,
+   "self_contained": 1.0,
+   "self_contained_ci": [
+    1.0,
+    1.0
+   ],
+   "self_contained_n": 50,
+   "unambiguous": 1.0,
+   "unambiguous_ci": [
+    1.0,
+    1.0
+   ],
+   "unambiguous_n": 50,
+   "all_three_yes": 0.96
+  }
+ ],
+ "meta": {
+  "time": "2026-11-10 15:48:39",
+  "host": "arm64",
+  "python": "3.12.12",
+  "versions": {
+   "numpy": "2.5.4",
+   "pandas": "3.1.1",
+   "langchain-text-splitters": "1.1.3",
+   "kara-toolkit": "0.3.2",
+   "steadlith": "1.0.1",
+   "fastcdc": "1.7.0",
+   "tokenizers": "0.22.2",
+   "sentence-transformers": "5.7.0",
+   "transformers": "4.57.6",
+   "torch": "2.15.0",
+   "hnswlib": "0.8.0",
+   "faiss-cpu": "1.15.1"
+  },
+  "threads": {
+   "P3_THREADS": 8,
+   "RAYON_NUM_THREADS": "8",
+   "TOKENIZERS_PARALLELISM": null,
+   "OMP_NUM_THREADS": "8"
+  },
+  "load": {
+   "top10": [
+    "739.1 11906384 llama-server",
+    "627.2 30972864 llama-server",
+    "197.4 10790064 Python",
+    "184.7 11067184 Python",
+    "182.0 11522704 Python",
+    "97.1 329360 python",
+    "80.3 25296912 llama-server",
+    "37.2 134544 python",
+    "27.5 126496 Runner.Listener",
+    "27.4 125264 Runner.Listener"
+   ],
+   "memwatch": {
+    "ts": "2026-11-10 15:48:37",
+    "project_gb": 9.02,
+    "system_gb": 150.2
+   }
+  },
+  "seconds": 720.3,
+  "model": "gemma3:27b",
+  "url": "http://127.0.0.1:8302",
+  "questions": 300,
+  "calls": 600,
+  "sampling": "salted sha256('r2-qcheck:<qid>') order within strata",
+  "prompts": {
+   "blind": "Read the passage and answer the question using only the passage. Reply with the answer only, in at most eight words, copied from the passage when possible. If the passage does not answer the question, reply UNANSWERABLE.\n\nPassage:\n{passage}\n\nQuestion: {question}\nAnswer:",
+   "judge": "You check questions for a retrieval benchmark. Each question was written from the passage below, and the reference answer should be copied from the passage.\n\nPassage:\n{passage}\n\nQuestion: {question}\nReference answer: {answer}\n\nAnswer each item with yes or no.\nanswerable: can the question be answered from the passage?\nanswer_correct: is the reference answer a correct answer to the question according to the passage?\nself_contained: would a reader understand what is asked without seeing the passage (no unresolved words such as 'this', 'these' or 'the above' that need the passage)?\nunambiguous: does the question have one clear answer rather than several plausible ones?\nReply with JSON only: {{\"answerable\": \"yes|no\", \"answer_correct\": \"yes|no\", \"self_contained\": \"yes|no\", \"unambiguous\": \"yes|no\"}}"
+  }
+ }
+}

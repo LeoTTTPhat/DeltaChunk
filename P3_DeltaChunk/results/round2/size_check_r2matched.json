@@ -1,0 +1,262 @@
+{
+ "REC": {
+  "wiki": {
+   "realized": 129.8,
+   "target": 129.8,
+   "rel_dev": 0.0,
+   "within_5pct": true
+  },
+  "k8s": {
+   "realized": 131.2,
+   "target": 131.2,
+   "rel_dev": 0.0,
+   "within_5pct": true
+  },
+  "cpy": {
+   "realized": 131.1,
+   "target": 131.1,
+   "rel_dev": 0.0,
+   "within_5pct": true
+  }
+ },
+ "FIX": {
+  "wiki": {
+   "realized": 124.3,
+   "target": 129.8,
+   "rel_dev": -0.0424,
+   "within_5pct": true
+  },
+  "k8s": {
+   "realized": 126.5,
+   "target": 131.2,
+   "rel_dev": -0.0358,
+   "within_5pct": true
+  },
+  "cpy": {
+   "realized": 127.3,
+   "target": 131.1,
+   "rel_dev": -0.029,
+   "within_5pct": true
+  }
+ },
+ "STRUCT-M": {
+  "wiki": {
+   "realized": 125.8,
+   "target": 129.8,
+   "rel_dev": -0.0308,
+   "within_5pct": true
+  },
+  "k8s": {
+   "realized": 148.2,
+   "target": 131.2,
+   "rel_dev": 0.1296,
+   "within_5pct": false
+  },
+  "cpy": {
+   "realized": 130.7,
+   "target": 131.1,
+   "rel_dev": -0.0031,
+   "within_5pct": true
+  }
+ },
+ "SentCDC": {
+  "wiki": {
+   "realized": 127.3,
+   "target": 129.8,
+   "rel_dev": -0.0193,
+   "within_5pct": true
+  },
+  "k8s": {
+   "realized": 158.1,
+   "target": 131.2,
+   "rel_dev": 0.205,
+   "within_5pct": false
+  },
+  "cpy": {
+   "realized": 133.2,
+   "target": 131.1,
+   "rel_dev": 0.016,
+   "within_5pct": true
+  }
+ },
+ "STL": {
+  "wiki": {
+   "realized": 127.8,
+   "target": 129.8,
+   "rel_dev": -0.0154,
+   "within_5pct": true
+  },
+  "k8s": {
+   "realized": 127.9,
+   "target": 131.2,
+   "rel_dev": -0.0252,
+   "within_5pct": true
+  },
+  "cpy": {
+   "realized": 126.8,
+   "target": 131.1,
+   "rel_dev": -0.0328,
+   "within_5pct": true
+  }
+ },
+ "KARA": {
+  "wiki": {
+   "realized": 120.5,
+   "target": 129.8,
+   "rel_dev": -0.0716,
+   "within_5pct": false
+  },
+  "k8s": {
+   "realized": 118.9,
+   "target": 131.2,
+   "rel_dev": -0.0937,
+   "within_5pct": false
+  },
+  "cpy": {
+   "realized": 122.4,
+   "target": 131.1,
+   "rel_dev": -0.0664,
+   "within_5pct": false
+  }
+ },
+ "STRUCT-NM": {
+  "wiki": {
+   "realized": 94.6,
+   "target": 94.6,
+   "rel_dev": 0.0,
+   "within_5pct": true
+  },
+  "k8s": {
+   "realized": 65.3,
+   "target": 65.3,
+   "rel_dev": 0.0,
+   "within_5pct": true
+  },
+  "cpy": {
+   "realized": 44.3,
+   "target": 44.3,
+   "rel_dev": 0.0,
+   "within_5pct": true
+  }
+ },
+ "REC@nm": {
+  "wiki": {
+   "realized": 94.4,
+   "target": 94.6,
+   "rel_dev": -0.0021,
+   "within_5pct": true
+  },
+  "k8s": {
+   "realized": 65.6,
+   "target": 65.3,
+   "rel_dev": 0.0046,
+   "within_5pct": true
+  },
+  "cpy": {
+   "realized": 44.5,
+   "target": 44.3,
+   "rel_dev": 0.0045,
+   "within_5pct": true
+  }
+ },
+ "KARA@match": {
+  "wiki": {
+   "realized": 129.9,
+   "target": 129.8,
+   "rel_dev": 0.0008,
+   "within_5pct": true
+  },
+  "k8s": {
+   "realized": 134.6,
+   "target": 131.2,
+   "rel_dev": 0.0259,
+   "within_5pct": true
+  },
+  "cpy": {
+   "realized": 131.0,
+   "target": 131.1,
+   "rel_dev": -0.0008,
+   "within_5pct": true
+  }
+ },
+ "STRUCT-M@match": {
+  "wiki": {
+   "realized": 129.9,
+   "target": 129.8,
+   "rel_dev": 0.0008,
+   "within_5pct": true
+  },
+  "k8s": {
+   "realized": 131.0,
+   "target": 131.2,
+   "rel_dev": -0.0015,
+   "within_5pct": true
+  },
+  "cpy": {
+   "realized": 131.4,
+   "target": 131.1,
+   "rel_dev": 0.0023,
+   "within_5pct": true
+  }
+ },
+ "SentCDC@match": {
+  "wiki": {
+   "realized": 129.9,
+   "target": 129.8,
+   "rel_dev": 0.0008,
+   "within_5pct": true
+  },
+  "k8s": {
+   "realized": 134.4,
+   "target": 131.2,
+   "rel_dev": 0.0244,
+   "within_5pct": true
+  },
+  "cpy": {
+   "realized": 133.2,
+   "target": 131.1,
+   "rel_dev": 0.016,
+   "within_5pct": true
+  }
+ },
+ "STL@match": {
+  "wiki": {
+   "realized": 129.3,
+   "target": 129.8,
+   "rel_dev": -0.0039,
+   "within_5pct": true
+  },
+  "k8s": {
+   "realized": 131.3,
+   "target": 131.2,
+   "rel_dev": 0.0008,
+   "within_5pct": true
+  },
+  "cpy": {
+   "realized": 131.8,
+   "target": 131.1,
+   "rel_dev": 0.0053,
+   "within_5pct": true
+  }
+ },
+ "FIX@match": {
+  "wiki": {
+   "realized": 129.9,
+   "target": 129.8,
+   "rel_dev": 0.0008,
+   "within_5pct": true
+  },
+  "k8s": {
+   "realized": 131.3,
+   "target": 131.2,
+   "rel_dev": 0.0008,
+   "within_5pct": true
+  },
+  "cpy": {
+   "realized": 131.2,
+   "target": 131.1,
+   "rel_dev": 0.0008,
+   "within_5pct": true
+  }
+ }
+}

@@ -1,0 +1,130 @@
+{
+ "time": "2026-11-10 17:48:01",
+ "host": "arm64",
+ "python": "3.12.12",
+ "versions": {
+  "numpy": "2.5.4",
+  "pandas": "3.1.1",
+  "langchain-text-splitters": "1.1.3",
+  "kara-toolkit": "0.3.2",
+  "steadlith": "1.0.1",
+  "fastcdc": "1.7.0",
+  "tokenizers": "0.22.2",
+  "sentence-transformers": "5.7.0",
+  "transformers": "4.57.6",
+  "torch": "2.15.0",
+  "hnswlib": "0.8.0",
+  "faiss-cpu": "1.15.1"
+ },
+ "threads": {
+  "P3_THREADS": 8,
+  "RAYON_NUM_THREADS": "8",
+  "TOKENIZERS_PARALLELISM": "false",
+  "OMP_NUM_THREADS": "8",
+  "torch_num_threads": 8
+ },
+ "load": {
+  "top10": [
+   "865.0 14793648 llama-server",
+   "100.0 216880 INDEX",
+   "98.7 411136 INDEX",
+   "97.9 438272 INDEX",
+   "96.6 350304 INDEX",
+   "96.0 398160 INDEX",
+   "95.7 13605728 python",
+   "95.7 372464 INDEX",
+   "64.5 203664 idle",
+   "55.9 159584 idle"
+  ],
+  "memwatch": {
+   "ts": "2026-11-10 17:47:58",
+   "project_gb": 18.79,
+   "system_gb": 101.51
+  }
+ },
+ "seconds": 3141.0,
+ "questions": 900,
+ "background_chunks": 30000,
+ "resumed_chunkers": [],
+ "checkpoint": "results/raw/e4/8671f9cc3ab463db",
+ "bg_mode": "rec",
+ "bg_target": 30000,
+ "embed": {
+  "encoded": 238263,
+  "hits": 591432,
+  "calls": 61,
+  "seconds": 1758.8995622930233
+ },
+ "T": "128",
+ "achieved_tok": {
+  "REC": {
+   "wiki": 129.8,
+   "k8s": 131.2,
+   "cpy": 131.1
+  },
+  "FIX": {
+   "wiki": 124.3,
+   "k8s": 126.5,
+   "cpy": 127.3
+  },
+  "STRUCT-M": {
+   "wiki": 125.8,
+   "k8s": 148.2,
+   "cpy": 130.7
+  },
+  "SentCDC": {
+   "wiki": 127.3,
+   "k8s": 158.1,
+   "cpy": 133.2
+  },
+  "STL": {
+   "wiki": 127.8,
+   "k8s": 127.9,
+   "cpy": 126.8
+  },
+  "KARA": {
+   "wiki": 120.5,
+   "k8s": 118.9,
+   "cpy": 122.4
+  },
+  "STRUCT-NM": {
+   "wiki": 94.6,
+   "k8s": 65.3,
+   "cpy": 44.3
+  },
+  "REC@nm": {
+   "wiki": 94.4,
+   "k8s": 65.6,
+   "cpy": 44.5
+  },
+  "KARA@match": {
+   "wiki": 129.9,
+   "k8s": 134.6,
+   "cpy": 131.0
+  },
+  "STRUCT-M@match": {
+   "wiki": 129.9,
+   "k8s": 131.0,
+   "cpy": 131.4
+  },
+  "SentCDC@match": {
+   "wiki": 129.9,
+   "k8s": 134.4,
+   "cpy": 133.2
+  },
+  "STL@match": {
+   "wiki": 129.3,
+   "k8s": 131.3,
+   "cpy": 131.8
+  },
+  "FIX@match": {
+   "wiki": 129.9,
+   "k8s": 131.3,
+   "cpy": 131.2
+  }
+ },
+ "device": "cpu",
+ "model": "BAAI/bge-small-en-v1.5",
+ "passage_prefix": "",
+ "sentence_window_radius": null
+}
